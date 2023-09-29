@@ -3,7 +3,7 @@ title = 'every journey starts somewhere'
 series = []
 date = 2023-09-27T12:41:01+01:00
 style = '5ePHB'
-draft = false
+draft = true
 +++
 
 "Blovo" is a Hill Dwarf. he has been raised by a farming human couple (Krogg and Portclia Ephenbald), living quite far away from other towns or settlements. the couple lived in a long and narrow glen, a dead-end valley surrounded by tall mountains, about a 4 hour walk through hard terrain from the end of the valley. life was hard there and the weather extreme at times, but for some reason they decided to settle there and were usually left alone. they were not unfriendly but were mostly self-sufficient and didn't visit the closest village (really just a sparse group of farmhouse) often, perhaps 4 times a year, mostly just Krogg to barter and keep in touch.

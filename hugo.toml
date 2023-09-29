@@ -1,6 +1,7 @@
 baseURL = 'https://www.nonmachinepeople.net/'
 languageCode = 'en-gb'
 title = 'non-machine people'
+buildDrafts = true
 
 [module]
 [[module.imports]]

@@ -92,6 +92,8 @@ a short rest, at some point it starts to rain, it would erase all traces. some n
 
 cold breakfast, empty common room, quiet streets. the wagon with flowers from the funeral is still outside.  I should talk to the druid. p108
 
+(chapter 2 was about 1 h of play)
+
 \page
 
 # Chapter 3

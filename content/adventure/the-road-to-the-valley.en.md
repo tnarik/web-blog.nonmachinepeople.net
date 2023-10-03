@@ -97,3 +97,50 @@ cold breakfast, empty common room, quiet streets. the wagon with flowers from th
 \page
 
 # Chapter 3
+this is a very quiet wood. beautiful and peaceful, but eeily quiet.  p122
+I stopped in a clearing to drink some water and now looked around (7 + 4 x 2 due to the forest being my favoured terrain) -> p155
+there is a beast there. a stirge, of course. let's fight a bit! 
+1st, I quickly take my bow and attack right before it turns to see me. p144
+my first arrow hits, doing 8 damage and finishing the haggard stirge while it was turning towards me. p138
+I take a brief rest and the woods stay as quiet as before. nothing changed. I keep going to the druid's. p150
+I get there, to what looks like a cottage with almost no walls. just some simple furniture around. hold on, there is some kind of wolf in the grove. I bet this is the druid. I just walk into the grove. p156
+the wolf gets into view, defensive, but not aggresive, I think. something red on it's muzzle. looks like blood. I approach it peacefully. p 110
+it looks confused (I think he was trying to intimidate me a bit), I just talk to it normally, IN DWARVISH because I'm pretty sure it is Roi and I'm a dwarf. p134
+yes, it can understand me. but it doesn't transform, he goes into the cabin and comes back with a wooden druid symbol. yep, this is the druid indeed. p158
+"why don't you revert back? let's talk, Roi." he shakes his head. motions me to follow (I can tell by the way he  moves and waits). inside everything is quite sloppy and disarrayed. he pints with his snout to some scrolls. I go throuht them and he puts his paw on one, "Doppleganger's Curse" aka Polypiox. ah, not a werewolf then, but some disease which means he cannot control his changes. he might even get amnesia.
+there is a recipe for a cure (with wolfsbane, sage and hornwort). I can get the herbs from Tomlin or from around. "are you sure it is polypox?" p 113
+yep, he  is.
+let me search around. p146
+looking for sage. p125
+no need to the double proficiency from the terrain. p109
+succeess. now for some hornwort  p 120
+there is a shallow pond. I search with help from Roi. p131
+success! now wolfsbane. p 133
+Roi helped again (and I have lived in the woods for days at a time) p154
+so I collect some, carefully to avoid toxins. Roi darts to the grove. p140
+I brew some tea out of the ingredients, pour it into a bowl. Roi laps his medicine. he lies down,, and I wait with him, comfortable on the ground. apparently passed via the stirge by somebody or something else. he gives me the Silverstar, a gift from Solaine's predecessor, a cleric.
+
+Roi needs to rest, but I'll ask a couple of questions. first the scrapling claw. p163
+not the killer (I didn't think so). but he transforms it into a +1 club for a week.
+"before I leave, just a quick question: when did you get sick?"  p135
+sniffling aoround new moon, he says, sneezing and chaging a couple of weeks later, he says. and Maybelline died on a full moon. hummm
+he doesn't think he suffers amnesia. he wasn't sneezing during the full moon, aparently. today was the first change. he laughs the hint of a suspicion off.
+
+polypox is bloodborne, he is pretty sure it was the stirge (me too, he seems sincere), not from a werewolf, but werewolves can get polypox, or just be carriers.
+
+"Well, Roi, thanks. take care", p 124
+I get back and eat, have some bad dreams about being attacked by rosebushes or running around in all fours. Also dreamt with the shape from last night. wake up startled. I don't see anything outside the window. but... I'll try to keep watch, forgot about that shape. p160
+nothing happened, just that rest was short.
+
+sun rises and there is a knock at the door. p128
+the innkeeper brought a hot breakfast. Solaine has been asking for me last night and this morning. will I visit her? she asked for me to go to the temple. she thinks she can help.
+
+oh, is this a note from the mayor? "thanks". I eat and read.  p164
+
+there is a new lead. I'm commanded to go to the town hall.
+I'm not sure I like being commanded, and I'm spending too long here instead of looking into my origins while going back to the Ephenbald farm, but... ah, hell, I also wanted more experiences. p165
+
+(1h more or less)
+\page
+
+# Chapter 4

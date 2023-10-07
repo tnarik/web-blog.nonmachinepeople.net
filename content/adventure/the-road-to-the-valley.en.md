@@ -98,7 +98,7 @@ cold breakfast, empty common room, quiet streets. the wagon with flowers from th
 
 # Chapter 3
 this is a very quiet wood. beautiful and peaceful, but eeily quiet.  p122
-I stopped in a clearing to drink some water and now looked around (7 + 4 x 2 due to the forest being my favoured terrain) -> p155
+I stopped in a clearing to drink some water and now looked around (7 + 4 x 2 due to the forest being my favoured terrain,… but it should have been 7 + 4  + 2 because only the proficiency bonus was doubled. I will let it pass this time) -> p155
 there is a beast there. a stirge, of course. let's fight a bit! 
 1st, I quickly take my bow and attack right before it turns to see me. p144
 my first arrow hits, doing 8 damage and finishing the haggard stirge while it was turning towards me. p138
@@ -144,3 +144,5 @@ I'm not sure I like being commanded, and I'm spending too long here instead of l
 \page
 
 # Chapter 4
+
+

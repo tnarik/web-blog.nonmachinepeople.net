@@ -57,7 +57,7 @@ he kind of got angry, but quickly seems ashamed and says he was with friends, at
 let me investigate p83 (because of the success)
 but, where was (maybelline? p104))
  
-it was a full moon and she didn;t go out, she was superstitious. Tomlin was meeting a childhood friend with osme marital issues.
+it was a full moon and she didn't go out, she was superstitious. Tomlin was meeting a childhood friend with osme marital issues.
 was it just him and friends in the tavern? 7 p74
 Solaine was also there. they were lovers before her pilgrimage. while she was away, Maybelline and him fell in love.
 Solaine w not so happy, but Tomlin thinks she came arouun. she would have performed the wedding. It is her or Roi
@@ -145,4 +145,54 @@ I'm not sure I like being commanded, and I'm spending too long here instead of l
 
 # Chapter 4
 
+almost a normal day, but not really, p193
+the mayor says I should go and check the strangers living outside town (I think she refers to those). they make people uncomfortable, it seems. um... p212
+I think they might not be related to the murder, but might know something, and being outsiders might be more impartial. I'm not going to ask for more money. p232
+bandits, she calls them now. don't think that's what they are either. ok, let's check it out. back to the forest trails. p176
+a normal forest this time, it seems calm and peaceful. p215
+a clearing with a dryad and a robin. I heard about this creature, didn't meet any yet. I'm not going to attack. I should sneak, that's none of my business right now.  (p168 is an errata, it should be p203).
+I try to go without disturbing her, stealthy. oh, I  fail. (but p198 is an errata, as it is for a SUCCESSFUL roll. so... p230  it is).
+I step on a dry twig and then a pile of dried leaves. clearly not the day to be quiet. she reacts like about to attack,, but hesitates, a spell at the ready. ok, let's talk. p200
+she peaks broken Common. do I know Sylvan? I think I don't. arg. p177
+it would have to do. "strings grab friends" nets? lassos? I will try to help. I'm a ranger anyway, protecting nature is my thing. gives me a potion of barkskin (a toughener of sorts). it seems the camp is empty for now (the strangers/bandits are gone for a while). ask for directions.  p195
+she guides me, graceful and quiet, to an entrance point into another clearing. a firepit with trash from meals, charred bones and old porridge. not a lush clearing. this are hunters, or poachers. p182
+no kindling around for tonight, it seems. something is kept outside of animals reach, hanging from a tree. but other than that is like a trashy bivouac place. I investigate thoroughly, inspired by the forest. due to the advantage, I rolled twice and got a natural crit the second roll. p207
+what I see:
+- a warrant made out to Horace and Titch of 100s of gp (information) or 1000s (capture dead or alive) for the Wolf of the Road, which has an Orcish name (pretty obvious it is Orciash). They killed a constable in Three Rivers. I take this with me. I guess the bandits/strangers are these "Horace" and "Titch" individuals. gear is tattered and in disrepair.
+- on a second oilcloth: an agate brooch (15gp) and a flimsy jeweled dagger (5gp). p183
 
+night is coming. days are short here, damn! I get to town with the sun set, stairs starting to shine. (a letter from/to Emmitt is mentioned, but I don't have any and a quick search doesn't seem to mention  any either. um... my version might be OLD/WRONG... I think it refers to the warrant?).
+the mayor received some sealed message, she is NOT at the town hall. I get the address to her house. cool. p206
+two figures (Horace and Titch, I guess) are waiting when the mayor comes. do I read some tension? they greet each other not very friendly. but go into the house together, with Horace first, and Titch last. Light illuminates the window, the door is shut. I get closer.  p197
+small and neglected garden, stones and timber. angrily raised voices come from inside.
+I keep listening.  p188
+they are shouting, the guard dog barks. p229
+they are angry, but I cannot tell anything else. I'll knock. p205
+conversation goes silent. the mayor inquires who is there. who? me, is everything ok? further silence, the mayor opens the door. she seems courteous now. wtf?
+I step in. the lean bandit has a dagger at her back? oh, my. the Mayor seems to ignore all the guy. what is going on?
+am I a hostage? the mayor gestures me to comply. ok, but... p209
+not a hosting situation, but they are menacing somehow. mayor and dog are furious but restrain themselves. hinting at...  the Mayor or one of them knowing more about the killing due to a revealed secret? oh, shit. p192
+so, the Mayor is the Wolf of the Road, these guys (yes, Horace and Titch) say. they have a poster linked to the warrant I have. I say what I know: no sense threatening with reinforcements or their party (there is none), no additional proof. their gambit didn't work, the mayor is going to retaliate, I guess. I threaten them. just want them to go away and sort this out with the mayor. p199
+oh, I cannot intimidate them. so p228
+it is fighting time. p178
+I take TItch, while the Mayor and Buttercup engage Horace.
+Titch tries to swing at me with a dagger. and hits, a bit more than a glance, 4 HP.
+I draw my shortsword and hit for 8HP, nice. this will end soon.
+Titch hits again, 4 HP.
+but now I have my two shortswords out. He dodges my first strike, but the second one hits fully, 6HP.
+My part is done. p184
+I don't kill Titch, the Mayor stops the fight. Horace surrenders, having thrown his knife. the Mayor has the weapon at the ready, doesn't want more fight. It might be that she was this killer, but her ways changed. I choose to believe this. and I choose to let the bandit live, the poor bastard. p231
+did the stupid Horace treathen me AFTER I let his friend live? stupid guy. they leave. p191
+I give what I found to the Mayor. I would expect an explanation. she says she did not kill the constable. he was alive when she escaped with Buttercup.
+so, she was the leader of a band of bandits, a bandit crew. and Wolf of the Road was her name, and they operated around Three Rivers. crime after not fitting within orc nor human societies, after being a warrior.
+H and T broke into the home of a resistance leader, to threaten him about making life easier for the bandits, but overdid it and beat him to death.
+
+the Mayor didn't want to feel responsible for further deaths, and left, escaped. all this by making the bandits raid an invading force, with her disappearing in the chaos. the town assumed she was a veteran and she didn't correct them. just lied. Maybelline had found out, from H or T making noise. the Mayor thinks there was redemption or that at least she was not a murderer. that's not what Maybelline thought. p221
+that's what they argued about, I think. and she is really sad and wishing for a resolution. she is also grateful. I ask for something to protect myself. p172
+she gives me an amulet she was wearing around her neck, a lesser amulet of the beast. p222
+what doesn't burn now should really burn. p211
+her secret is safe. Buttercup is licking my palm. I'll earn this dog trust. back to the inn, I need some rest. p202
+completely empty streets, a single long and low howl. already cold dinner, going to bed with a faint howl in the distance. p236
+
+(1h30')
+this will be a long rest, more on that later.

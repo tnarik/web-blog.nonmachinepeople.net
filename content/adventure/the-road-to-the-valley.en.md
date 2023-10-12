@@ -201,3 +201,92 @@ this will be a long rest, more on that later.
 
 # Chapter 5
 
+the sun temple is old, a limestone building seemingly predating the town. I got in, but there is nobody around. I’ll explore. p296
+
+from the central hall I head towards the dining hall. they might be having breakfast. p267
+
+let’s explore the dining room further. p277
+
+nothing. the kitchen perhaps? p280
+
+a single setting of cutlery’s and plates. is Solaine the only one here? the kitchen is windowless, the dining room had 5 tables with 8 seats each. the stove is not used very much (rusty), but there is ash around the door. umm p244
+there us some fabric or clothing charred remains.  let’s see. p269
+
+p255
+these are burned holy vestments. not in good condition before burning. seams burst, one cuff has blood? droplets. it crumbles
+
+what is there in the larder? p310
+
+forgotten food: veggies, potatoes, bread. moldy and wilted. but fresh meat, plenty of it. with… small bite marks? I “smell” werewolf. back to the front hall. p296
+
+up north towards the library. p258
+
+pretty large, books and scrolls on one table. nobody. religious texts and some history tomes. something about treaty common curses. also a black book with a title not in Common, bound with skin other than a leather. and a metal lock open. 
+let’s check the book on curses. p281
+“Compendium of Curses 17th Edition”, with descriptions of curses, diagrams of wards and sections with cures. what was the cleric reading about? p 288
+on a page with Lwelyn’s face and lycanthropy there is a sheet with a note. elegant calligraphy but some words are crossed out and there are small marks of… tears? A letter to Tomlin, I believe. “a truly changed woman’, mentions to a darkness blooming, and it is unfinished. Leave the letter where it is. p279
+what about the black book? p314
+sharkskin? brimstone smell and oily touch. I don’t think I can understand this book.p249
+black sun, weapons, sharp  tools, study of corpses or bones. a note  (“This one”) on an entry with images of animated corpses?. I go back, p296
+
+living quarters, p245
+
+30 room, 6 on each side + 1. only the one on the far end is closed. skylighted hall,, morning sunshine. dusty. let’s check the area (I’m investigating, of course). p240
+p287
+do not really see anything. I knock, p253.
+nothing. open and walk in. p302
+not empty, sparse. check before and table. p311
+neat, do not  think it was used recently. there  is also an envelope, opened many times already. I will check this. p242
+A love letter: A Thyme  for Love in the Sun, by Tomlin,, to Solaine. very bad poem. returned and look  at the wardrobe. p275
+religious vestments, one very repaired, very recently. some gap between it and the wall. let’s see, p299
+even though I’m weak in general, it looks like I’m strong enough to push the closet aside. perhaps because of the very good rest from last night. p238
+I retrieve a ribbon. p247
+a lavender strip of silk. bloodstained. lavender was a favourite of Maybelline.
+
+I go back to the hall. p296
+and wait for Solaine. p270
+waiting is  so dumb. let’s check the…  golden floor mosaic. p243
+there are no tiles. it looks like a single  stone (or magic). there  is some  indentation on the central holy symbol. gnome hand size, the shape  of a smaller  sunburst.  umm. p241
+I investigate. p283
+no clue. let’s press on it. p303
+ups, some  magic build up. I manage to dodge the  light, but it feels like it could have hurt a bit. the  seam disappears, it looks like something got back into place, the opening is hidden now. oh, my. let’s see the tapestries. p290
+
+they depict the holy order raising the temple and banishing the undead. darkness and the undead devouring people, holy figures appearing, a ring formation and light striking, a ring of green plants and blue skies. with a band of black earth and floating dark red eyes. waiting. does it remind me of anything? p309
+
+p257
+this is an ancient order of sun worshippers. 100s or 1000s  of years ago. while the order has a presence (even one) and dedication to the light, the area is protected. do not remember more. I’ll just have to wait longer. p294
+
+she finally returns to the temple. hem of the robe soiled black, some soil clumps falling  from her slippers. I startled her.p268
+she is alone here perhaps overwhelmed but acting as if it is ok. big smiles. 
+what about the undead? p248
+Tomlin? p315
+is common knowledge. she doesn’t  hide the story.
+ok, let’s check the body. p289
+she says I cannot. why? p295
+p254
+
+see  seems  afraid. not sure  what from. she says it is out of concern about the family,  not fear. ok. but I can check. p293
+I  go alone, to the cemetery,, entering from the north. a  bright day. the mausoleum is  in the center of the graveyard. uh-oh, a grave with some black earth, but not dug up? undead? let’s check, do not want to risk a surprise while investigating. p264
+dug from underneath.  a person dead for decades. a crack in its skull and a broken piece of paving half-buried in the dark soil (the unusually dark soil). seems  thrown there.
+
+check  Maybelline, what a morning. p276
+oh, Maybelline is reanimated. will have to fight her. p286
+I’m faster, move back within the mausoleum and  take my bow, readying an arrow. 9 HP. I move further to put distance between us, making her come out, I think I’m faster. it approaches and remains 5 feet away. 
+I now do the same thing again, putting distance in between and sending an arrow her way. see is pretty weak now, it seems. comes near me, still not within reach. I drop the bow and get a sword out, ready for the next attack.  but there is a burst of movement  and she gets next to me, slamming  me. ups,  that hurt! I swing my sword, 2HP to go. 
+take  my second sword out, attack. and done. p297
+for a second it looks like that last blow might not  really do it, but  after some last death rattle (undeath rattle?) she drops dead. again? p246
+look at that. p262
+I recover  my  bow and one arrow. the other one broke.
+the previous wounds seem inflicted by a wild animal. broad  and deep claw marks. not very forest beast like. a rage driven attack based on the patterns and random look. I look at the bouquet of pink flowers she dropped. p307
+the only flowers I see around, with a tag signed by Tomlin. daisies in the mix. p250
+ah, Solaine is still there. I think she has doubts about her  faith, and she is not paying attention to me. I need to interrupt her, p306
+yep, I’ll tell the mayor. to me, Solaine is not a member of the order any more. or not a dedicated one. but… well, I leave. she goes back to the library. p252
+
+I’ll go on patrol, I can take a rest before that, recovering from the fight. and ready to go. p301
+no zombies or ghouls. but two body remains, torn apart it seems. same kind of wounds as Maybelline had. I come back in the wee hours, and fall asleep. 
+no food at the door, but the mayor is having breakfast waiting for me. in  the common  area. p317
+
+\page
+# Chapter 6
+
+

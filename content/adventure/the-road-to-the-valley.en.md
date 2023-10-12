@@ -196,3 +196,8 @@ completely empty streets, a single long and low howl. already cold dinner, going
 
 (1h30')
 this will be a long rest, more on that later.
+
+(7 hours later, at 5:30 AM) but before going to bed I study the amulet and the silverbane, reflecting on both the fight from tonight and the druid sickness. I attuned. and then go to bed, having a good and relaxing night and recovering fully. breakfast is ready as well as a note of gratitude from the mayor. The funeral will be tomorrow, so I better go to the temple to inspect the body. and talk to Solaine, which is well overdue. p237
+
+# Chapter 5
+

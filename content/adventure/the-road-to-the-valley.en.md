@@ -289,4 +289,22 @@ no food at the door, but the mayor is having breakfast waiting for me. in  the c
 \page
 # Chapter 6
 
+I should be ready for an accusation. although I’m not entirely sure I may need more information. I think it’s Solaine but I don’t have an unequivocal proof. p334
+I get to the town square and everything seems ready. a Document is being read by the mayor’s aide. Lots of common folk around, and also the main people I talked to these days.
+
+It’s a bit of a tough decision, and I hate accusing anyone without a full proof. But I think Solaine is affected by lycanthropy. and so she killed without being hundred percent conscious. Therefore j’accuse. p341
+I will use the silk ribbon as proof. p355
+this is a bit of a gambit/bait because Maybelline was wearing the pink ribbon, and it is a bit circumstantial (could have gotten there in a different way).
+Tomlin is upset and tries to attack her. he is stopped. she looks at Tomlin. I would say she is angry at the betrayal. love, I think, not a plan gone awry. I have no more proof. I rest my case. p340
+two militia men approach her. she sounds defiant. All kindness gone. she sounds aggressive, like going mad p320
+yep, she just transformed into a werewolf. well, she is a werewolf and transformed into the beasty version. she takes down there to militia men that were flanking her, and charges towards Tomlin. p329
+people stampedes. because of people fleeing, I cannot jump into action, she takes Tomlin through the crowd with one long claw, climbs the wall of a building, howls, and runs towards the temple. Roy thinks it’s a curse that can be cured. Probably who is the medallion, the silverstar. I run to the temple. p360
+I unseath and run as fast as I can.  a scream. Tomlin is in a pool of blood. I got too late. Solaine definitely left a trail, going into the temple. not panicking (and thinking she cannot leave without me knowing), I examine the murder scene. (p322 is an errata… let me see… p342).
+I check for clues about the threat she poses. I’m inspired by the last days of getting to know the town and this people. p347
+these were angry blows, and precise with the intent to kill. But see maybe remorseful. I go in, both swords at the ready. p324
+when I get in, everything seems darker, more menacing. there is a spiral staircase in the main hall. darkness instead of the sunburst mosaic. but the same kind of orbs for light as above. it looks like part of the original design. I advance carefully through the corridors. p363
+Solaine is in werewolf form in the middle of a large chamber. whining. I think she regrets her action. (she stares at the blood on her claws) or perhaps being cursed, or failing the order vows. 
+she sees me, doesn’t move.
+“you shouldn’t be here”, she says. I think we can talk. better curing a curse than fighting. It is worth trying. I sheath one sword and keep the other one low. p328
+
 

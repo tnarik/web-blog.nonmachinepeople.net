@@ -32,8 +32,8 @@ long rest (roughly an hour playing, a bit less 20230930 11:39 now)
 I woke up refreshed 
 
 I got my breakfast and headed towards the town hall. as much as I care for animals, this dog is a military dog and I recognise that a battle dog, not the kind of dog eager to be pet. I greet the mayor. p21 -
-she says the girl looked like she was attacked by a beast, but she was found within town, not on the outskirts or the woods. And Roi is meant to take care of keeping the woods in check (no monsters or hazards.). she is offering 320gp to take care of the thread. I don't need the money and I'm on my way to my family, but that poor girl... it doesn't seem natural. it is not as if she was mauled by wolves out of carelessness. something needs to be done. p45 (should be 48)-
-Tomlin was an herbalist, as it seemed. he lives in the western part of town. I get access to the general store now. I'm not going right now, but whenever I'mn in town I can.
+she says the girl looked like she was attacked by a beast, but she was found within town, not on the outskirts or the woods. And Roi is meant to take care of keeping the woods in check (no monsters or hazards.). she is offering 320gp to take care of the threat. I don't need the money and I'm on my way to my family, but that poor girl... it doesn't seem natural. it is not as if she was mauled by wolves out of carelessness. something needs to be done. p45 (should be 48)-
+Tomlin was an herbalist, as it seemed. he lives in the western part of town. I get access to the general store now. I'm not going right now, but whenever I'm in town I can.
 got an advance of 20 gp.
 heading to Tomlin's. p49
 
@@ -307,4 +307,23 @@ Solaine is in werewolf form in the middle of a large chamber. whining. I think s
 she sees me, doesn’t move.
 “you shouldn’t be here”, she says. I think we can talk. better curing a curse than fighting. It is worth trying. I sheath one sword and keep the other one low. p328
 
+at least I'll buy some time, or solve some unanswered questions. why did she kill Tomlin? (play the guilt card). p 352
+she felt used and betrayed. quite logic. I don't think it is wort asking about Maybelline. but, what about the curse? p346
 
+she was attacked by a wolf during her pilgrimage, more or less as I imagined. nobody thought about a curse, she just appeared ill, with a fever. woke up covered in blood after a full moon night, got scared  and fled. she feels really powerful now. and the sacred power is... gone? she clearly thinks so. she is going pretty angry now. ah, damn it, one more question about Maybelline, just to confirm the story I assumed most probable. p339
+Solaine says Maybelline was lying about herself, that she was very cruel. that she mocked her for her faith. could Maybelline be in kahoots with a demon? or related to this darkness below Langston? anyway, I need to end this and go back to my trip home. let's try to end this peacefully by removing the curse. p343
+I offer the possibility of a surrender. she laughs and says she expects nothing from the town other than be hanged. just a predator now. my sword is ready. p350
+werewolves are immune to ordinary weapons, I heard. um... 
+I'll try to stun her with the potion and then use the silverstar. p353
+I didn't use any dose, so it should be easy to impact, also due to werewolves relying a lot on smell. 13 (second DC throw +1, and the lowest of the two) < 18. p325
+she should be stunned 2 rounds, apparently lost in memories of Tomlin, both happy and sad. now I'm in a good place for a fight. p350
+time to try the silverstar. p364
+there is no fight yet (which is what I feared). I don't need to jump through a wall of fangs and claws, but I leap forward anyway, making contact between Solaine and the Silverstar. magic comes out into her form. we are lock in place, and a bunch of people pours into the chamber: Mayor Anatharm, Roi and armed townspeople. I press harder, praying it works, Solaine still stunned. p358
+Solaine jerks and howls. lighs sparkle. no longer stunned, she transforms into human, and the howl into a scream. she feels robbed, and collapses sobbing. the  militia carries her off. p338
+her eyes dart to mine with fire, and a sudden smile. I feel a chilling sensation.
+the Mayor, Roi and I leave to the surface, everybody grateful. p332
+everybody is eager to get back to normality, washing the blood, sharing the news, talking brightly on a clear day (once again). they might not think too much about the undead. will they resurrect imediately? soon? in a few weeks?
+I accused Solaine, I think I did very well in my investigation. p369
+I get a decent reward (350gp) and feel I learnt quite a lot (600xp). I put the money on my backpack. and I get ready to talk to the Mayor. to me, there is some unfinished business and I would love to get it  sorted out before going back to the inn for a rest and departing. I might even reflect on what I learnt, before going to bed. ah, there is no mention to the advance I was given, so I'm keeping those 20gp as well.
+
+(that was a 1AM to 2AM last journey before some quick reading and sleeping for tomorrow IRL)

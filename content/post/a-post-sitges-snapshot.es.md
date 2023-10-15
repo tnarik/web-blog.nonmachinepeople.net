@@ -8,16 +8,16 @@ es Domingo y hoy no toca película alguna, al menos no en Sitges. es día de hac
 
 también es día de recuento, de intentar recordar lo que he visto. es más un ejercicio de autoanálisis que un intento de crítica o de documentación. ¿qué títulos recuerdo? ¿qué historias o sensaciones?
 
-voy a intentar escoger… ¿10? favoritas, aunque siempre digo que merece la pena ver CASI todo.
+voy a intentar escoger… ¿10? películas que creo que hay que ver (no necesariamente porque sean mis favoritas), aunque siempre digo que merece la pena ver CASI todo.
 
 sin más que añadir, hago memoria:
 
 1. Embryo, Larva, Butterfly: la primera que vi. lo confuso de la vida y cómo cambian los planes y los sentimientos. madurar.
-2. Last Stop in Yuma County: thriller y crescendo de tensión con tiroteo. una fábula moral con narración muy precisa.
+2. **Last Stop in Yuma County**: thriller y crescendo de tensión con tiroteo. una fábula moral con narración muy precisa, y una maravilla de ritmo.
 3. The Childe: psicópatas reformados y políticas familiares.
 4. Lumberjack, the Monster: otra de psicópatas que se reforman, ¿o no? de Miike. el final de mi festival. (no he conseguido recordar el título hasta llegar al 24 de esta lista, y eso que fue lo más reciente que he visto).
 5. Project Silence: ingeniería genética y obras públicas.
-6. Poor Things: Orlando, Pinnocio y la condición humana.
+6. **Poor Things**: Orlando, Pinnocio y la condición humana.
 7. The Uncle (Stric): Familia de León de Aranoa, Dogtooth, Groundhog Day y un variante de la peli danesa/holandesa del año pasado (Speak no evil?).
 8. Sleep: la familia coreana y el instinto de protección.
 9. Wake Up: la secuela de “Sleep” (Jonathan _dixit_). un _slasher_ con base en Nocturama y el ecoterrorismo. el villano es el sistema de salud en USA y su falta de ayuda a los enfermos mentales. mi simpatía para el personaje al que finalmente no apoyan los creadores.
@@ -26,9 +26,9 @@ sin más que añadir, hago memoria:
 12. Cuando acecha la maldad: la infección y, una vez más, la salud mental.
 13. Late Night with the Devil: no “el” sino “un”, pero hay que escoger un título bueno. tensión progresiva para captar audiencia. yo diría que el presentador es una víctima más (de su falta de atención siquiera), y que no hay pacto consciente con un diablo. a no ser que se considere a una cadena de televisión como un diablo (que no es muy disparatado, aunque sí algo _dated_).
 14. Le Regne Animal: franceses y animalismo, via chicos lobo y evolución.
-15. We are animals: vampiros franceses, pánico social. y Elodie Bouchet.
+15. : vampiros franceses, pánico social. y Elodie Bouchet. no es “We are Animals”, como pensaba que era.
 16. En attendant la nuit: tal vez los títulos vayan al revés, porque era parte del mismo festival. pero éste le pagaría más a una película con discotecas. y no sé muy bien porque les recuerdo alemanes.
-17. La morsure: transformarse y vivir, via vampiros franceses y encuentros con la muerte. para unos un despertar sexual, para mi un enfrentarse a tu yo adolescente. quizás sea lo mismo.
+17. **La morsure**: transformarse y vivir, via vampiros franceses y encuentros con la muerte. para unos un despertar sexual, para mi un enfrentarse a tu yo adolescente. quizás sea lo mismo.
 18. Vampire Humaniste Cherche suicide… consenting suicidal adult?: o algo muy similar. el título más largo que recuerdo. más vampiros francófonos (en este caso canadienses) que buscan su lugar en el mundo. Dracula yeyé, aunque tal vez le pegue más a La Morsure, si no fuera por que aquella es más… seria?
 19. the four lives of the Coyote: ecología y mitologías de _first people_ (¿pueblos primigenios?). lo que llamábamos indios nativos americanos. no tengo muy claro el término preferidos en castellano. la animación inicial auguraba una decepción, pero toda la parte del mito es preciosa. tenemos dudas sobre si se trata de apropiación cultural o no (producción de Europa del Este).
 20. Deep Sea: cualquier peli de Ghibli pero china. forma con un fondo muy pobre y toda la purpurina digital que puede añadir una AI.
@@ -36,7 +36,7 @@ sin más que añadir, hago memoria:
 22. Tony, Shelly and the magic light: la _magic light_ es la amistad, la imaginación y las buenas vibraciones (que es lo que es la luz). pensaba que iba a haber algún tipo de molusco en todo esto, pero no. un manual sobre la gestión de las emociones.
 23. Last Straw: una vez más, el mal es la inseguridad del sistema de salud pública de USA. me sobró un poco lo explícito de la historia paralela del tercer acto, el _reveal_.
 24. White Plastic Sky: pintaba una película sobre invernaderos, pero es el _director’s cut_ del último episodio de “David, el Gnomo”. rotoscopia a mansalva, gente tiesto, Soylent Green y sobre todo una historia de amor más que una denuncia ecológica. o eso creo, porque me dormí una parte importante. por cansancio acumulado, como casi siempre. muy bien hecha, diría yo.
-25. Riddle of Fire: una peli de aventuras y fantasía, muy fresca y con guiños a Dragon Ball. los niños están fantásticos y es muy alegre en conjunto.
+25. **Riddle of Fire**: una peli de aventuras y fantasía, muy fresca y con guiños a Dragon Ball. los niños están fantásticos y es muy alegre en conjunto.
 26. Seeding: si la localización fuera 100% real, sería fantástica. muy previsible y frustrante para alguien que escale o tenga algo de sentido común. no hay mucha enseñanza moral, excepto que la vida tiene ciclos y hay que asumir nuestro papel en ellos. o rebelarse pero con cabeza, añadiría yo.
 27. The Sacrifice Game: se puede ser amigo del  diablo si le coges cariño y te sientes solo.
 28. Rabia: se veía venir. más animalismo, mejicano esta vez. un enfoque muy habitual es que dos no se pelean si uno no quiere, aka lo extraño no es una amenaza hasta que lo tratamos como tal.
@@ -53,14 +53,14 @@ sin más que añadir, hago memoria:
 39. Suitable Flesh: si sale Heather Graham, en esa peli se folla fijo. una historia sencillita y previsible de envidia y abuso de los poderosos. era esta la que acontecía en Miskatonic.
 40. Monolith: un personaje privilegiado que se presenta como víctima en algunos sentidos, cuando es cuando menos complice de varios crímenes. en ese sentido el monolito trae conocimiento. pero no importará porque es una _home invasion_ a gran escala (del micro al macro).
 41. Appendage: Emily Hampshire me cae muy bien. otra peli muy evidente, pero puedo perdonar a los personajes porque es otra peli sobre la salud mental y no empiezan en el mejor de los estados. aprender a convivir con tu pasado y tus inseguridades y miedos, muy en la línea de Tony, pero de otra manera. el novio, para variar no sabe cómo llevar bien la situación.
-42. Divinity: estilosa y futurista, con gran economía de medios. tiene una parte de _stop motion_ que, lejos de romperla, remarca lo que debe a Heavy Metal y ese tipo de fantasía-ficción europea. al menos estéticamente. con Scott Bakula.
+42. **Divinity**: estilosa y futurista, con gran economía de medios. tiene una parte de _stop motion_ que, lejos de romperla, remarca lo que debe a Heavy Metal y ese tipo de fantasía-ficción europea. al menos estéticamente. con Scott Bakula.
 43. Kubi: Kitano e historia del Japón feudal. cruda como ese tiempo y con toques de humor. también con un. montón de nombres.
 44. God is a Bullet: un título fantástico para una película sobre el cambio y la familia. al contrario de lo que dice la abuela de Rosalía, aquí la familia es lo más importante. un personaje en busca de si mismo y otro buscando _closure_ vicariamente.
 45. Mad Fate: salud mental a tutiplén, diseño de interiores y libre albedrío.
 46. Spoor: un corto. ¿el del desierto?
 47. Retrodreaming: muy La Jetée, una revisión fragmentada del éxodo rural. corto.
 48. The Sort of Girl that knows Blanche: abusos sexuales y Tennessee Williams. corto.
-49. el corto del tipo enamorado de un monstruo, en una especie de sótano.
+49. We are Animals: el corto del tipo enamorado de un monstruo, en una especie de sótano. acabo de recordar el título mientras pensaba en qué otra cosa vi junto con Acide, por la entrada en mi calendario.
 50. el corto filipino de la niña y el siluro. una cosa loca con VR.
 51. An Old Young Crow: todos estamos relacionados y nos gustan mucho los moleskines.
 52. River: de 2 en 2 minutos de crecimiento personal cada vez.
@@ -72,5 +72,11 @@ sin más que añadir, hago memoria:
 58. Invisible Fight: monjes ortodoxos practican kung-fu en una parodia desestructurada que gira entorno al gag como un programa de Benny Hill cualquiera. 
 59. Onyx the Fortuitous and the… something something: Jeffrey Combs y un youtuber. rituales y héroes por accidente que encuentran una familia cuando por fin se dan cuenta de que lo que necesitaban era conectar con alguien y sentirse apoyados.
 60. Robot Dreams: animación buenrrollera con final a lo Lalaland pero sin amargor.
-61. Hundreds of Beavers: South Park con actores reales, Minecraft _farming_ y Looney Tunes todo en uno. aquí también me dormí en parte pero no se resiente, porque es todo un gag continuo, sin un momento de respiro.
-62. 
+61. **Hundreds of Beavers**: South Park con actores reales, Minecraft _farming_ y Looney Tunes todo en uno. aquí también me dormí en parte pero no se resiente, porque es todo un gag continuo, sin un momento de respiro. una de las películas más divertidas del festival.
+62. The Exorcism of Eastfield: la religión es el mal, y la turba también.
+63. Escape Attempt: un corto como paso previo a un largometraje, basado en un relato de los Strugatsky. claramente WWII, no sé como pudo ver alguien una referencia a Ucrania.
+64. The Theory of Everything: viajes en el tiempo y a través de realidades paralelas, ¿revisitando los años 50? más larga de lo que debería (podría haberse quedado en un mediometraje muy razonable).
+65. UFO Sweden: agujeros de gusano y gameboys como homenaje a Terminator 2. la verdad está dentro del agujero, no fuera.
+66. Vincent must die: peli francesa que comienza como alegoría de la _cancel culture_, pasa por una especie de peli de zombies y progresa hasta un “Soy Leyenda”
+67. Acide: apocalipsis ecológico via lluvia ácida y un padre que quiere proteger a su hija todo lo posible, hasta que la hija acepta la mentira como respuesta moralmente positiva.
+68. 

@@ -29,7 +29,7 @@ sin más que añadir, hago memoria:
 15. We are animals: vampiros franceses, pánico social. y Elodie Bouchet.
 16. En attendant la nuit: tal vez lo títulos vayan al revés, porque era parte del mismo festival. pero éste le pagaría más a una película con discotecas. y no sé muy bien porque les recuerdo alemanes.
 17. La morsure: transformarse y vivir, via vampiros franceses y encuentros con la muerte. para unos un despertar sexual, para mi un enfrentarse a tu yo adolescente. quizás sea lo mismo.
-18. Vampire Humaniste Cherche suicide… consenting suicide: a algo muy similar. el título más largo que recuerdo. más vampiros francófonos (en este caso canadienses) que buscan su lugar en el mundo.
+18. Vampire Humaniste Cherche suicide… consenting suicide: a algo muy similar. el título más largo que recuerdo. más vampiros francófonos (en este caso canadienses) que buscan su lugar en el mundo. Dracula yeye, aunque tal vez le pegue más a La Morsure, si no fuera por que aquella es más… seria?
 19. the four lives of the Coyote: ecología y mitologías de _first people_ (¿pueblos primigenios?). lo que llamábamos indios nativos americanos. no tengo muy claro el término preferidos en castellano. la animación inicial auguraba una decepción, pero toda la parte del mito es preciosa. tenemos dudas sobre si se trata de apropiación cultural o no (producción de Europa del Este).
 20. Deep Sea: cualquier peli de Ghibli pero china. forma con un fondo muy pobre y toda la purpurina digital que puede añadir una AI.
 21. El niño y la garza: tiene un título muy distinto en realidad, pero… no me mató porque, siendo muy buena, me parece más de lo mismo que hace Miyazaki. muy bonita y redonda, mucha gestión del trauma. y un incendio preciosamente expresionista.
@@ -47,4 +47,19 @@ sin más que añadir, hago memoria:
 33. Superposition: “necesito que me la expliquen”, oí a alguien al salir. pues es muy fácil. son dos películas en una, de hay la superposición. digo esto porque si no es una película fallida, debido a que tiene flecos que se olvidan y una gran deriva temática que la convertiría en algo tan pretencioso, inútil y narcisista como sus personajes.
 34. When the wind blows: o _where_. hay muchas películas de dónde/cuándo este año. la peli de los más chaqueteros. una historia sobre Hong Kong.
 35. The Roundup 3: que se llama de otra manera (Fuerza Bruta, creo recordar), pero no nos liemos. tortas como panes de hogaza, diálogos plagados de humor y el retorno de personajes anteriores como sugerencia de una cuarta parte. _yes, please!_
-36. 
+36. Brooklyn 45: una obra de teatro, decía alguien. puede ser, conflicto _for the sake of it_, excepto si lo leo como que la verdadera guerra está en nuestro interior y que esa nunca acaba.
+37. Fata Morgana: Vicente Aranda en Barcelona en los 60, con una historia algo Borgiana y una geografía fragmentaria y muy yeye.
+38. Hollywood 90028: el mundo del porno y la pérdida de la esperanza.
+39. Suitable Flesh: si sale Heather Graham, en esa peli se folla fijo. una historia sencillita y previsible de envidia y abuso de los poderosos.
+40. Monolith: un personaje privilegiado que se presenta como víctima en algunos sentidos, cuando es cuando menos complice de varios crímenes. en ese sentido el monolito trae conocimiento. pero no importará porque es una _home invasion_ a gran escala (del micro al macro).
+41. Appendage: Emily Hampshire me cae muy bien. otra peli muy evidente, pero puedo perdonar a los personajes porque es otra peli sobre la salud mental y no empiezan en el mejor de los estados. aprender a convivir con tu pasado y tus inseguridades y miedos, muy en la línea de Tony, pero de otra manera. el novio, para variar no sabe cómo llevar bien la situación.
+42. Divinity: estilosa y futurista, con gran economía de medios. tiene una parte de _stop motion_ que, lejos de romperla, remarca lo que debe a Heavy Metal y ese tipo de fantasía-ficción europea. al menos estéticamente.
+43. Kubi: Kitano e historia del Japón feudal. cruda como ese tiempo y con toques de humor. también con un. montón de nombres.
+44. God is a Bullet: un título fantástico para una película sobre el cambio y la familia. al contrario de lo que dice la abuela de Rosalía, aquí la familia es lo más importante. un personaje en busca de si mismo y otro buscando _closure_ vicariamente.
+45. Mad Fate: salud mental a tutiplén, diseño de interiores y libre albedrío.
+46. Spoor: un corto. ¿el del desierto?
+47. Retrodreaming: muy La Jetée, una revisión fragmentada del éxodo rural. corto.
+48. An Old Young Crow: todos estamos relacionados y nos gustan mucho los moleskines.
+49. River: de 2 en 2 minutos de crecimiento personal cada vez.
+50. Mondays: no es que el trabajo de oficina parezca un bucle, es que lo es hasta que consigas descubrir que el trabajo en equipo es el camino a seguir. o “trabajar en equipo lleva a la libertad”.
+51. 

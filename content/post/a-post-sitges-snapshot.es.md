@@ -69,5 +69,8 @@ sin más que añadir, hago memoria:
 55. Luka: basada en el mismo libro que “El desierto de los Tártaros”, que no he visto. una fotografía preciosa (esa alcoba en la roca me enamora) pero tal vez un poco larga. aunque eso contribuye a la sensación de espera ( como “La Hoja Roja”, que no he leído, según Emilio).
 56. Concrete Utopia: las ciudades horizontales son mejores para la convivencia que las ciudades verticales.
 57. Restore Point: los backups son importantes, pero _permadeath_ hace que jugar sea más interesante y transcendente.
-58. Invisible Fight: monjes ortodoxos practican kung-fu en una parodia desestructurada que gira entorno al gag.
-59. Onyx the Fortuitous and the… something something: Jeffrey Combs y un youtuber.
+58. Invisible Fight: monjes ortodoxos practican kung-fu en una parodia desestructurada que gira entorno al gag como un programa de Benny Hill cualquiera. 
+59. Onyx the Fortuitous and the… something something: Jeffrey Combs y un youtuber. rituales y héroes por accidente que encuentran una familia cuando por fin se dan cuenta de que lo que necesitaban era conectar con alguien y sentirse apoyados.
+60. Robot Dreams: animación buenrrollera con final a lo Lalaland pero sin amargor.
+61. Hundreds of Beavers: South Park con actores reales, Minecraft _farming_ y Looney Tunes todo en uno. aquí también me dormí en parte pero no se resiente, porque es todo un gag continuo, sin un momento de respiro.
+62. 

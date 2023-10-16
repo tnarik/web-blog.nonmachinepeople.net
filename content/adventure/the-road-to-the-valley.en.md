@@ -327,3 +327,42 @@ I accused Solaine, I think I did very well in my investigation. p369
 I get a decent reward (350gp) and feel I learnt quite a lot (600xp). I put the money on my backpack. and I get ready to talk to the Mayor. to me, there is some unfinished business and I would love to get it  sorted out before going back to the inn for a rest and departing. I might even reflect on what I learnt, before going to bed. ah, there is no mention to the advance I was given, so I'm keeping those 20gp as well.
 
 (that was a 1AM to 2AM last journey before some quick reading and sleeping for tomorrow IRL)
+
+\page
+# Epilogue
+
+I decided to stay at least 2 more days, to reflect on what happened and trace a plan forward.  the town hall is paying for a couple more days if I go on patrol, as I explained to the Mayor what transpired from the conversation with Solaine and information at the temple.
+
+I feel more knowledgeable and sturdy. (I level up) I can recover better. practiced my archery to depend less on swords or closer fighting. I got quite good a tracking, and I try to pull focus on a given creature for tracking while on patrol. is this magic? did I gain some affinity with magic, and is that the way it works? I go on patrol and eat.
+
+I talked to the druid about this, is that how it was for him? I heard of rangers with some magical or uncanny skills, but always assumed people meant just very good at tracking, or interacting with animals, things like that. he explained how to find magic in nature, and how to try and weave it, or modify the tapestry of it a bit to bend things in your favour. also, he taught me how to create Goodberries. not as difficult as I thought, somewhat tasty. still strange how they appear in your hand.
+
+to the epilogue! p370
+
+I’ve been on patrol several nights, looking for undead and facing them while The Radiant Order is reached. is tiring but this is good and worried people. all pull together to held the town while a new cleric comes.
+
+I should go and check for healing potions at Tomlin’s Cottage. p380
+ 
+it is urgent, Roi cannot heal anymore for today and it is needed, there is an injured militia member on a tavern table. the cottage is locked and I need to break in somehow. breaking a window should be simple.. p377
+clink: very precise,  I managed to break it without cutting with the shards. p386
+very gloomy and getting musty. I use inspiration from worrying about the townsfolk, and… p396
+everything was so well labelled and ordered. I find some potions and a vial of antitoxin.
+there is also a magic garland with what look like fresh flowers (although they shouldn’t be). it shimmers. I take it as well.
+I’ll go back to The Pickled Hen. p391
+Solaine’s interrogais not shedding new information. 
+the potion does the trick and the woman becomes stable. I show the garland and the general agreement is that it was for the wedding, and that there is some magic. we are going to present it to Maybelline’s parents.  p376
+there is something weird going on with the parents. And it looks like there were 2 garlands. p374
+Roi and I take a look around the kitchen, nothing out of the ordinary except for a bunch of plants and herbs. they were in a hidden parcel behind the pantry. strange colours, and odd proportions. p393
+these herbs are used in rituals to contact lower planes. I want to check  the garden. p392
+it is pretty neglected. No sign of the flowers from the garland. but I found a patch of dark soil, and buried there a parchment in Abyssal. i cannot read that. p385
+there is also a lock of hair. we would need to question Solaine about both findings. they are within her expertise. 
+we go back to check Maybelline’s room. p381
+there is another garland there. they seem to attract each other, as if there were some sort of enchantment. We are running an experiment. p378
+an ancient love spell. if the garlands touch the spell breaks, ironic, or just twisted. p372
+I’m riding a pony! well, the shapeshifted druid, back to town. back to the jailhouse. I have some questions for Solaine.
+p375 - the garlands. 
+p382 - the hair. Tomlin’s hair. all points to an enchantment to either conquer him or break Solaine’s heart. p399
+p389
+p400
+a mistery unsolved: a female figure in the dark, with simple clothes, might be the person that freed Solaine. somehow linked to a crescent moon and cold and ice. but a new cleric is now in town and I can follow my path.
+

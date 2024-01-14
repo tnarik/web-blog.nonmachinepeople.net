@@ -18,7 +18,7 @@ combat score: &#x25A3; &#x25A3; &#x25A3; &#x25A3; &#x25A3;
 
 calling:
 
-nature: <span style=“color:red”>J &diams;</span>. sly, strategic and always planning
+nature: <span style="color:red">J &diams;</span>. sly, strategic and always planning
 
 look:
 

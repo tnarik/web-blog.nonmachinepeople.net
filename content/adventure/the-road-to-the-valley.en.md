@@ -362,7 +362,7 @@ an ancient love spell. if the garlands touch the spell breaks, ironic, or just t
 I’m riding a pony! well, the shapeshifted druid, back to town. back to the jailhouse. I have some questions for Solaine.
 p375 - the garlands. 
 p382 - the hair. Tomlin’s hair. all points to an enchantment to either conquer him or break Solaine’s heart. p399
-p389
+p389 second night of patrol
 p400
 a mistery unsolved: a female figure in the dark, with simple clothes, might be the person that freed Solaine. somehow linked to a crescent moon and cold and ice. but a new cleric is now in town and I can follow my path.
 

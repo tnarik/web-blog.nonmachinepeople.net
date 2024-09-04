@@ -303,7 +303,7 @@ I unseath and run as fast as I can.  a scream. Tomlin is in a pool of blood. I g
 I check for clues about the threat she poses. I’m inspired by the last days of getting to know the town and this people. p347
 these were angry blows, and precise with the intent to kill. But see maybe remorseful. I go in, both swords at the ready. p324
 when I get in, everything seems darker, more menacing. there is a spiral staircase in the main hall. darkness instead of the sunburst mosaic. but the same kind of orbs for light as above. it looks like part of the original design. I advance carefully through the corridors. p363
-Solaine is in werewolf form in the middle of a large chamber. whining. I think she regrets her action. (she stares at the blood on her claws) or perhaps being cursed, or failing the order vows. 
+Solaine is in werewolf form in the middle of a large chamber. whining. I think she regrets her action. (she stares at the blood on her claws) or perhaps being cursed, or failing the order vows.
 she sees me, doesn’t move.
 “you shouldn’t be here”, she says. I think we can talk. better curing a curse than fighting. It is worth trying. I sheath one sword and keep the other one low. p328
 
@@ -339,21 +339,21 @@ I talked to the druid about this, is that how it was for him? I heard of rangers
 
 to the epilogue! p370
 
-I’ve been on patrol several nights, looking for undead and facing them while The Radiant Order is reached. is tiring but this is good and worried people. all pull together to held the town while a new cleric comes.
+I’ve been on patrol several nights, looking for undead and facing them while The Radiant Order is reached. is tiring but this is good and worried people. all pull together to help the town while a new cleric comes.
 
 I should go and check for healing potions at Tomlin’s Cottage. p380
  
 it is urgent, Roi cannot heal anymore for today and it is needed, there is an injured militia member on a tavern table. the cottage is locked and I need to break in somehow. breaking a window should be simple.. p377
-clink: very precise,  I managed to break it without cutting with the shards. p386
+clink: very precise, I managed to break it without cutting with the shards. p386
 very gloomy and getting musty. I use inspiration from worrying about the townsfolk, and… p396
 everything was so well labelled and ordered. I find some potions and a vial of antitoxin.
 there is also a magic garland with what look like fresh flowers (although they shouldn’t be). it shimmers. I take it as well.
 I’ll go back to The Pickled Hen. p391
-Solaine’s interrogais not shedding new information. 
+Solaine’s interrogation is not shedding new information.
 the potion does the trick and the woman becomes stable. I show the garland and the general agreement is that it was for the wedding, and that there is some magic. we are going to present it to Maybelline’s parents.  p376
 there is something weird going on with the parents. And it looks like there were 2 garlands. p374
 Roi and I take a look around the kitchen, nothing out of the ordinary except for a bunch of plants and herbs. they were in a hidden parcel behind the pantry. strange colours, and odd proportions. p393
-these herbs are used in rituals to contact lower planes. I want to check  the garden. p392
+these herbs are used in rituals to contact lower planes. I want to check the garden. p392
 it is pretty neglected. No sign of the flowers from the garland. but I found a patch of dark soil, and buried there a parchment in Abyssal. i cannot read that. p385
 there is also a lock of hair. we would need to question Solaine about both findings. they are within her expertise. 
 we go back to check Maybelline’s room. p381

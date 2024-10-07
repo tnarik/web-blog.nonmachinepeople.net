@@ -34,5 +34,20 @@ rolled 16
 
 p62 made a good argument for deescalation of the situation, to avoid harm to both sides. it lloks like I convinced them, and the expedition leader (the woman) plays along calling me diplomat. and mentioning the map I carry.
 
-p85 
+p85 the leader is called Rija and the orc is Gigar Garantham, a professor. she cuts the lizardfolk leader and pushes for the agreement to be fulfilled. there is a situation though, looks like a lizardfolk is about to attack? I am not strong to grapple them, and I don’t yet have a connection with anybody. I am expectant.
+
+p24 Gigar is a frigten kitty and Rija reacts. an impasse. they size each other.
+
+p36 he will guide, Z’ka. seems I was correct thinking different cultures consider aggression differently. being resolute is not being aggressive. not necessarily. Z’ka is more hunched than other lizardfolk. ah! he carries a stone tablet on his back. Rija clearly doesn’t trust him, but she exchanges words with Gigar and welcomes Z’ka.
+not everybody is happy, but there is no fight (even if there is still some tension). there might be more to Z’ka than apparent, he did some gesture on the tablet and there was some deference shown by the lizardfolk leader. they disappear in the jungle, only Z’ka stays. 
+so, the expedition accepts me, Gigar takes the map. each member priorities are clear.
+
+p52 Rija takes me to the camp and the conversation is short: the camp is set and we will part at dawn. there is food and water, I do not need to worry about equipment for a base camp, should sleep next to the fire so that the smoke drives mosquitoes away, and I will scout with her.
+
+I am left to my own devices.
+
+p91 I will talk to Gigar first.
+
+p82 Gigar sleeps in a wagon, and he is reading in his improvised “office” and allows me in.
+
 

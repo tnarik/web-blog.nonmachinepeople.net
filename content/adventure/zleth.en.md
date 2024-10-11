@@ -48,6 +48,37 @@ I am left to my own devices.
 
 p91 I will talk to Gigar first.
 
-p82 Gigar sleeps in a wagon, and he is reading in his improvised “office” and allows me in.
+p82 Gigar sleeps in a wagon, and he is reading in his improvised “office” and allows me in. he is reading his own notebook, with glyphs and drawings of…
 
+p64 (rolled 15+2) odd looking creatures. the glyphs seem notes above “corruption “ affecting “eater, fruits and flesh”. some more recent symbols mean “Z’leth”.
+
+let’s talk to the rest of the crew.
+
+p68 sharing a meal and banter, there is tension about the expedition, let’s dig for info. 
+
+p72 (roller 6) clumsily act to direct and the topic is brushed off. didn’t gain any points with the crew (didn’t lose them either). I leave to talk to Z’ka.
+
+p55 he’s on his own, eating. seems to be reading the tablet he carried on his back, now resting on the ground.
+
+p80 (rolled 4+3) Blovo cannot fathom what Z’ka is doing other than eating (I think it is a magic communication device, or ritualistic at least). he notices me. taps some word on the tablet while making a cryptic comment, and goes back to reading.
+
+p2 Rija. why not checking in with her anyway…? seems to be checking and repacking magical artefacts (black and blue crystals, vials, climbing gear).
+
+p57 (rolled 11+2) I do mot recognise anything. puts the blue crystals in a bandolier. takes her backpack with her. 
+didn’t find out much about the expedition. I’ll find a bedroll to sleep in.
+
+p89 I need water (running low, it is hot). due to the notes (and being a ranger) I’ll get water from a stream near the camp, not the barrels. 
+
+p100 water is brownish green and stinks, but nature around it is lush. umm I’ll drink it.
+
+p79 sickness!
+
+p2 (rolled 3+3) Blovo is resistant to poison, not disease. so he feels immediately sick and vomits, dropping to the ground. a female gnome comes to the rescue bringing fresh water. arg, that was rough. I am poisoned until the next long rest (regardless of dwarven resiliance, as this was caused by disease). need to roll a CON 12 to recover. if not, it continues. that gives disadvantage on attack tolls and ability checks. 
+
+I am helped to the camp. 
+
+p45 clean the waterskin and fill it from the barrels. Rija talks a bit and I am just destroyed. rest. 
+
+p20 I recover from the poison overnight (rolled 9+3) after a feverish night filled with the buzzing of the mosquitoes) perhaps the rain that fell helped with that. or the leeches in my boots. well, however it was, I erred and learned.
+Rija is the one that woke me up. we are scouting ahead, eating rations on the way, while the camp gets ready.
 

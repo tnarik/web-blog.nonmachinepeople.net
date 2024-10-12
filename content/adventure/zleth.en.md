@@ -77,8 +77,44 @@ p2 (rolled 3+3) Blovo is resistant to poison, not disease. so he feels immediate
 
 I am helped to the camp. 
 
-p45 clean the waterskin and fill it from the barrels. Rija talks a bit and I am just destroyed. rest. 
+p45 clean the waterskin and fill it from the barrels. Rija talks a bit and I am just destroyed. rest, but not before creating 10 Goodberries for the next day. just in case.
 
 p20 I recover from the poison overnight (rolled 9+3) after a feverish night filled with the buzzing of the mosquitoes) perhaps the rain that fell helped with that. or the leeches in my boots. well, however it was, I erred and learned.
-Rija is the one that woke me up. we are scouting ahead, eating rations on the way, while the camp gets ready.
+Rija is the one that woke me up. we are scouting ahead, eating rations on the way, while the camp gets ready. O don’t feel very talkative and last night experience prompts me to be more observant. I’ll walk next to her though. 
 
+p95 we follow some path barely fit for wagons and Rija point to the trees. 
+
+p106 (17+5) the jungle seems thick and corrupted, vines strangling trees, jagged flowers, caws instead of birdsong,bound rotting flesh. subtle clues hint the direction towards the source of the corruption. somewhere NE. 
+not sure if Rija perceives the same.
+
+p18 (13+3) a serpent like form is about to drop on us! 
+
+p4 (8+5) the form misses me and uncoils on the ground, two snake heads darting. I move just of reach and get ready to fight.
+
+p66 heads are all mine, Rija is busy with the tail. I jump to get a bit more distance and attack with my bow. I cast hunter”s mark on it and throw. 21 > 12. 14 dmg (with the mark). the single arrow strikes true through both heads, nailing them to a tree slightly upwards from my head. the long scaly body hangs from there while the tail wriggles. rows of sharp teeth dripping saliva, now harmless if still looking menacing.
+
+p51 we should carry it back for study, but I am not strong enough to, so better to dissect it. 
+
+p22 I apply my survival skills (15+5)
+
+p49 extra bones, hardened tumours, oozing fluids… the corruption seems deep. does it have gills? there is a blue crystal in its chest, glimmering faintly. Tija seems interested in it. it looks similar to the ones she carries in her bandolier, if less glowy. she hands it to me.
+
+we pack samples and find Gigar at the camp. he is eager to study them and moves into the wagon. he doesn’t let us in (Rija wanted to follow).
+
+p88 spend the rest of the day at the camp eating and waiting. Gigar comes out. didn’t find anything new but he is now showing Blovo the map delivered.
+
+p6 seems to be work in progress, with new notes added.
+
+p96 (15+4) but the notes are contradictory, useless. there are notes about abnormalities: bird-lizard or , spiny frogs, another two-headed snake. all clustered towards the empty section of the map. towards the NE. S and W seem explored or dead-ends.
+
+let’s get Z’ka
+
+p58 yep, he points and references the NE, and seem to growl at Rija something she understands and nods to. also, something about the sky. time to rest for the night.
+
+p33 but Z’ka wants to show me something. follow him to his area. the tablet resting against a wheel I think he sees himself as warrior and protector. the tablet carries the knowledge of his people and the region, the things in the dark we don’t know. 
+
+p69 I don’t know about the history, bit this points to a civilised society.
+
+p93 (3+3) magical power and crystals. I cannot tell more. “hidden under the under”, says Z’ka. have a goodberry for a snack and create a new batch. nite!
+
+p10 rested. 

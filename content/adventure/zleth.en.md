@@ -117,4 +117,6 @@ p69 I don’t know about the history, bit this points to a civilised society.
 
 p93 (3+3) magical power and crystals. I cannot tell more. “hidden under the under”, says Z’ka. have a goodberry for a snack and create a new batch. nite!
 
-p10 rested. 
+p10 rested (second night in the jungle), Blovo wakes up to the activity of the camp. it seems Rija and Z’ka left scouting on their own towards the NE. Blovo has been assigned yo support Gigar’s investigations. he produces an obsidian amulet representing a winged serpent with feathers instead of scales. Blovo is asked to hold it in order to begin, and he grasps it.
+
+p47 some force gathers in the amulet and rushes to his mind.

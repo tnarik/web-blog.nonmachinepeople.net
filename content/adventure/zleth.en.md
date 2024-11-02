@@ -8,7 +8,7 @@ draft = true
 
 # outro/intro
 
-after the last patrol in Langston, I said my goodbyes to continue my trip to the Ephenbald's farm. got rid of some clutter before the trip and reflected a bit on the experience and conversations with Roy during my trip into the forest and towards the coast.
+after the last patrol in Langston, I said my goodbyes to continue my trip to the Ephenbald's81 farm. got rid of some clutter before the trip and reflected a bit on the experience and conversations with Roy during my trip into the forest and towards the coast.
 
 I feel more robust, having had a first round of real battles, and practiced archery quiet a lot, a much preferred approach than using swords to fight. from spending some time and chats with Roy I realised I can manipulate the magic essence present in nature and perform some spells. part of it applies to my archery, and now I am able able to mark my quarries if I concentrate, allowing me to hit more precisely, causing more damage. this is great! I feel like a suddenly much better archer!
 
@@ -120,3 +120,29 @@ p93 (3+3) magical power and crystals. I cannot tell more. “hidden under the un
 p10 rested (second night in the jungle), Blovo wakes up to the activity of the camp. it seems Rija and Z’ka left scouting on their own towards the NE. Blovo has been assigned yo support Gigar’s investigations. he produces an obsidian amulet representing a winged serpent with feathers instead of scales. Blovo is asked to hold it in order to begin, and he grasps it.
 
 p47 some force gathers in the amulet and rushes to his mind.
+
+p81 (15+3) 
+
+p65 
+
+p92
+
+p37
+
+p75 and set to rest for the night.
+
+p97 but, after a short rest, he wakes up in the calm night. the usual noises he has come to expect. but something doesn’t feel right.
+
+
+p31 (9+3) 
+
+p14 
+
+p73 fight! 11 > 10 (7+3), the lizardfolk goes first. brandishing his club he gets close to me and swings it at my head before I can do anything. hits (14 +4> 15), for 3+2 dmg. feeling the impact Blovo reels back, while loading and arrow. Blovo casts Hunter’s Mark on his quarry, moves away, avoiding a sluggish reaction blow (3+4), and releases the arrow from 15 ft. (14 +7 > 15), the arrow sinks strong and true (2+3+3). it was a single blow but it pierced through the armour piercing a lung and perhaps the heart. a bit deeper and it would have ended the fight. wailing, the lizard rushes forward but the anger is not enough and the pain makes it ineffective (10+4 < 15), as Blovo can anticipate a bit and narrowly dodge. Blovo drops the bow a few meters away and unsheathes a shortsword, thinking on finishing the combat clo se and avoid another attack. but fails (9+5 < 15), not being that adept to this form of combat. (10 +4 < 15) his foe fails as well, (8+5<15). (15+4>15) for 3+2. (15+5 > 15) and 3+3. the combat ends. 
+
+p40 
+
+p29 
+
+p107
+

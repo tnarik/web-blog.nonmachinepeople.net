@@ -24,6 +24,8 @@ so he accepted, took the 75gp advance, the map, the contract and spend the day g
 
 left the scrapling claw at Langston, for the guard to use if needed.
 
+# The new adventure begins
+
 p0: so that’s where we are… not far from the expedition camp. yes, they had wagons. ummm, that was a very loud trill, I didn’t hear this one before. let’s see what is going on. 
 
 p74 some lizardfolk are surrounding the expedition (an expedition?). a human is seemly the leader and they claim to have permission, but maybe the lizardfolk changed their mind. there is also some orcish sage/scholar. there is some exchange of words and hissing, the mention of Z’leth upsets the lizardfolk, or rattles them. there is plenty of tension between the two groups and this could explode. time to do or say something.
@@ -121,28 +123,31 @@ p10 rested (second night in the jungle), Blovo wakes up to the activity of the c
 
 p47 some force gathers in the amulet and rushes to his mind.
 
-p81 (15+3) 
+p81 (15+3) Blovo gets drawn into a very sensorial scene, very powerful enegery. somehow he still manages to undestand that he is not present there, barely.
 
-p65 
+p65 a mountain towering amonst the trees, a fast sunrise. this is still the jungle and there is some ceremony with lizardfolk, several thrones with with old reptilians raising glowing crystals. elaborated robes with feathers and jewels. light emanates from crystals on stone posts and pyramids. carved stonework and a... ceiling? a huge crowed of adorned lizardfolk with smaller crystals. it all disipates, Blovo under the expectant gaze of Gigar.
 
-p92
+p92 Gigar is giddy, eager to know about the vision. and Blovo recounts eerything, including the location.
 
-p37
+p37 he saw something similar once they reached the jungle, but most people just got sick and vomited all around. a long interview ensues, until some midday commotion makes them go out from the wagon.
 
-p75 and set to rest for the night.
+p75 Z'ka and Rija are back from the NE. they found wagon tracks and "other signs". cryptic and mysterious. a hard journey ensues, going deeper into the corruption to the point where some crew cannot take it anymore and vomit around. hard labour, mud, rot, sickness. it is very evident they are getting somwhere dangerous and sick. knackered, it is time to rest for the night, with fresh water.
 
 p97 but, after a short rest, he wakes up in the calm night. the usual noises he has come to expect. but something doesn’t feel right.
 
 
-p31 (9+3) 
+p31 (9+3) a slithering sound and a snap. pinpricks of light reflecting on larger than human eyes. Blovo guesses it is the lizardfolk again. Gets ready for battle.
 
-p14 
+p14 and raises the alarm, expecting a big contingent of foes. everybody leaps to stand up, and sentries draw their weapons. lizarfolk (Blovo was right) burst from the jungle and attacks with nets and clubs. Blovo could run away, but it is time to make an stand and fight. perhaps this could end swiftly.
 
-p73 fight! 11 > 10 (7+3), the lizardfolk goes first. brandishing his club he gets close to me and swings it at my head before I can do anything. hits (14 +4> 15), for 3+2 dmg. feeling the impact Blovo reels back, while loading and arrow. Blovo casts Hunter’s Mark on his quarry, moves away, avoiding a sluggish reaction blow (3+4), and releases the arrow from 15 ft. (14 +7 > 15), the arrow sinks strong and true (2+3+3). it was a single blow but it pierced through the armour piercing a lung and perhaps the heart. a bit deeper and it would have ended the fight. wailing, the lizard rushes forward but the anger is not enough and the pain makes it ineffective (10+4 < 15), as Blovo can anticipate a bit and narrowly dodge. Blovo drops the bow a few meters away and unsheathes a shortsword, thinking on finishing the combat clo se and avoid another attack. but fails (9+5 < 15), not being that adept to this form of combat. (10 +4 < 15) his foe fails as well, (8+5<15). (15+4>15) for 3+2. (15+5 > 15) and 3+3. the combat ends. 
+p73 a single foe faces Blovo. let's fight! 11 > 10 (7+3), the lizardfolk goes first. brandishing his club he gets close to Blovo and swings it at his head before there is anything he can do. hits (14 +4> 15), knocking Blovo's head heavily, not enough to worry him (3+2 dmg). feeling the impact Blovo reels back, while loading an arrow. Blovo casts Hunter’s Mark on his quarry, moves away, avoiding a sluggish reaction blow (3+4), and releases the arrow from 15 ft. the arrow sinks strong (14 +7 > 15) and true. it was a single blow (2+3+3) but it pierced through the armoured skin lodging between the ribs into a lung and perhaps the heart. a bit deeper and it would have ended the fight. wailing, the lizard rushes forward, but the anger is not enough and the pain makes it ineffective (10+4 < 15), as Blovo can anticipate a bit and narrowly dodge. Blovo drops the bow a few meters away and unsheathes a shortsword, thinking of finishing the combat closer, to avoid another attack. but fails (9+5 < 15), not being that adept to this form of combat. (10 +4 < 15) his foe fails as well, and then Blovo does(8+5<15), both swinging furiously but without precision or enough strength. Blovo's foe hits again (15+4>15 for 3+2) back in the same part of the head. this time Blovo also manages to hit(15+5 > 15) and, hitting with the side of the sword, his foe falls unconscious (3+3) and the combat ends. 
 
-p40 
+p40 the lizardfolk lands on the mud and, after checking he is down, Blovo kicks the club away and fetches his bow. looking around, the battle seems lots, with the crew being captured and part of the camp on fire. while he tries to decide between engaging or hiding, he is dragged away.
 
-p29 
+p29 Z'ka is holding him, Rija tells Blovo to stop struggling. what is going on? Rija and Gigar surround Z'ka. nobody seems injured, but Gigar is unsettled. Rija throws Blovo's gear at his feet and, very pragmatically, says she is continuing on and that we can help. Z'ka hints anyone captured will be eating. Gigar is uneasy, the respectable thing is to help. but the fight is truly lost and both know it. Blovo (like Gigar) wants to find Z'leth. Z'ka releases Blovo and nods, clearly these four have at least one thing in common.
+Blovo picks up the gear, seathes the sword, hangs the bow at his back and starts following Rija and the rest of this reduced group into the jungle. quite sure they are going northeast, even if surrounded by darkened and tangled vegetation.
+
+# Chapter 2
 
 p107
 

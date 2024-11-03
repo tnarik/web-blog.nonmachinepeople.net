@@ -149,5 +149,12 @@ Blovo picks up the gear, seathes the sword, hangs the bow at his back and starts
 
 # Chapter 2
 
-p107
+p107 the four stumble through the jungle, moving fast under a phosphorescent dim light. after an hour, they stop, exhausted. time to reassess. Blovo does not have much gear or options: go back or spend the night alone. other than that, stick with this crew. Z'ka leads the way with determination. where to? unkonwn, but the sound of the camp seems to be getting closer, not farther.  
+
+p150 the ground rises gently, but with a lot of undergrowth and skittering insects or animals, nothing very hard. except for Gigar, perhaps. insects seem malformed or hurt. they plan on finding shelter, with Z'ka pointing up the slope: "Caves"
+
+p116 (9+5 > 12) With the help of Blovo's survival skills, he finds a large cave, with time to explore it. it is covered behind moss and vines. Blovo can see some markings on the wall and even some skeleton. a human, an elf, or something alike, flesh long gone. it clutches a pack to its side. weird that it is so intact. doesn't seem "undead", whatever that means. or at least it doesn't move. searching, two blue crystals like those Rija wears are found.
+A voice startles him, it is Rija at the cave mouth, asking if Blovo found something.
+
+p162 Blovo decides to keep the crystals for himself. the rest of the group enters and they decide to stay, even if the corpse doesn't seem like a good augur.
 

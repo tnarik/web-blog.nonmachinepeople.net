@@ -8,11 +8,13 @@ draft = true
 
 # outro/intro
 
-after the last patrol in Langston, I said my goodbyes to continue my trip to the Ephenbald's81 farm. got rid of some clutter before the trip and reflected a bit on the experience and conversations with Roy during my trip into the forest and towards the coast.
+after the last patrol in Langston, I said my goodbyes to continue my trip to the Ephenbald's farm. got rid of some clutter before the trip and reflected a bit on the experience and conversations with Roy during my trip into the forest and towards the coast.
 
-I feel more robust, having had a first round of real battles, and practiced archery quiet a lot, a much preferred approach than using swords to fight. from spending some time and chats with Roy I realised I can manipulate the magic essence present in nature and perform some spells. part of it applies to my archery, and now I am able able to mark my quarries if I concentrate, allowing me to hit more precisely, causing more damage. this is great! I feel like a suddenly much better archer!
+I feel more robust, having had a first round of real battles, and practiced archery quite a lot, a much preferred approach than using swords to fight. from spending some time and chats with Roy I realised the strange feeling I had of connecting with the woods was a preamble to my capability to manipulate the magic essence present in nature and perform some spells. part of it applies to my archery, and now I am able able to mark my quarries if I concentrate, allowing me to hit more precisely, causing more damage. this is great! I feel like a suddenly much better archer!
 
-also, food. I learned to create goodberries, kind of magic snack food but packed with nutrients. say bye to rations! it feels weird eating so little and feeling satiated and requiring only water, but it would do in a pinch, and it is great not having to worry about food. but I would miss a lot eating and chewing, so let's consider it a bit of... emergency rations.
+also, I thought about food. I could learn to create goodberries, kind of magic snack food but packed with nutrients. say bye to rations! it must feel weird eating so little and feeling satiated and requiring only water, but it would do in a pinch, and it is great not having to worry about food. but I would miss a lot eating and chewing, so let's consider it a bit of... emergency rations. and an emergency idea, a Dwarf as hearty as me needs to chew.
+
+that would have been interesting, but I now can cure wounds by manipulating the weave of nature magic. 
 
 and that's all, I kept travelling.
 

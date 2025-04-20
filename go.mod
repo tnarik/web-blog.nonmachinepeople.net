@@ -2,6 +2,8 @@ module github.com/tnarik/web-blog.nonmachinepeople.net
 
 go 1.23.1
 
+replace github.com/tnarik/hugo-homebrewery-theme_props => /Users/tnarik/Desktop/hugo-homebrewery-theme_props
+
 require (
 	github.com/adityatelange/hugo-PaperMod v0.0.0-20250209063618-a020be213745 // indirect
 	github.com/naturalcrit/homebrewery v3.16.0+incompatible // indirect

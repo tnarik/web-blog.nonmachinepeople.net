@@ -55,7 +55,6 @@ it was the beginning of Fall and the harvest season, time for a belated visit, a
 so now Blovo was on the road back to the valley.
 
 \page
-
 **References**: 
 
 * Dwarvish language reference: [https://www.dandwiki.com/wiki/Dwarven_Language#:~:text=The%20Dwarven%20Language%5Bedit%5D,they%20have%20in%20those%20languages](https://www.dandwiki.com/wiki/Dwarven_Language#:~:text=The%20Dwarven%20Language%5Bedit%5D,they%20have%20in%20those%20languages)

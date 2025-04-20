@@ -8,7 +8,9 @@ draft = true
 
 # Langston
 
-these are some notes Blovo too during his adventure in Langston.
+this is my attempt to chronicle the adventures of Blovo in Langston based on some notes taken at that time. this chronicle contains a combination of short notes with names and actions, as well as portions of a bit more elaborate retelling which I, as chronicler, put together trying to compose some sort of narrative. in time, everything might be rearranged in this last format.
+
+interpersed in the text, there would be notes about decision points (p) and the outcome of chance checks.
 
 # chapter 1
 
@@ -97,7 +99,6 @@ cold breakfast, empty common room, quiet streets. the wagon with flowers from th
 (chapter 2 was about 1 h of play)
 
 \page
-
 # Chapter 3
 this is a very quiet wood. beautiful and peaceful, but eeily quiet.  p122
 I stopped in a clearing to drink some water and now looked around (7 + 4 x 2 due to the forest being my favoured terrain,… but it should have been 7 + 4  + 2 because only the proficiency bonus was doubled. I will let it pass this time) -> p155
@@ -143,8 +144,8 @@ there is a new lead. I'm commanded to go to the town hall.
 I'm not sure I like being commanded, and I'm spending too long here instead of looking into my origins while going back to the Ephenbald farm, but... ah, hell, I also wanted more experiences. p165
 
 (1h more or less)
-\page
 
+\page
 # Chapter 4
 
 almost a normal day, but not really, p193
@@ -201,6 +202,7 @@ this will be a long rest, more on that later.
 
 (7 hours later, at 5:30 AM) but before going to bed I study the amulet and the silverbane, reflecting on both the fight from tonight and the druid sickness. I attuned. and then go to bed, having a good and relaxing night and recovering fully. breakfast is ready as well as a note of gratitude from the mayor. The funeral will be tomorrow, so I better go to the temple to inspect the body. and talk to Solaine, which is well overdue. p237
 
+\page
 # Chapter 5
 
 the sun temple is old, a limestone building seemingly predating the town. I got in, but there is nobody around. I’ll explore. p296

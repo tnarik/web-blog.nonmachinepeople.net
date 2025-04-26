@@ -14,8 +14,8 @@ interpersed in the text, there would be notes about decision points (p) and the 
 
 # chapter 1
 
-(p0 > p23 > p40) Blovo gets to the gates of Langston sprinting along the road as he is chased by wolves
-(p4) a dwarf soosh them away. he is called Roy Sunderhammer (p1) goes into Langston, which seems to be empty. or at least its marketplace and streets are. he can only see someone who seems to be a sun cleric and decides to call out the cleric. (p27 > p19) Maybelline is the name of the deceased, funeral at The Pickled Hen -p34 intimidate the drunk -p20 but I don’t manage to p36
+the day is nearing its end and Blovo is on the road. he is approaching the city of Langston, when he hears some howling in the distance, getting closer. ^p0 > p23 > p40^ Blovo gets to the gates of Langston sprinting along the road as he is chased by wolves
+`(p4)` a dwarf soosh them away. he is called Roy Sunderhammer. ^p1^ goes into Langston, which seems to be empty. or at least its marketplace and streets are. he can only see someone who seems to be a sun cleric and decides to call out the cleric. `(p27 > p19)` Maybelline is the name of the deceased, funeral at The Pickled Hen -p34 intimidate the drunk -p20 but I don’t manage to p36
 Tanya (Mayor Anathram) the half-orc stops it p44 - p28 funeral starts. 
 p32 Tomlin, the fiance speaks. it looks like his nickname is The Wolf. i’m suspecting. There is something wrong about this, maybe he’s a newcomer in the village. A womaniser, perhaps?
 I tried to use my insight because this is not the place nor moment to investigate. p46

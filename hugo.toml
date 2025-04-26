@@ -3,6 +3,9 @@ languageCode = 'en-gb'
 title = 'non-machine people'
 buildDrafts = true
 
+[markup.goldmark.extensions.extras.superscript]
+enable = true
+
 [module]
 [[module.imports]]
 path = "github.com/tnarik/web-blog.nonmachinepeople.net-theme"

@@ -23,3 +23,29 @@ My theme will import a common theme (PaperMod), customise it and bring in other 
 I thought it would be easy to do the whole thing from local directories, but it requires playing around with the `go.mod` files to replace repos with paths. And it seems the repos are verified, so the names require proper thinking.
 
 [https://discourse.gohugo.io/t/how-to-do-hugo-0-77-module-replacements-with-nested-modules-right/34225](https://discourse.gohugo.io/t/how-to-do-hugo-0-77-module-replacements-with-nested-modules-right/34225)
+
+
+# Development
+
+You can use a `.envrc` file with this content:
+
+```
+export HUGO_MODULE_WORKSPACE=go.work
+```
+
+and a `go.work` file with a content similar to:
+
+```
+go 1.23.1
+
+use (
+	.
+	/Users/tnarik/Desktop/web-blog.nonmachinepeople.net-theme
+	/Users/tnarik/Desktop/tnarik2_theme_assets
+	/Users/tnarik/Desktop/tnarik2_homebrewery
+)
+```
+
+This allows developing theme and assets in parallel, without having to push everything to a remote repo.
+
+The current `.gitignore` will ignore those files.

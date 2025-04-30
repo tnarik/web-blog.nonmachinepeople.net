@@ -1,12 +1,14 @@
 +++
 title = 'every journey starts somewhere'
-series = []
+series = ["Blovo"]
 date = 2023-09-27T12:41:01+01:00
+modified = 2025-04-30T17:42:37+01:00
 style = '5ePHB'
-draft = true
 +++
 
 # Blovo
+
+allow me to introduce you to Blovo, and all that is known about his past.
 
 ## the Ephenbald
 

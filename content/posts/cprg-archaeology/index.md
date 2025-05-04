@@ -1,6 +1,7 @@
 +++
 title = 'cprg archaeology'
 date = 2025-03-04T11:29:16Z
+author = ["Tnarik Innael"]
 draft = true
 +++
 

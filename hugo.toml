@@ -28,7 +28,7 @@ languageName = 'Spanish'
 weight = 1
 
 [params]
-mainSections = ['post']
+mainSections = ['posts']
 
 [taxonomies]
 category = "categories"
@@ -37,8 +37,22 @@ series = "series"
 
 [menu]
 [[menu.main]]
+identifier = 'posts'
 name = 'posts'
-pageRef = '/post'
+pageRef = '/posts'
+weight = 2
 [[menu.main]]
+identifier = 'adventures'
 name = 'adventures'
-pageRef = '/adventure'
+pageRef = '/adventures'
+weight = 1
+[[menu.main]]
+identifier = 'search'
+name = ' '
+post = '<svg viewBox="0 0 24 24" width="24" height="24" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round" class="css-i6dzq1"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>'
+pageRef = '/search'
+weight = 10
+
+# Enable searching via PaperMod, using Fuse.js
+[outputs]
+home = [ "HTML", "RSS", "JSON" ]

@@ -1,6 +1,6 @@
 +++
 title = 'zleth'
-series = []
+series = ["Blovo"]
 date = 2024-09-09T19:08:25+01:00
 style = '5ePHB'
 draft = true

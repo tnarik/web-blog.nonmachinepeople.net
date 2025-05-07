@@ -2,3 +2,5 @@ github.com/tnarik/hugo-homebrewery v0.0.0-20250426154603-8604c5749068 h1:0l6xkHT
 github.com/tnarik/hugo-homebrewery v0.0.0-20250426154603-8604c5749068/go.mod h1:n0lbgsD5juNDt54cwIOOlWdHe3vHNNgN2BgBBfaW+hE=
 github.com/tnarik/web-blog.nonmachinepeople.net-theme v0.0.0-20250504204138-086e93f9f2ba h1:ncmHfbODKodabeYE7/KuXkoADHrorjBBtQWem0S0Dzw=
 github.com/tnarik/web-blog.nonmachinepeople.net-theme v0.0.0-20250504204138-086e93f9f2ba/go.mod h1:TFx8cfO1coHRjYtAtQLQxJ2KCeRX/0MFUjpTEy53DXQ=
+github.com/tnarik/web-blog.nonmachinepeople.net-theme v0.0.0-20250505070736-56b3f8d1926f h1:y0x47W8VjKgg3SoEM1EapEU4cczySEkWzFafddfEwwI=
+github.com/tnarik/web-blog.nonmachinepeople.net-theme v0.0.0-20250505070736-56b3f8d1926f/go.mod h1:9VVQ1RtRqKNLMMSYYs0kMBxHR3sNmgZICxXiJw/0fnQ=

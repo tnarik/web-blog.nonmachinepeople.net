@@ -59,11 +59,12 @@ it was the beginning of Fall and the harvest season, time for a belated visit, a
 
 so now Blovo was on the road back to the valley.
 
-::
-::
+{{wide}}
+{{wide}}
 {{wide
 **References**: 
 
+* game: [D&D 5e 2014](https://www.dndbeyond.com/sources/dnd/phb-2014)
 * Dwarvish language reference: [https://www.dandwiki.com/wiki/Dwarven_Language#:~:text=The%20Dwarven%20Language%5Bedit%5D,they%20have%20in%20those%20languages](https://www.dandwiki.com/wiki/Dwarven_Language#:~:text=The%20Dwarven%20Language%5Bedit%5D,they%20have%20in%20those%20languages)
 * Dwarvish script: [https://forgottenrealms.fandom.com/wiki/Dwarvish](https://forgottenrealms.fandom.com/wiki/Dwarvish)
 * Dethek: [https://www.fonts4free.net/dethek-stone-font.html](https://www.fonts4free.net/dethek-stone-font.html)

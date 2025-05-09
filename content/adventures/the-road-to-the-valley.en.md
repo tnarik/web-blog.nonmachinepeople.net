@@ -21,12 +21,12 @@ the day is nearing its end and Blovo is on the road. he is approaching the city 
 ::
 ^[it all started 2023-09-30]^
 
-a dwarf (dressed like Blovo imagines a druid would do). he shoos them away. ^p4^ he is called Roy Sunderhammer and suggests getting to the inn. ^p1^ Blovo goes into Langston, which seems to be empty. or at least its marketplace and streets are. he can only see someone who seems to be a sun cleric. he decides to call them out. ^p27^ it is indeed a young sun cleric, getting ready for the last rites of a young woman. instead of following in, Blovo first looks through the window. ^p19^ a packed room, and a barmaid invites Blovo in. the name of the deceased is Maybelline, her funeral is indeed held at The Pickled Hen and the Mayor of the town is interested in talking to travellers or adventurers (which is what Blovo is). ^p34^
+a dwarf (dressed like Blovo imagines a druid would do). he shoos them away. ^p4^ he is called Roi Sunderhammer and suggests getting to the inn. ^p1^ Blovo goes into Langston, which seems to be empty. or at least its marketplace and streets are. he can only see someone who seems to be a sun cleric. he decides to call them out. ^p27^ it is indeed a young sun cleric, getting ready for the last rites of a young woman. instead of following in, Blovo first looks through the window. ^p19^ a packed room, and a barmaid invites Blovo in. the name of the deceased is Maybelline, her funeral is indeed held at The Pickled Hen and the Mayor of the town is interested in talking to travellers or adventurers (which is what Blovo is). ^p34^
 
 *a drunk confronts me, and a half-orc with a stylish suit is watching (I imagine it is the mayor).* Blovo tries to intimidate the drunk ^p20^ *I don't mind finishing fights*, but Blovo doesn't seem threatening enough and ^p36^ Tanya (also known as Mayor Anathram), the female half-orc, stops the drunk from starting the fight. he leaves. ^p44 - p28^ the funeral begins (and the Mayor wants to talk once it finishes). 
 
-the parents are the first to talk. then, the fiancé (Tomlin) speaks. ^p32^ it looks like his nickname is "The Wolf". that, on its own, is suspicious to Blovo. *there is something wrong about all of this, maybe HE is a newcomer in the village. or just a womaniser, perhaps?* something is very odd here. Blovo tries to use his insight (this is not the place nor moment to investigate, specially with him being a new face himself). ^p46 - p29^ *yes, I have a feeling that Tomlin is some kind of Don Juan and everyone in town knows that, or at least all women do. it looks like Roy is about to talk now.* ^p13^
-Roy is the druid assigned to Langston. something weird happened with his beard when he sneezed, while creating flowers via a spell. Blovo tries to focus on the changes that took place. ^p14 - p42^
+the parents are the first to talk. then, the fiancé (Tomlin) speaks. ^p32^ it looks like his nickname is "The Wolf". that, on its own, is suspicious to Blovo. *there is something wrong about all of this, maybe HE is a newcomer in the village. or just a womaniser, perhaps?* something is very odd here. Blovo tries to use his insight (this is not the place nor moment to investigate, specially with him being a new face himself). ^p46 - p29^ *yes, I have a feeling that Tomlin is some kind of Don Juan and everyone in town knows that, or at least all women do. it looks like Roi is about to talk now.* ^p13^
+Roi is the druid assigned to Langston. something weird happened with his beard when he sneezed, while creating flowers via a spell. Blovo tries to focus on the changes that took place. ^p14 - p42^
 *if it were not impossible, I would say the druid was becoming a wolf? he might be a werewolf, or why would his appearance change like this for a second? it is also very strange that Tomlin’s nickname is The Wolf.* the Sun cleric is going to talk now. ^p39^
 
 her name is Solaine. she looks like she changed as well, at least in the character. she looks more confident. ^p43 - p45^ *did she have an affair with Tomlin? Maybe that makes her stronger and more confident?* ^p25^
@@ -342,11 +342,11 @@ I get a decent reward ^(350 gp)^ and feel I learnt quite a lot ^(600xp)^. I put 
 \page
 # epilogue
 
-I decided to stay at least 2 more days, to reflect on what happened and trace a plan forward. the town hall is paying for a couple more days if I go on patrol, as I explained to the Mayor what transpired from the conversation with Solaine and other information I gathered at the temple.
+I decided to stay at least 2 more days, to reflect on what happened and trace a plan forward for my journey. the town hall is paying for a couple more days if I go on patrol, as I explained to the Mayor what transpired from the conversation with Solaine and other information I gathered at the temple.
 
-I feel more knowledgeable and sturdy. ^(I level up)^ I can recover better and take time to practice my archery skills to depend less on swords or closer fighting (it was a close call at times, particulary when trying to use both swords). I got quite good a tracking, and I try to pull focus on a given creature for tracking while on patrol. is this magic? did I gain some affinity with magic, and is that the way it works? I go on patrol and eat.
+I feel more knowledgeable and sturdy. ^(I level up)^ I can recover better, and take some time to practice my archery skills to depend less on swords or closer fighting (it was a close call at times, particularly when trying to use both swords). I got better at tracking, and I try to pull focus on a given creature for tracking and attack while on patrol. is this magic? did I gain some affinity with magic, and is that the way it works? I go on patrol and eat.
 
-I talk to the druid about this. is that how it was for him? I heard before of rangers with some magical or uncanny skills, but always assumed people meant just very good at tracking, or interacting with animals, things like that. Roi explains how to find magic in nature, and how to try and weave it, or modify the tapestry of it a bit to bend things in my own favour. also, he taught me how to create Goodberries. not as difficult as I thought, somewhat tasty. still strange how they appear in your hand.
+I talk to the druid about this. is that how it was for him? I heard before of rangers with some magical or uncanny skills, but always assumed people meant just very good at tracking, or interacting with animals, things like that. Roi explains how to find magic in nature, and how to try and weave it, or modify the tapestry of it a bit to bend things in my own favour. he tells me about Goodberries, a very filling snack that strangely appears in your hand when manipulating nature magic properly. but I found out I can more directly mend wounds, both on me and on others. this proves useful during the patrols. ^[I retconned my spell choice from "Goodberry" to "Cure Wounds"]^
 
 ::
 ^[to the epilogue!]^ ^p370^
@@ -381,3 +381,13 @@ she is angry and there are no more questions. ^p399^ and now I rest for ^p389^ s
 I see... a woman in the shadows, under the moonlight? is my mind playing games? let's go back to the inn. ^p400^
 
 my unsolved mistery (the female figure in the dark, wearing simple clothes), might be the person that freed Solaine. this is somehow linked to a crescent moon, cold and ice. it is tempting to investigate, but I have spent enough time here. a new cleric is now in town and I can keep following my own path.
+
+{{wide}}
+{{wide}}
+{{wide
+**References**: 
+
+* game: [D&D 5e 2014](https://www.dndbeyond.com/sources/dnd/phb-2014)
+* adventure: [The Wolves of Langston](https://obviousmimic.com/en-gb/collections/the-wolves-of-langston)
+
+}}

@@ -134,7 +134,7 @@ a voice startles me, it is Rija at the cave mouth, asking me if I found somethin
 ^p162^ I decide to keep the crystals for himself. the rest of the group enters and we decide to stay, even if the corpse doesn't seem like a good augur.
 
 ::
-^[that is where I took a break, back in October 2023]^
+^[that is where I took a break, back in September 2024]^
 
 
 

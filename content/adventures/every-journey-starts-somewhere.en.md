@@ -1,6 +1,6 @@
 +++
 title = 'every journey starts somewhere'
-series = ["Blovo"]
+series = ["Blovo", "Origins"]
 date = 2023-09-27T12:41:01+01:00
 modified = 2025-04-30T17:42:37+01:00
 style = '5ePHB'
@@ -58,6 +58,7 @@ Blovo was still carving and working with wood due to his upbringing in the fores
 it was the beginning of Fall and the harvest season, time for a belated visit, after not being able to visit the previous year. he had not received any news from the Ephenbald for many months (they didn't correspond too often, but they did at least for his "birthday", really the anniversary of this recovery, at the end of Winter). while he was not worried, it was a bit strange.
 
 so now Blovo was on the road back to the valley.
+
 
 {{wide}}
 {{wide}}

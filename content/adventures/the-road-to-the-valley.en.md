@@ -21,15 +21,15 @@ the day is nearing its end and Blovo is on the road. he is approaching the city 
 ::
 ^[it all started 2023-09-30]^
 
-a dwarf (dressed like Blovo imagines a druid would do). he shoos them away. ^p4^ he is called Roi Sunderhammer and suggests getting to the inn. ^p1^ Blovo goes into Langston, which seems to be empty. or at least its marketplace and streets are. he can only see someone who seems to be a sun cleric. he decides to call them out. ^p27^ it is indeed a young sun cleric, getting ready for the last rites of a young woman. instead of following in, Blovo first looks through the window. ^p19^ a packed room, and a barmaid invites Blovo in. the name of the deceased is Maybelline, her funeral is indeed held at The Pickled Hen and the Mayor of the town is interested in talking to travellers or adventurers (which is what Blovo is). ^p34^
+a dwarf (dressed like Blovo imagines a druid would do). he shoos them away. ^p4^ he is called **Roi Sunderhammer** and suggests getting to the inn. ^p1^ Blovo goes into Langston, which seems to be empty. or at least its marketplace and streets are. he can only see someone who seems to be a sun cleric. he decides to call them out. ^p27^ it is indeed a young sun cleric, getting ready for the last rites of a young woman. instead of following in, Blovo first looks through the window. ^p19^ a packed room, and a barmaid invites Blovo in. the name of the deceased is **Maybelline**, her funeral is indeed held at The Pickled Hen and the Mayor of the town is interested in talking to travellers or adventurers (which is what Blovo is). ^p34^
 
-*a drunk confronts me, and a half-orc with a stylish suit is watching (I imagine it is the mayor).* Blovo tries to intimidate the drunk ^p20^ *I don't mind finishing fights*, but Blovo doesn't seem threatening enough and ^p36^ Tanya (also known as Mayor Anathram), the female half-orc, stops the drunk from starting the fight. he leaves. ^p44 - p28^ the funeral begins (and the Mayor wants to talk once it finishes). 
+*a drunk confronts me, and a half-orc with a stylish suit is watching (I imagine it is the mayor).* Blovo tries to intimidate the drunk ^p20^ *I don't mind finishing fights*, but Blovo doesn't seem threatening enough and ^p36^ Tanya (also known as **Mayor Anathram**), the female half-orc, stops the drunk from starting the fight. he leaves. ^p44 - p28^ the funeral begins (and the Mayor wants to talk once it finishes).
 
-the parents are the first to talk. then, the fiancé (Tomlin) speaks. ^p32^ it looks like his nickname is "The Wolf". that, on its own, is suspicious to Blovo. *there is something wrong about all of this, maybe HE is a newcomer in the village. or just a womaniser, perhaps?* something is very odd here. Blovo tries to use his insight (this is not the place nor moment to investigate, specially with him being a new face himself). ^p46 - p29^ *yes, I have a feeling that Tomlin is some kind of Don Juan and everyone in town knows that, or at least all women do. it looks like Roi is about to talk now.* ^p13^
+the parents are the first to talk. then, the fiancé (**Tomlin**) speaks. ^p32^ it looks like his nickname is "The Wolf". that, on its own, is suspicious to Blovo. *there is something wrong about all of this, maybe HE is a newcomer in the village. or just a womaniser, perhaps?* something is very odd here. Blovo tries to use his insight (this is not the place nor moment to investigate, specially with him being a new face himself). ^p46 - p29^ *yes, I have a feeling that Tomlin is some kind of Don Juan and everyone in town knows that, or at least all women do. it looks like Roi is about to talk now.* ^p13^
 Roi is the druid assigned to Langston. something weird happened with his beard when he sneezed, while creating flowers via a spell. Blovo tries to focus on the changes that took place. ^p14 - p42^
 *if it were not impossible, I would say the druid was becoming a wolf? he might be a werewolf, or why would his appearance change like this for a second? it is also very strange that Tomlin’s nickname is The Wolf.* the Sun cleric is going to talk now. ^p39^
 
-her name is Solaine. she looks like she changed as well, at least in the character. she looks more confident. ^p43 - p45^ *did she have an affair with Tomlin? Maybe that makes her stronger and more confident?* ^p25^
+her name is **Solaine**. she looks like she changed as well, at least in the character. she looks more confident. ^p43 - p45^ *did she have an affair with Tomlin? Maybe that makes her stronger and more confident?* ^p25^
 Tanya is talking now. she has a giant mastiff. she used to be a soldier. *she is it going to talk to me now. and she comes with the dog*. ^p6^ Blovo focuses on the dog, just in case it is a danger. ^p22^ it is definitely a military dog ^p30^ after some talk, the Mayor hires Blovo as an investigator. the town pays for a room at the inn and so he will retire for the night.
 
 time for a long rest ^p26^
@@ -59,7 +59,7 @@ no clue. ^p50^ let's refuse the tea (it might be poisoned or not, who knows, but
 he doesn't have a problem with it, just drinks his. ^p80^ he tells me a sudden love found story, somehow rushed, but it fits. has he seen anything strange? ^p62^
 the wolves have been more active (or at least loud) in the last couple of months. there are also some strangers camped near Emmitt and Tilly's farm. it looks like Roi also sleeps outside, it seems (which make sense for a druid). there are also complains about thefts from villagers.
 
-I also ask where he was the night of the death. ^p101^ he kind of gets angry, but quickly seems ashamed and reveals he was with friends, at the tarvern. a bit of a crazy night. let me investigate and ask a few more questions about that night ^p83^ something is missing... wait, where was Maybelline? ^p104^
+I also ask where he was the night of the death. ^p101^ he kind of gets angry, but quickly seems ashamed and reveals he was with friends, at the tavern. a bit of a crazy night. let me investigate and ask a few more questions about that night ^p83^ something is missing... wait, where was Maybelline? ^p104^
 
 he recalls it was a full moon and she didn't go out, because she was superstitious. Tomlin was meeting a childhood friend with some marital issues. was it really just him and friends in the tavern? ^p74^
 ah, Solaine was also there. Tomlin and her were lovers before her pilgrimage. but, while she was away, Maybelline and him fell in love.
@@ -73,7 +73,7 @@ ok, let's wrap this convo. ^p62 - p105^
 
 just before leaving he mentions some damage on the garden at night, clawed prints in the soil. I'll check the garden. ^p78^
 umm... let's check the trellis of the plot ^p81^
-some plants are pretty damaged. the plot is well taken care of. well trodden. I'm looking closer ^(used inspiration but it was not needed)^ ^p75^
+some plants are pretty damaged. the plot is well taken care of. well trodden. I'm looking closer ^(used inspiration, but it was not needed)^ ^p75^
 are two attacking us? I wasn't expecting that. ^p64^
 
 these are two scraplings. small humanoid, seemly made out of dry wood. I engage in fight to death with one of them (Tomlin is taking care of the other one).
@@ -122,7 +122,7 @@ there is a shallow pond. I search with help from Roi. ^p131^
 success! now wolfsbane. ^p133^
 Roi helped again, and I have lived in the woods for days at a time, so I now my way around (kind of). ^p154^
 so I collect some wolfsbane, very carefully to avoid the toxins the plant might release. Roi darts to his grove. ^p140^
-I brew some tea from the ingredients, and pour it into a bowl. Roi laps his medicine. he lies down while I wait with him, comfortable on the ground. once he reverts his form, he tells me the disease was apparently passed via the stirge by somebody, some other shapeshifter or a werewolf. he gifts mw wioth his brooch, the Silverstar. it was a gift from Solaine's predecessor, a cleric.
+I brew some tea from the ingredients, and pour it into a bowl. Roi laps his medicine. he lies down while I wait with him, comfortable on the ground. once he reverts his form, he tells me the disease was apparently passed via the stirge by somebody, some other shapeshifter or a werewolf. he gifts me with his brooch, the Silverstar. it was a gift from Solaine's predecessor, a cleric.
 
 now Roi needs to rest, but I'll ask a couple of questions first. let's start with the scrapling claw. ^p163^
 not the killer he assures me. (I didn't think so). but he transforms it into a +1 club for a week.
@@ -131,11 +131,11 @@ not the killer he assures me. (I didn't think so). but he transforms it into a +
 he started sniffling around the new moon, he says. the sneezing and changing started a couple of weeks later. Maybelline died on a full moon. hummm
 Roi doesn't think he suffers amnesia, and he wasn't sneezing during the full moon, apparently. today was the first uncontrollable change. he laughs off the hint of a suspicion.
 
-polypox is bloodborne, he is pretty sure it was the stirge (me too, he seems sincere), not from a werewolf as he didn't fight anny. werewolves can get polypox, or just be carriers.
+polypox is bloodborne, he is pretty sure it was the stirge (me too, he seems sincere), not from a werewolf as he didn't fight any. werewolves can get polypox, or just be carriers.
 
 *"Well, Roi, thanks. take care."* ^p124^
 
-I get back and eat, have some bad dreams about being attacked by rosebushes or running around on all fours. also dreamt of the shape from last night. I wake up startled (how not?). I don't see anything outside the window rightr now, but... I'll try to keep watch, almost forgot about the shape from last night. ^p160^
+I get back and eat, have some bad dreams about being attacked by rosebushes or running around on all fours. also dreamt of the shape from last night. I wake up startled (how not?). I don't see anything outside the window right now, but... I'll try to keep watch, almost forgot about the shape from last night. ^p160^
 nothing happened, just that the rest was not as good as I would have needed ^[short rest]^.
 
 the sun rises and there is a knock at the door. ^p128^
@@ -159,22 +159,22 @@ I am going through a normal forest this time. it seems calm and peaceful. ^p215^
 
 I get to a clearing with a dryad and a robin. I heard about this creature before, but didn't meet any yet. I'm not going to attack. I should sneak past, that is none of my business right now. ^p203^
 
-^[p198 is an errata of the edition I used, but also from 1.7. it should be p203 which involves a check]^
+^[p198 is errata of the edition I used, but also from 1.7. it should be p203 which involves a check]^
 
  I try to go without disturbing her, stealthy. but, I fail. ^p230^
 
-^[p198 is an errata (as it is for a SUCCESSFUL roll, so...) of the edition I used, but also from 1.7. the sections are reversed. p230 it is]^
+^[p198 is errata (as it is for a SUCCESSFUL roll, so...) of the edition I used, but also from 1.7. the sections are reversed. p230 it is]^
 
 I step on a dry twig and then a pile of dried leaves. clearly not my day to be quiet. the dryad reacts as if about to attack, but hesitates, a spell at the ready. let's talk. ^p200^
 she speaks broken Common. do I know Sylvan? I think I don't, not even a glimpse of it. argh. ^p177^
-it would have to do. *"strings grab friends", she says. is she referring to nets? lassos? definitely hunting traps of some sort. I  say Iwill try to help. I'm a ranger anyway, and protecting nature is my thing. she gives me a potion of barkskin (a toughener of sorts). it seems the camp is empty for now (the strangers/bandits are gone for a while). I ask for directions. ^p195^
+it would have to do. *"strings grab friends", she says. is she referring to nets? lassos? definitely hunting traps of some sort. I say I will try to help. I'm a ranger anyway, and protecting nature is my thing. she gives me a potion of barkskin (a toughener of sorts). it seems the camp is empty for now (the strangers/bandits are gone for a while). I ask for directions. ^p195^
 she guides me, graceful and quiet, to an entrance point into another clearing. a firepit with rubbish from meals, charred bones and old porridge. not a lush clearing. these are hunters, and probably poachers. ^p182^
 there is no kindling around for tonight, it seems. also, something is kept outside of animals reach, hanging from a tree. but other than that is like a trashy bivouac spot. I investigate thoroughly, inspired by the forest. ^(due to the advantage, I rolled twice and got a natural crit the second roll)^
 
 what I see: ^p207^ 
 - a warrant made out to Horace and Titch of hundreds of gp (if information is provided) or thousands (if captured dead or alive) for the Wolf of the Road, who also has an Orcish name (pretty obvious it is Orcish, even if I cannot understand the language). they are wanted for killing a constable in Three Rivers. I will take this with me. I guess the bandits/strangers are these individuals named "Horace" and "Titch".
 - the gear around is tattered and in disrepair.
-- on a second oilcloth I find an agate brooch (15gp) and a flimsy jeweled dagger (5gp). ^p183^
+- on a second oilcloth I find an agate brooch (15gp) and a flimsy jewelled dagger (5gp). ^p183^
 
 the night is coming. days are short here, damn! I get to town with the sun already set, the stars starting to shine.
 
@@ -190,7 +190,7 @@ they are angry, but I cannot tell anything else. I'll knock. ^p205^
 conversation goes silent. the mayor inquires who is there. *"who? me, is everything ok?"* further silence, the mayor opens the door. she seems courteous now. wtf, I don't get it.
 I step in. the lean bandit has a dagger at her back? oh, my... the mayor seems to ignore the guy completely. what is going on?
 am I a hostage? the mayor gestures me to comply. ok, but... ^p209^
-this is not a hostage situation, but the "bandits" are menacing somehow. mayor and dog are furious but they restrain themselves. I introduce myself and what I am doing. the bandits hint at... the mayor or one of them knowing more about the killing,? perhaps due to a revealed secret? oh, shit! ^p192^
+this is not a hostage situation, but the "bandits" are menacing somehow. mayor and dog are furious but they restrain themselves. I introduce myself and what I am doing. the bandits hint at... the mayor or one of them knowing more about the killing? perhaps due to a revealed secret? oh, shit! ^p192^
 so, these guys (yes, they introduce themselves as Horace and Titch) tell me the mayor is the Wolf of the Road. they have a poster linked to the warrant I have. I make public what I know: it makes no sense threatening the mayor/us with reinforcements or their party (because there is none). and there is no additional proof. their gambit didn't work, the mayor is clearly going to retaliate, I guess. I threaten them myself. just want them to go away and sort this out with the mayor, without any spilling of blood. ^p199^
 
 but, I cannot intimidate them. so ^p228^ it is fighting time. ^p178^
@@ -198,7 +198,7 @@ but, I cannot intimidate them. so ^p228^ it is fighting time. ^p178^
 \page
 I take on Titch, while the mayor and Buttercup engage Horace.
 Titch tries to swing at me with a dagger. and hits, a bit more than a glance ^(4 HP)^.
-I draw my shortsword and hit Titch sqare on ^(8 HP)^. nice, this will end soon.
+I draw my shortsword and hit Titch square on ^(8 HP)^. nice, this will end soon.
 Titch hits again ^(4 HP)^.
 but now I have my two shortswords out. He dodges my first strike, but the second one hits fully, ^(6 HP)^.
 
@@ -290,7 +290,7 @@ these are the only flowers I see around, in the mausoleum. they have a tag signe
 when I go back, Solaine is still there. I think she has doubts about her faith, and she is just not paying any attention to me. I need to interrupt her, ^p306^ she frightened.
 we agree that, I’ll tell the mayor. to me, Solaine is not a member of the order any more. or not a dedicated one. but... well, I leave. she goes back to the library. ^p252^
 
-the mayor is surprised by the news and she orders the militia to patrol the streets at night. I’ll go on patrol, as well. but I take a short rest before that, to recover from the fight. and then I am ready to go. ^p301^
+the mayor is surprised by the news, and she orders the militia to patrol the streets at night. I’ll go on patrol, as well. but I take a short rest before that, to recover from the fight. and then I am ready to go. ^p301^
 my patrol finds no zombies nor ghouls. but two body remains, torn apart it seems, with the same kind of wounds that Maybelline had. I come back in the wee hours, and fall asleep.
 there is no food at the door this morning. instead, the mayor is having breakfast while waiting for me in the common area. ^p317^
 
@@ -307,7 +307,7 @@ Tomlin is upset and tries to attack her. he is stopped. she looks at Tomlin. I w
 two militia men approach her. she sounds defiant. all her kindness gone. she sounds aggressive, like going mad ^p320^
 and... yep! she just transformed into a werewolf. well, she is a werewolf and transformed into the beasty version. she takes down right there two militia men that were flanking her, and charges towards Tomlin. ^p329^
 people stampedes. because of people fleeing, I cannot jump straight into action, and she takes Tomlin through the crowd with one long claw, climbing the wall of a building. Solaine howls, and runs towards the temple. Roi thinks it’s a curse that can be cured. the medallion, the silverstar, might be helpful for this. I run to the temple. ^p360^
-I unsheath my shortsword and run as fast as I can. a scream. Tomlin is laying in a pool of blood. I got too late. Solaine definitely left a trail going into the temple. not panicking (and thinking she cannot leave without me knowing), I examine the murder scene. ^p342^ ^[previous editions had p322 as an errata]^
+I unsheath my shortsword and run as fast as I can. a scream. Tomlin is laying in a pool of blood. I got too late. Solaine definitely left a trail going into the temple. not panicking (and thinking she cannot leave without me knowing), I examine the murder scene. ^p342^ ^[previous editions had p322 as errata]^
 
 
 I check for clues about her capabilities and the threat she poses. I’m inspired by the last days of getting to know the town and this people. ^p347^ these were angry blows, and precise with the intent to kill. but she may be remorseful. I go into the temple, now both swords at the ready. ^p324^
@@ -372,7 +372,7 @@ there is also a lock of hair. we would need to question Solaine about both findi
 we go back to check Maybelline’s room. ^p381^
 there is another garland there. they seem to attract each other, as if there was some sort of enchantment. we are running an experiment. ^p378^
 it seems an ancient love spell. if the garlands touch the spell breaks. pretty ironic, or just twisted. ^p372^
-Roi becomes a poni! I’m riding a pony! well, the shapeshifted druid, back to town. back to the jail house. I have some questions for Solaine:
+Roi becomes a poni! I’m riding a pony! well, the shapeshifted druid, back to town. back to the jailhouse. I have some questions for Solaine:
 
 * ^p375^ the garlands. she confirms what we suspected.
 * ^p382^ the hair. it is Tomlin’s hair. all points to an enchantment to either conquer him or break Solaine’s heart.
@@ -380,7 +380,8 @@ Roi becomes a poni! I’m riding a pony! well, the shapeshifted druid, back to t
 she is angry and there are no more questions. ^p399^ and now I rest for ^p389^ second night of patrol.
 I see... a woman in the shadows, under the moonlight? is my mind playing games? let's go back to the inn. ^p400^
 
-my unsolved mistery (the female figure in the dark, wearing simple clothes), might be the person that freed Solaine. this is somehow linked to a crescent moon, cold and ice. it is tempting to investigate, but I have spent enough time here. a new cleric is now in town and I can keep following my own path.
+my unsolved mystery (the female figure in the dark, wearing simple clothes), might be the person that freed Solaine. this is somehow linked to a crescent moon, cold and ice. it is tempting to investigate, but I have spent enough time here. a new cleric is now in town and I can keep following my own path.
+
 
 {{wide}}
 {{wide}}

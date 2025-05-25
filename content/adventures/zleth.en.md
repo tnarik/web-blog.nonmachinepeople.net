@@ -8,7 +8,7 @@ draft = true
 
 # outro/intro
 
-after the last patrol in Langston, I said my goodbyes to continue my trip to the Ephenbald's farm, leaving some of the artifacts I collected or was carrying with me with the town, to prepare for a lighter trip. also took some time to reflect a bit on the experience and conversations with Roy during my trip into the forest and towards the coast.
+after the last patrol in Langston, I said my goodbyes to continue my trip to the Ephenbald's farm, leaving some of the artefacts I collected or was carrying with me with the town, to prepare for a lighter trip. also took some time to reflect a bit on the experience and conversations with Roy during my trip into the forest and towards the coast.
 
 after the last adventure I feel more robust, having had a first round of real battles, and practised archery quite a lot. for me, this is a much preferred approach to using swords when fighting. from spending some time and chats with the druid Roi, I realised the strange feeling I had of connecting with the woods was a preamble to my capability to manipulate the magic essence present in nature and cast some spells. part of it applies to my archery, and now I am able to mark my quarries if I concentrate, allowing me to hit more precisely, causing more damage. this is great! now I feel like a more confident and better archer!
 
@@ -28,13 +28,13 @@ money is not that relevant (even if it helps, of course), but the opportunity to
 so I accepted, took the 75 gp advance, the map, the contract and spend the day getting closer to the jungle. it seemed a fantastic place to get lost and dehydrated due to the heat, and somewhat dangerous due to the (mostly unknown to me) fauna and flora, which was something I could feel from its outer bounds. but I decided to continue (the adventure and the contract are compelling), spend the night in an improvised camp at the boundaries and then march into the jungle at dawn, making a good pace with the goal of joining the explorers before the end of the day. I am tough and very capable to survive alone in nature, but this is new terrain for me, so the sooner I join the party, the better.
 
 \page
-# a new adventure begins
+## a new adventure begins
 
 so that’s where we are... not far from the expedition camp. yes, they had wagons. ummm, that was a very loud trill, I didn’t hear this one before. let’s see what is going on. 
 
 ^p74^ some lizardfolk are surrounding the expedition (an expedition? perhaps it is not the same). a human, who is seemly the leader, claims to have permission, but maybe the lizardfolk changed their mind (this seems to be their land). there is also some orcish sage/scholar within the crew. there is some exchange of words and hissing, the mention of Z’leth upsets the lizardfolk, or at least rattles them. there is plenty of tension between the two groups and this could explode. time to do or say something.
 
-^p12^ I am new to this discussion (and the overall situation), but I think I should talk to the lizardfolk first, as this is their part of the world. it is clear to me who the leader is for that group (I might be wrong, but they weare multicolored feathers). I clear my throat. *“I am Ylbifin Ephenbald, a member of this expedition... I was away when this started, what is the problem, if I may ask?”*
+^p12^ I am new to this discussion (and the overall situation), but I think I should talk to the lizardfolk first, as this is their part of the world. it is clear to me who the leader is for that group (I might be wrong, but they wear multicolored feathers). I clear my throat. *“I am Ylbifin Ephenbald, a member of this expedition... I was away when this started, what is the problem, if I may ask?”*
 
 ^(16)^ ^p62^ I made a good argument for de-escalation of the situation, to avoid harm to both sides. it looks like I convinced them, and the expedition leader (the human woman) plays along calling me "the diplomat". and mentioning the map I carry. yes, this is the expedition I was looking for.
 
@@ -58,7 +58,7 @@ let’s talk to the rest of the crew. ^p68^ we share a meal and banter, there is
 
 ^p55^ he’s on his own, eating. seems to be reading the tablet he carried on his back, now resting on the ground. ^(4 + 3)^ ^p80^ I cannot fathom what Z’ka is doing other than eating (I think it might be a magic communication device, or ritualistic at least). he notices me, asks not to be disturbed, taps some word on the tablet while making a cryptic comment, and goes back to reading.
 
-^p3^ Rija. why not checking in with her before sleeping anyway...? she seems to be checking and repacking magical artefacts (black and blue crystals, vials, climbing gear). ^(11 + 2)^ ^p57^ I do not recognise anything. she puts the blue crystals in a bandolier, anbd takes her backpack with her. 
+^p3^ Rija. why not checking in with her before sleeping anyway...? she seems to be checking and repacking magical artefacts (black and blue crystals, vials, climbing gear). ^(11 + 2)^ ^p57^ I do not recognise anything. she puts the blue crystals in a bandolier, and takes her backpack with her.
 didn’t find out much about the expedition. it is late, I better find a bedroll to sleep in.
 
 ^p89^ I need water (running low, it was hot and I walked a lot). due to the notes (and being a ranger who thinks he can survive on his own) I’ll get water from a stream near the camp, not the barrels (thinking they refer to a curse).
@@ -73,7 +73,7 @@ didn’t find out much about the expedition. it is late, I better find a bedroll
 \page
 I am helped back to the camp. 
 
-^p45^ after cleaning the waterskin, I fill it from the barrels. Rija talks a bit and I am just destroyed. I rest ^[in an alternative past, Blovo created 10 Goodberries for the next day. just in case. but the spell joice was retconned]^
+^p45^ after cleaning the waterskin, I fill it from the barrels. Rija talks a bit and I am just destroyed. I rest ^[in an alternative past, Blovo created 10 Goodberries for the next day. just in case. but the spell choice was retconned]^
 
 ^p20^ I recover from the poison overnight ^(9 + 3)^ after a feverish night filled with the buzzing of the mosquitoes. perhaps the rain that fell helped with that. or the leeches in my boots. well, however it was, I erred and learned.
 Rija is the one that woke me up. we are scouting ahead, eating rations on the way, while the camp gets ready. I don’t feel very talkative and last night experience prompts me to be more observant. I’ll walk next to her though.  ^p95^ we follow some path barely fit for wagons and Rija points to the trees. 
@@ -97,11 +97,11 @@ let’s get Z’ka ^p58^ yep, he points and references the NE, and seem to growl
 
 ^(3 + 3)^ ^p93^ I get that society had access to magical power (and crystals). I cannot tell more. *“Is hidden under the under”*, says Z’ka. I eat something (would eat a goodberry for a snack and create a new batch if I had access to that spell, but it would be so... joyless). nite!
 
-^p10^ I am rested (this was my second night in the jungle), and wake up to the activity of the camp. it seems Rija and Z’ka left scouting on their own towards the NE. I have been assigned to support Gigar's investigations. he produces an obsidian amulet representing a winged serpent with feathers instead of scales. Gigar askes me to hold it in order to begin, and he grasps it.
+^p10^ I am rested (this was my second night in the jungle), and wake up to the activity of the camp. it seems Rija and Z’ka left scouting on their own towards the NE. I have been assigned to support Gigar's investigations. he produces an obsidian amulet representing a winged serpent with feathers instead of scales. Gigar asks me to hold it in order to begin, and he grasps it.
 
 ^p47^ some force gathers in the amulet and rushes to my mind. ^(15 + 3)^ ^p81^ I get drawn into a very sensorial scene, very powerful energy surge. somehow I still manage to understand that I am not present there, just barely (that is how vivid it is).
 
-^p65^ a mountain is towering amongst the trees, a fast sunrise. this is still the jungle and there is some ceremony with lizardfolk, several thrones with old reptilians raising glowing crystals above their heads.they were elaborated robes with feathers and jewels. light emanates from crystals on stone posts and pyramids. carved stonework and a... ceiling? a huge crow of adorned lizardfolk with smaller crystals. it all dissipates.
+^p65^ a mountain is towering amongst the trees, a fast sunrise. this is still the jungle and there is some ceremony with lizardfolk, several thrones with old reptilians raising glowing crystals above their heads. they wear elaborated robes with feathers and jewels. light emanates from crystals on stone posts and pyramids. carved stonework and a... ceiling? a huge crow of adorned lizardfolk with smaller crystals. it all dissipates.
 
 I recover my sense, under the expectant gaze of Gigar.
 
@@ -110,7 +110,7 @@ I recover my sense, under the expectant gaze of Gigar.
 ^p75^ Z'ka and Rija are back from the NE. they found wagon tracks and "other signs". they are bing cryptic and mysterious. a hard journey ensues, going deeper into the corruption to the point where part of the crew cannot take it any more and vomit around. it is all hard labour, mud, rot, and sickness. it is very evident we are getting somewhere dangerous and sick. all of us knackered, it is time to rest for the night, with fresh water.
 
 \page
-^p97^ but, after a short rest, I wake up in the calm night. something woke me up. there arethe usual noises I have come to expect. but something doesn’t feel right.
+^p97^ but, after a short rest, I wake up in the calm night. something woke me up. there are the usual noises I have come to expect in this jungle. but something doesn’t feel right, something that woke me up.
 
 ^(9 + 3)^ ^p31^ I hear a slithering sound and a snap. see pinpricks of light reflecting on larger than human eyes. my guess is this are the lizardfolk again. I get ready for battle ^p14^ and raise the alarm, expecting a big contingent of foes. everybody leaps to stand up, and sentries draw their weapons. lizarfolk (I was right) burst from the jungle and attack with nets and clubs. I could run away, but it is time to make a stand and fight. perhaps this could end swiftly.
 
@@ -122,21 +122,19 @@ I recover my sense, under the expectant gaze of Gigar.
 I pick up my gear, sheathe the sword, hangs the bow at my back and start following Rija and the rest of this reduced group into the jungle. quite sure they are leading me northeast, even if surrounded by darkened and tangled vegetation.
 
 \page
-# chapter 2
+## chapter 2
 
 ^p107^ the four of us stumble through the jungle, moving fast under a phosphorescent dim light. after an hour, we stop, exhausted. it is time to reassess. I do not have much gear or options: either go back or spend the night alone. other than that, I should stick with this crew. Z'ka leads the way with determination. where to? unkonwn, but the sound of the camp seems to be getting closer, not farther. perhaps my mind playing games. 
 
 ^p150^ the ground rises gently, but with a lot of undergrowth and skittering insects or animals, nothing very hard. except for Gigar, perhaps. the insects seem malformed or hurt. we plan on finding some shelter, and Z'ka points up the slope: *"Caves"*
 
-my experience suriving in the wild ^(9 + 5 > 12)^ ^p116^ helps me to find a large cave, with time to explore it. it is covered behind moss and vines. I can see some markings on the wall and even a skeleton. a human, an elf, or something alike, flesh long gone. it clutches a pack to its side. it is weird that it is so intact, laying in this area with animals an vegetation. at least doesn't seem "undead", whatever that means. or at least it doesn't move when I poke it. searching, I find two blue crystals like those Rija wears (also glowing).
+my experience surviving in the wild ^(9 + 5 > 12)^ ^p116^ helps me to find a large cave, with time to explore it. it is covered behind moss and vines. I can see some markings on the wall and even a skeleton. a human, an elf, or something alike, flesh long gone. it clutches a pack to its side. it is weird that it is so intact, laying in this area with animals and vegetation. at least doesn't seem "undead", whatever that means. or at least it doesn't move when I poke it. searching, I find two blue crystals like those Rija wears (also glowing).
 a voice startles me, it is Rija at the cave mouth, asking me if I found something in the cave.
 
-^p162^ I decide to keep the crystals for himself. the rest of the group enters and we decide to stay, even if the corpse doesn't seem like a good augur.
+^p162^ I decide to keep the crystals for himself. the rest of the group enters, and we decide to stay, even if the corpse doesn't seem like a good augur.
 
 ::
 ^[that is where I took a break, back in September 2024]^
-
-
 
 
 {{wide}}

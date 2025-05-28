@@ -2,6 +2,7 @@
 title = 'noshow'
 series = ["Origins"]
 style = '5ePHB'
+date = 2026-12-31T12:49:16+01:00
 draft = true
 +++
 
@@ -14,7 +15,6 @@ the story of Twyla Zandikih’een is a fuzzy one. it may well be a wished life, 
 her birth created some convulsion locally. a tiefling born amidst a well established elvish family in a midsize town, a long line of merchants going back several generations in the area (6 at that time?). the newborn was the 7th sibling, and something didn't go as expected regarding her birth. the bumps on her forehead, and the orange hue to her skin were worrying, but when she opened her eyes to the world, and a tiny tail unfurled and slipped through the fingers of the midwife... then there was no doubt. it was perceived as a catastrophe, perhaps a curse finally catching up with the family bloodline, announcing a move towards "darkness" and the end of prosperity for the family. in any case, it was an event that the folk from her town were not ready to cope with easily. and neither did her family.
 
 it is not that the town was not cosmopolitan enough, or stuck and in the past. they knew about tieflings and their origin. there were several trade fairs during the year, gathering people from diverse origins, and there was a good mix of elves, dwarfs, haflings, humans and even goliaths living in town. other than during the fairs, orcs, dragonborn and tieflings also passed by with some frequency and stayed for some time in town lodgings, either as a short stop or as a temporary basecamp to explore the surroundings. in other words, a tiefling was not a new sight. but a tiefling born in town? that was new.
-
 
 her family named her "Twilight".
 

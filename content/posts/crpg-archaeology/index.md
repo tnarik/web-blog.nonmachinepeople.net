@@ -1,5 +1,5 @@
 +++
-title = 'cprg archaeology'
+title = 'crpg archaeology'
 date = 2025-03-04T11:29:16Z
 author = ["Tnarik Innael"]
 draft = true
@@ -11,13 +11,13 @@ somehow, perhaps because I started playing some gamebooks and such, I wanted to 
 
 at the same time, the first week of this year (2025) I discovered the LCD handheld game of DND via a multiarcade emulator machine during Epiphany's Eve (or Three Kings Day's Eve, I guess) within a venue hired so that my niece and her friends could have some fun together before settling for the night (and the excitement of the next day). Also to give the parents some respite.
 
-anyway. I played some handled electronic games when I was a kid, but didn't remember that one, and didn't (still don't) have a clue of how to play it. but it picked my attention and so I search for it as this was evidently something I should be able to run on a Raspberry Pi or macOS. and then I found the primordial soup of CPRGs, the Plato mainframe and the games that appeared there. lots of them called DND in different variations.
+anyway. I played some handled electronic games when I was a kid, but didn't remember that one, and didn't (still don't) have a clue of how to play it. but it picked my attention and so I search for it as this was evidently something I should be able to run on a Raspberry Pi or macOS. and then I found the primordial soup of CRPGs, the Plato mainframe and the games that appeared there. lots of them called DND in different variations.
 
 so, my interest swifted then to play the oldest preserved CRPGs. after some additional investigation and determining that it wouldn't be possible playing any of them locally (they were created on the mainframe system, coded in TUTOR, and the code is not public), I played aropund a bit with a demo account (you can also do that) while waiting for a signon, read about their history and their chronology.
 
 ![pedit5](pedit5.png)
 
-`pedit` (the Dungon) is the oldest preserved game (at least that is clear to me). some games might have started earlier (but were not playable until later) and some users of Plato seem to recall either previous versions of `The Dungon` or some other programs for which there are no copies. the timeline is a bit murky and there is `m119h` or "Dungeon" (but [some recent data](https://crpgaddict.blogspot.com/2023/10/m199h-new-findings-both-solve-and.html) points to it being a remake or a recovered version of `pedit5`, as it was frequenly deleted).
+`pedit5` (The Dungeon) is the oldest preserved game (at least that is clear to me). some games might have started earlier (but were not playable until later) and some users of Plato seem to recall either previous versions of `The Dungeon` or some other programs for which there are no copies. the timeline is a bit murky and there is `m119h` or "Dungeon" (but [some recent data](https://crpgaddict.blogspot.com/2023/10/m199h-new-findings-both-solve-and.html) points to it being a remake or a recovered version of `pedit5`, as it was frequenly deleted).
 
 `dnd` was inspired by `pedit5` ("The Dungeon"), but `pedit5` started because there was work ongoing on `dnd` (all of this after the 1st edition of Dungeons and Dragons was published in 1974 and people started playing table top RPGs). a long time has passed and the names were pretty similar (Dungeon, The dungeon, etc...) so confussion is unavoidable.
 

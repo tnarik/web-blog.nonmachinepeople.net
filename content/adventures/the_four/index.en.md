@@ -1,8 +1,9 @@
 +++
 title = 'the_four'
-series = []
+series = ["4AD"]
 date = 2025-10-01T09:24:10+01:00
 style = '5ePHB'
+author = ["Tnarik Innael"]
 draft = true
 +++
 

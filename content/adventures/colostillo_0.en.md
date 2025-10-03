@@ -15,24 +15,22 @@ first, let's take a look at Quellek.
 
 {{monster,frame
 ## Quellek Entitilitus
-*an inhabitant of the Colostle*
+*an inhabitant of the Colostle (helmed)*
 ___
-***name***: Quellek Entitilitus
-:
-***class***: helmed
-:
 ***exploration score***: &#x25A3; &#x25A3; &squ; &squ; &squ;
 :
 ***combat score***: &#x25A3; &#x25A3; &#x25A3; &#x25A3; &#x25A3;
-:
+___
 ***calling***:
 :
 ***nature***: <span style="color:red">J &diams;</span> ->  sly, strategic and always planning
 :
 ***look***:
-:
-***inventory***:
+### Items
+***xxxx.***::
 }}
+
+
 
 
 ## Day 0

@@ -1,9 +1,8 @@
 +++
-title = 'crpg archaeology'
+title = 'CRPG archaeology'
 series = ["pedit"]
 date = 2025-03-04T11:29:16Z
 author = ["Tnarik Innael"]
-draft = true
 +++
 
 lately I've been retreating into the past, at least partially, right?

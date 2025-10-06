@@ -1,5 +1,5 @@
 +++
-title = 'the_four'
+title = 'The First Four, a 4AD chronicle'
 series = ["4AD"]
 date = 2025-10-01T09:24:10+01:00
 style = '5ePHB'

@@ -1,0 +1,8 @@
+baseURL = 'https://www.nonmachinepeople.net/'
+languageCode = 'en-gb'
+title = 'non-machine people'
+buildDrafts = false
+enableGitInfo = true
+
+[services.googleAnalytics]
+ID = "G-57WTW2EV1F"

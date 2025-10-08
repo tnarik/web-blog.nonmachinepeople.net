@@ -129,7 +129,7 @@ we are now almost ready to play.
 
 ## Enter the dungeon
 
-before entering the dungeon, the party buys a lantern (paying 1 gp each), which will be carried by **Pettic**, and **Farluk** selects the spells to memorise (*Sleep*, *Fireball* and *Protect*). after this preparation they are ready to start. the friends (or at least long term companions and allies) leave the village, venturing into the forest. after a few hours walk, they reach the entry of their first ever dungeon, in search of riches and establishing a reputation. adventure awaits.
+before entering the dungeon, the party buys a lantern (paying 1 gp each), which will be carried by **Pettic**, and **Farluk** selects the spells to memorize (*Sleep*, *Fireball* and *Protect*). after this preparation they are ready to start. the friends (or at least long term companions and allies) leave the village, venturing into the forest. after a few hours walk, they reach the entry of their first ever dungeon, in search of riches and establishing a reputation. adventure awaits.
 
 ^[after reformatting this a bit at Castle, I came back home and started the adventure proper at 19:13]^
 

@@ -44,13 +44,93 @@ is her business to adventure? no, but she has some skills for it,
 
 Julienne, elf with bow and weapon
 
+{{monster,frame
+## Julienne
+*Elf (Level 1)*
+___
+***Live*** :: 5
+***Wealth*** :: 7
+___
+| Attack | Defense |
+|:——:|:-——:|
+| +L (slashing) |    +1 +1   |
+___
+***armour*** :: Shield, light armour, heavy armour.
+***weapons*** :: Any.
+___
+***attacks.*** :: L added to attack rolls.
+### Items
+light armour
+jand weapon
+bow
+}}
+
 and she has motivated friends, joining her in the way.
 
 Remoura Farduk wizz
 Porchimwitz warr
 Cordelia cler
 
-she assumes the lost party where impetuous and didn't prepare thoroughly, they were basically kids in search of fame and glory (and riches). instead of that, the search party has a goal, finding them. and they will not be wreckless.
+{{monster,frame
+## Remoura Farduk
+*Barbarian (Level 1)*
+___
+***Live*** :: 8
+***Wealth*** :: 5
+___
+| Attack | Defense |
+|:——:|:-——:|
+| +L (slashing) |    +1 +1   |
+___
+***armour*** :: Shield, light armour, heavy armour.
+***weapons*** :: Any.
+___
+***attacks.*** :: L added to attack rolls.
+### Items
+light armour
+2h weapon
+}}
+
+
+{{monster,frame
+## Cordelia
+*Cleric (Level 1)*
+___
+***Live*** :: 5
+***Wealth*** :: 2
+___
+| Attack | Defense |
+|:——:|:-——:|
+| +L (slashing) |    +1 +1   |
+___
+***armour*** :: Shield, light armour, heavy armour.
+***weapons*** :: Any.
+___
+***attacks.*** :: L added to attack rolls.
+### Items
+}}
+
+{{monster,frame
+## Porchimwitz
+*Wizzard (Level 1)*
+___
+***Live*** :: 3
+***Wealth*** :: 11
+___
+| Attack | Defense |
+|:——:|:-——:|
+| +L (slashing) |    +1 +1   |
+___
+***armour*** :: Shield, light armour, heavy armour.
+***weapons*** :: Any.
+___
+***attacks.*** :: L added to attack rolls.
+### Items
+}}
+
+
+
+knowing Pettic, she assumes the lost party was impetuous and didn't prepare thoroughly. they were basically kids in search of fame and glory (and riches). instead of that, this search party has a goal: finding them. and they will not be wreckless.
 
 in the village they purchased:
 * a lantern. definitely a must, dungeons are dark. **Remoura** doubts **Farluk** agreed on going ahead without one.

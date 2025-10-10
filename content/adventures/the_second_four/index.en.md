@@ -69,7 +69,7 @@ ___
 ***Live*** :: 8
 ***Wealth*** :: 5
 ___
-| Attack | Defense |
+| Attack | Defence |
 |:—--—:|:-——:|
 | +L (slashing) |    +1 +1   |
 ___
@@ -103,7 +103,7 @@ ___
 
 {{monster,frame
 ## Porchimwitz
-*Wizzard (Level 1)*
+*Wizard (Level 1)*
 ___
 ***Live*** :: 3
 ***Wealth*** :: 11
@@ -119,8 +119,8 @@ ___
 ***Fireball.*** :: attack roll. against minions, slay a number of creatures equal to the roll minus the level of the minions (one creature minimum). doesn't affect dragons.
 ***Lightning Bolt.*** :: attack roll. kill one minion or inflict 2 wounds to a boss.
 ***Sleep.*** :: instead of an Attack roll, defeat one boss of d6+L minions. doesn't affect undead, dragons and some other monsters.
-***Escape.*** :: normally, or instead of a Defense roll, the wizard teleports to the first room.
-***Protect.*** :: +1 to a character's Defense rolls for the battle.
+***Escape.*** :: normally, or instead of a Defence roll, the wizard teleports to the first room.
+***Protect.*** :: +1 to a character's Defence rolls for the battle.
 ### Items
 ***light hand weapon.*** :: walking stick.
 ***spell book.*** :: contains coded annotations for the known spells.

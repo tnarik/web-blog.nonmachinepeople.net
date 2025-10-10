@@ -57,7 +57,7 @@ ___
 ___
 ***attacks.*** :: L only added to attack rolls from spells (including scrolls).
 ***puzzles.*** :: L added to rolls to solve puzzles and riddles.
-***spellcasting.*** :: A wizard begins with 2 + L spells. They should prepare then before starting the adventure (multiple copies are allowed). Additional spells (found or from leveling up), may be used immediately.  
+***spellcasting.*** :: A wizard begins with 2 + L spells. They should prepare then before starting the adventure (multiple copies are allowed). Additional spells (found or from levelling up), may be used immediately.  
 ### Spells
 ***Blessing.*** :: removes a curse and some other conditions.
 ***Fireball.*** :: attack roll. against minions, slay a number of creatures equal to the roll minus the level of the minions (one creature minimum). doesn't affect dragons.

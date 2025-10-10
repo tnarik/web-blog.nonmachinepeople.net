@@ -36,13 +36,7 @@ let's see. now, a quick intro.
 
 **Julienne** hasn't heard from **Pettic** in a couple of days. yes, he went adventuring into a dungeon, and this was meant to take some time. they were also not living together by any chance, and there are reasons why he might need to hide (fear of retaliation, paying some debts). perhaps the group were just celebrating, or licking their wounds or wounded pride.
 
-this is the fourth night though ^[it really is, I started on the night of 2025-10-04, finishing on 2025-10-05]^ and she has been thinking about it since then ^[I have, although I know how that adventure ended]^. she had been holding on until now, hoping to get some information, clarity about what to do, but it is the time to do something. and not just her, but also **Ramura**. and perhaps some of her other friends.
-
-she doesn't know exactly where to go, but she knows **Pettic** and his friends started from somewhere, so they will go to the same place, get ready and head towards **Pettic**'s most probable destination.
-
-is her business to adventure? no, but she has some skills for it,
-
-Julienne, elf with bow and weapon
+this is the fourth night though ^[it really is, I started on the night of 2025-10-04, finishing on 2025-10-05, and today is the 8th]^ and she has been thinking about it since then ^[I have, although I know how that adventure ended]^. she had been holding on until now, hoping to get some information, clarity about what to do, but it is the time to do something. and not just her, but also **Ramura**. and perhaps some of her other friends.
 
 {{monster,frame
 ## Julienne
@@ -51,25 +45,22 @@ ___
 ***Live*** :: 5
 ***Wealth*** :: 7
 ___
-| Attack | Defense |
-|:——:|:-——:|
-| +L (slashing) |    +1 +1   |
-___
 ***armour*** :: Shield, light armour, heavy armour.
 ***weapons*** :: Any.
 ___
-***attacks.*** :: L added to attack rolls.
+***attacks.*** :: L added to attack rolls (except 2H), and spellcasting. +1 against orcs.
 ### Items
-light armour
-jand weapon
-bow
+***light armour.*** :: leather armour.
+***hand weapon.*** :: a silver metal rod.
+***bow.*** :: a metal shield with an engraved sigil.
 }}
 
-and she has motivated friends, joining her in the way.
+\page
+she doesn't know exactly where to go, but she knows **Pettic** and his friends started from somewhere, so they will go to the same place, get ready and head towards **Pettic**'s most probable destination.
 
-Remoura Farduk wizz
-Porchimwitz warr
-Cordelia cler
+is it her business to adventure? no, she envisoined a different life for herself. but she has some skills for it, and **Pettic** is missing.
+
+and she has motivated friends, joining her in the way.
 
 {{monster,frame
 ## Remoura Farduk
@@ -79,16 +70,16 @@ ___
 ***Wealth*** :: 5
 ___
 | Attack | Defense |
-|:——:|:-——:|
+|:—--—:|:-——:|
 | +L (slashing) |    +1 +1   |
 ___
-***armour*** :: Shield, light armour, heavy armour.
+***armour*** :: Shield, light armour.
 ***weapons*** :: Any.
 ___
 ***attacks.*** :: L added to attack rolls.
 ### Items
-light armour
-2h weapon
+***light armour.*** :: reinforced leather vest, pants and boots.
+***hand weapon.*** :: 2h weapon
 }}
 
 
@@ -99,15 +90,15 @@ ___
 ***Live*** :: 5
 ***Wealth*** :: 2
 ___
-| Attack | Defense |
-|:——:|:-——:|
-| +L (slashing) |    +1 +1   |
-___
 ***armour*** :: Shield, light armour, heavy armour.
 ***weapons*** :: Any.
 ___
-***attacks.*** :: L added to attack rolls.
+***attacks.*** :: L/2 added to attack rolls. L added against undead.
+***spellcasting.*** :: Cast Blessing up to 3 times. Cast Healing (d6 + L life points) up to three times. When casting from scrolls, L is only added to Blessing, otherwise, as level 1.
 ### Items
+***light armour.*** :: leather armour.
+***shield.*** :: a metal shield with an engraved sigil.
+***hand weapon.*** :: a silver metal rod.
 }}
 
 {{monster,frame
@@ -117,16 +108,25 @@ ___
 ***Live*** :: 3
 ***Wealth*** :: 11
 ___
-| Attack | Defense |
-|:——:|:-——:|
-| +L (slashing) |    +1 +1   |
+***armour*** :: None.
+***weapons*** :: Light weapon, sling.
 ___
-***armour*** :: Shield, light armour, heavy armour.
-***weapons*** :: Any.
-___
-***attacks.*** :: L added to attack rolls.
+***attacks.*** :: L only added to attack rolls from spells (including scrolls).
+***puzzles.*** :: L added to rolls to solve puzzles and riddles.
+***spellcasting.*** :: A wizard begins with 2 + L spells. They should prepare then before starting the adventure (multiple copies are allowed). Additional spells (found or from levelling up), may be used immediately.  
+### Spells
+***Blessing.*** :: removes a curse and some other conditions.
+***Fireball.*** :: attack roll. against minions, slay a number of creatures equal to the roll minus the level of the minions (one creature minimum). doesn't affect dragons.
+***Lightning Bolt.*** :: attack roll. kill one minion or inflict 2 wounds to a boss.
+***Sleep.*** :: instead of an Attack roll, defeat one boss of d6+L minions. doesn't affect undead, dragons and some other monsters.
+***Escape.*** :: normally, or instead of a Defense roll, the wizard teleports to the first room.
+***Protect.*** :: +1 to a character's Defense rolls for the battle.
 ### Items
+***light hand weapon.*** :: walking stick.
+***spell book.*** :: contains coded annotations for the known spells.
+***writing tools.*** ::
 }}
+
 
 
 

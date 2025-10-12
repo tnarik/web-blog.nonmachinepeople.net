@@ -50,9 +50,9 @@ ___
 ___
 ***attacks.*** :: L added to attack rolls (except 2H), and spellcasting. +1 against orcs.
 ### Items
-***light armour.*** :: leather armour.
-***hand weapon.*** :: a silver metal rod.
-***bow.*** :: a metal shield with an engraved sigil.
+***light armour.*** :: leather armour reinforced with metal links.
+***hand weapon.*** :: a rapier, with a silky band wrapping the hilt.
+***bow.*** :: oaken.
 }}
 
 \page
@@ -68,10 +68,6 @@ and she has motivated friends, joining her in the way.
 ___
 ***Live*** :: 8
 ***Wealth*** :: 5
-___
-| Attack | Defence |
-|:—--—:|:-——:|
-| +L (slashing) |    +1 +1   |
 ___
 ***armour*** :: Shield, light armour.
 ***weapons*** :: Any.
@@ -98,7 +94,7 @@ ___
 ### Items
 ***light armour.*** :: leather armour.
 ***shield.*** :: a metal shield with an engraved sigil.
-***hand weapon.*** :: a silver metal rod.
+***hand weapon.*** :: a silver hammer.
 }}
 
 {{monster,frame

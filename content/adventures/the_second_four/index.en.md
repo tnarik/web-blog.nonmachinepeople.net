@@ -131,3 +131,61 @@ knowing Pettic, she assumes the lost party was impetuous and didn't prepare thor
 in the village they purchased:
 * a lantern. definitely a must, dungeons are dark. **Remoura** doubts **Farluk** agreed on going ahead without one.
 * bandages,.....
+
+
+
+## decisions
+
+
+{{monster,frame
+## Julienne
+*Elf (Level 2)*
+___
+***Live*** :: 5/6
+***Wealth*** :: 2
+### Items
+***light armour.*** :: leather armour reinforced with metal links.
+***hand weapon.*** :: ??
+***bow.*** :: ??
+}}
+
+
+{{monster,frame
+## Remoura Farduk
+*Barbarian (Level 1)*
+___
+***Live*** :: 5/8
+***Wealth*** :: 14
+### Items
+***light armour.*** :: reinforced leather vest, pants and boots.
+***hand weapon.*** :: ??
+}}
+
+
+{{monster,frame
+## Cordelia
+*Cleric (Level 2)*
+___
+***Live*** :: 4/6
+***Wealth*** :: 11
+### Items
+***light armour.*** :: leather armour.
+***shield.*** :: a metal shield with an engraved sigil.
+***hand weapon.*** :: ??
+}}
+
+{{monster,frame
+## Porchimwitz
+*Wizard (Level 2)*
+___
+***Live*** :: 4/4
+***Wealth*** :: 26
+### Items
+***light hand weapon.*** :: ??
+***spell book.*** :: contains coded annotations for the known spells.
+***writing tools.*** ::
+***lantern.***
+***gems/jewels.*** 140 gp value brooch.
+}}
+
+

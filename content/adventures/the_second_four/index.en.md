@@ -36,7 +36,7 @@ let's see. now, a quick intro.
 
 **Julienne** hasn't heard from **Pettic** in a couple of days. yes, he went adventuring into a dungeon, and this was meant to take some time. they were also not living together by any chance, and there are reasons why he might need to hide (fear of retaliation, paying some debts). perhaps the group were just celebrating, or licking their wounds or wounded pride.
 
-this is the fourth night though ^[it really is, I started on the night of 2025-10-04, finishing on 2025-10-05, and today is the 8th]^ and she has been thinking about it since then ^[I have, although I know how that adventure ended]^. she had been holding on until now, hoping to get some information, clarity about what to do, but it is the time to do something. and not just her, but also **Ramura**. and perhaps some of her other friends.
+this is the fourth night though ^[it really is, I started on the night of 2025-10-04, finishing on 2025-10-05, and today is the 8th]^ and she has been thinking about it since then ^[I have, although I know how that adventure ended]^. she had been holding on until now, hoping to get some information, clarity about what to do, but it is the time to do something. and not just her, but also **Remoura**. and perhaps some of her other friends.
 
 {{monster,frame
 ## Julienne
@@ -58,9 +58,9 @@ ___
 \page
 she doesn't know exactly where to go, but she knows **Pettic** and his friends started from somewhere, so they will go to the same place, get ready and head towards **Pettic**'s most probable destination.
 
-is it her business to adventure? no, she envisoined a different life for herself. but she has some skills for it, and **Pettic** is missing.
+is it her business to adventure? no, she envisioned a different life for herself. but she has some skills for it, and **Pettic** is missing.
 
-and she has motivated friends, joining her in the way.
+and she has motivated friends, joining her in the way. firstly, there is **Farluk**'s sister, **Remoura**. very different inclinations but still a concerned sister nevertheless.
 
 {{monster,frame
 ## Remoura Farduk
@@ -75,9 +75,10 @@ ___
 ***attacks.*** :: L added to attack rolls.
 ### Items
 ***light armour.*** :: reinforced leather vest, pants and boots.
-***hand weapon.*** :: 2h weapon
+***hand weapon.*** :: 2h boardsword
 }}
 
+they joined forces with another cleric who knows **Ardanmalusa**. the relationship is not clear (they might share the same faith, but who knows).
 
 {{monster,frame
 ## Cordelia
@@ -90,12 +91,14 @@ ___
 ***weapons*** :: Any.
 ___
 ***attacks.*** :: L/2 added to attack rolls. L added against undead.
-***spellcasting.*** :: Cast Blessing up to 3 times. Cast Healing (d6 + L life points) up to three times. When casting from scrolls, L is only added to Blessing, otherwise, as level 1.
+***spellcasting.*** :: Blessing up to 3 times. Healing (d6 + L life points) up to three times. casting from scrolls, L is added only to Blessing (L1 otherwise).
 ### Items
 ***light armour.*** :: leather armour.
 ***shield.*** :: a metal shield with an engraved sigil.
 ***hand weapon.*** :: a silver hammer.
 }}
+
+the trio was also joined by a common friend of **Julienne** and **Pettic**, eager to support her on the search, either of his friend or of news about him. even if it meant retrieving his remains. *"whatever you need from me, **Julienne**. just ask"*, he said.
 
 {{monster,frame
 ## Porchimwitz
@@ -109,31 +112,49 @@ ___
 ___
 ***attacks.*** :: L only added to attack rolls from spells (including scrolls).
 ***puzzles.*** :: L added to rolls to solve puzzles and riddles.
-***spellcasting.*** :: A wizard begins with 2 + L spells. They should prepare then before starting the adventure (multiple copies are allowed). Additional spells (found or from levelling up), may be used immediately.  
+***spellcasting.*** :: 2 + L spells. to be prepared before starting the adventure (multiple copies are allowed).
 ### Spells
 ***Blessing.*** :: removes a curse and some other conditions.
-***Fireball.*** :: attack roll. against minions, slay a number of creatures equal to the roll minus the level of the minions (one creature minimum). doesn't affect dragons.
-***Lightning Bolt.*** :: attack roll. kill one minion or inflict 2 wounds to a boss.
-***Sleep.*** :: instead of an Attack roll, defeat one boss of d6+L minions. doesn't affect undead, dragons and some other monsters.
+***Fireball.*** :: attack roll. against minions, slay a number of creatures equal to the roll minus the level of the minions (1 creature minimum). doesn't affect dragons.
+***Lightning Bolt.*** :: attack roll. kill 1 minion or inflict 2 wounds to a boss.
+***Sleep.*** :: attack roll, defeat one boss of d6+L minions. doesn't affect undead, dragons, etc.
 ***Escape.*** :: normally, or instead of a Defence roll, the wizard teleports to the first room.
 ***Protect.*** :: +1 to a character's Defence rolls for the battle.
 ### Items
-***light hand weapon.*** :: walking stick.
+***light hand weapon.*** :: a shillelagh.
 ***spell book.*** :: contains coded annotations for the known spells.
 ***writing tools.*** ::
 }}
 
+knowing Pettic and Farluk, the grouop assumes the lost party was impetuous and didn't prepare thoroughly. *"they were basically kids in search of fame and glory"* (and riches). instead of that, this search party has a goal: finding them. and they will not be reckless.
 
-
-
-knowing Pettic, she assumes the lost party was impetuous and didn't prepare thoroughly. they were basically kids in search of fame and glory (and riches). instead of that, this search party has a goal: finding them. and they will not be wreckless.
-
-in the village they purchased:
+once they reached the last known place of reference, and gather some indications about they previous party goals, they rest for the night.
+upon waking up, they pulled all their resources together and visited the main store/warehouse of the village. there they purchased:
 * a lantern. definitely a must, dungeons are dark. **Remoura** doubts **Farluk** agreed on going ahead without one.
-* bandages,.....
+* bandages for all
+
+\page
+## an entrance
+
+following some indications from the village folks, they entered the forest and, after a while, found the double doors the barkeep mentioned. *"this might be it"*, said **Remoura** while sheathing her greatsword and pushing to open the doors. *"it certainly looks like it"*. the whole party joins to push and the doors open to an empty and quiet room, no signs of anybody (apparently). they enter.
+
+their first encounter, zombies (Remoura and Cordelia do most)
+
+a dart (Julienne avoids)
+
+a trapdoor (Remoura falls)
+
+some coins
+
+3 zombies jump from the darkness (Porch hits them to death)
+
+another empty room
+
+5 skeletons, (Remoura and Cordelia do most DMG in 1 round)
 
 
 
+\page
 ## decisions
 
 
@@ -143,6 +164,7 @@ in the village they purchased:
 ___
 ***Live*** :: 5/6
 ***Wealth*** :: 2
+___
 ### Items
 ***light armour.*** :: leather armour reinforced with metal links.
 ***hand weapon.*** :: ??

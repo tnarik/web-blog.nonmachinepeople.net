@@ -50,17 +50,21 @@ dos días después de mi regreso del festival de cine de Sitges, ha llegado el m
 42. A Grand Mockery: el director vendió las dos únicas piezas de *merchandising* que se trajo.
 43. Exit 8 (pensando en *commuting*): clavada al juego (estoy jugando ahora).
 44. Odyssey: los agentes inmobiliarios son lo peor, ok. ningún personaje me cayó bien.
-45. No Other Choice (al ver mi Tindeq): no es Descision to Leave pero es una gran película.
+45. No Other Choice (al ver mi Tindeq y pensar en escalar): no es **Decision to Leave** ni **The Handmaiden** pero es una gran película.
 46. The Mermaid
 47. L'homme qui retracit (El hombre menguante)
 48. Redux Redux: viajes en el tiempo y venganza. muchas ganas de verla otra vez.
 49. Tristes Tropiques
-50. Hard Boiled
-51. Sons of the Neon Night
+50. Hard Boiled: muy buena, pero no me esperaba tanto *gun-fu*.
+51. Sons of the Neon Night: parte del mismo maratón que **Hard Boiled**, sólo vi pedazos (muchos días de cine acumulados).
 52. Trapped: un Eastern muy largo para acabar.
+53. An Old Woman with a Knife*: me dormí completamente (bueno, excepto los primeros y últimos 5 minutos).
+54. The Long Walk: *the buddy movie*.
+55. Astrid's Saints
+56. The Fin
 
 recordar algunas películas (las primeras, las últimas) es instantáneo (unas por inmediatez, otras por las ganas que tenía de que llegara el festival), pero las demás caen bien a gotas o a borbotones. una imagen del cartel, el recuerdo de la breve espera, una breve conversación o su posición en el calendario. otras las recuerdo porque no las recuerdo (pensando en explicar qué película era, me llega otro título, o el título que parecía preso del olvido). lo que está claro es que no consigo recordar todas (¿fueron 67 en total?).
 
 hubo tres sesiones para las que tenía entradas pero no pude ir:
-* Be a good girl
-* Deathstalker / Deathmaggedon II / The Creeps (cogí el día incorrecto y se solapaba con **Hard Boiled**)
+* Be a good girl: me desperté 4 minutos antes de que empezara, después de una maratón el día anterior. mi despertador no sonó (o estaba demasiado cansado).
+* Deathstalker / Deathmaggedon II / The Creeps: cogí el día incorrecto y se solapaba con **Hard Boiled**.

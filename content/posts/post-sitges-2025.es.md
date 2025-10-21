@@ -85,7 +85,7 @@ ahora llega el momento de revisar y comprobar qué me he dejado:
 * The Descendent: esta es la película producida por Aaron Moorehead y Justin Benson. aliens.
 * Feels Like Home: cine político turco. muy buena película que lamento haber olvidado.
 
-en total, han sido 67 artilugios vistos (incluyendo un corto), con dos completamente catatónico. las películas que no recuerdo son bien aquellas de las que apenas he hablado con alguien, o que no me han dado mucho que pensar.
+en total, han sido 67 artilugios vistos (incluyendo un corto), con dos completamente catatónico. las películas que no recuerdo son aquellas de las que apenas he hablado con alguien, o que no me han dado mucho que pensar.
 
 tampoco es que recordarlas sea lo esencial. hay una parte en todo esto del cine que es el disfrute del momento (sea durante la pelícuala o en el tiempo que rodea a su proyección).
 

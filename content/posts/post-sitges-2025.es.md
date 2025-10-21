@@ -1,7 +1,8 @@
 +++
 title = 'memorias de Sitges 2025'
 date = 2025-10-20T15:55:47+02:00
-draft = false
+series = ["Sitges"]
+author = ["Tnarik Innael"]
 +++
 
 dos días después de mi regreso del festival de cine de Sitges, ha llegado el momento de hacer un poco de recuento y memoria. he visto muchas películas en muy poco tiempo y siempre me queda la duda de cuántas de ellas han generado algo de poso. sin más dilación (y sin tratar de seguir un orden cronológico):

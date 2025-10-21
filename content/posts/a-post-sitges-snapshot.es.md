@@ -1,7 +1,8 @@
 +++
 title = 'una post-instantánea de Sitges 2023'
 date = 2023-10-15T09:55:47+02:00
-draft = false
+series = ["Sitges"]
+author = ["Tnarik Innael"]
 +++
 
 es Domingo y hoy no toca película alguna, al menos no en Sitges. es día de hacer las maletas, descansar y volar de vuelta a “casa”. tal vez incluso de disfrutar un poco de la lluvia que parece caerá pronto.

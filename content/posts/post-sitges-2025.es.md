@@ -84,7 +84,7 @@ ahora llega el momento de revisar y comprobar qué me he dejado:
 * 13 Days till Summer: parte de la misma maratón que **Mermaid**. un slasher sin más. correcto, pero hay decenas mejores, u otras películas que hacen mejor lo que intenta hacer (vease **Funny Games**).
 * Every Heavy Thing: sólo recordaba a Barbara Crampton, a Tipper, y que era una especie de Noir.
 * The Descendent: esta es la película producida por Aaron Moorehead y Justin Benson. aliens.
-* Feels Like Home: cine político turco. muy buena película que lamento haber olvidado.
+* Feels Like Home (**Itt érzem magam otthon**): cine político húngaro. muy buena película que lamento haber olvidado.
 
 en total, han sido 67 artilugios vistos (incluyendo un corto), con dos completamente catatónico. las películas que no recuerdo son aquellas de las que apenas he hablado con alguien, o que no me han dado mucho que pensar.
 

@@ -8,7 +8,7 @@ author = ["Tnarik Innael"]
 
 # The First Four
 
-## Intro
+## intro
 
 I've been wanting to play some solo RPGs for a while now, and I've been doing it in some fashion by playing around with game books, fantasy based 1 player tabletop (or traytop) games, and some scripted solo adventures (like Obvious Mimic or Archmage Press 5e solo adventures). some of those plays are more thorough than others, while some are more paused, depending on the time I have.
 
@@ -127,7 +127,7 @@ and finally my rogue (because rogues rule). the name comes from *Pyramids*, whic
 
 we are now almost ready to play.
 
-## Enter the dungeon
+## enter the dungeon
 
 before entering the dungeon, the party buys a lantern (paying 1 gp each), which will be carried by **Pettic**, and **Farluk** selects the spells to memorize (*Sleep*, *Fireball* and *Protect*). after this preparation they are ready to start. the friends (or at least long term companions and allies) leave the village, venturing into the forest. after a few hours walk, they reach the entry of their first ever dungeon, in search of riches and establishing a reputation. adventure awaits.
 
@@ -216,7 +216,7 @@ the dragon eats, she wasn't expecting this, but she is content now. she has food
 ^[11:20]^
 
 \page
-## Outro
+## outro
 
 and so, the **First Four** were defeated on their first proper adventure together, a chronicle I am telling on what to me is a Sunday morning, in that time that precedes going to climbing again. it was a fun game, definitely an absorbing one. I probably made some mistakes regarding the rules (some of which I realised almost instantly, and decided to see through until the end of the adventure) and I reckon I could have followed a different strategy.
 

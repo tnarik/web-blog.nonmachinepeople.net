@@ -125,7 +125,7 @@ ___
 
 and finally my rogue (because rogues rule). the name comes from *Pyramids*, which was the book I was reading at the time (during that flight or ride, not sure what it was).
 
-we are now almost ready to play.
+we are now almost ready to play. let's crack on, start discovering the world and what adventures will the party find on their way.
 
 ## enter the dungeon
 

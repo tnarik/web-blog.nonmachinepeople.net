@@ -10,7 +10,11 @@ author = ["Tnarik Innael"]
 
 ## first, a look back...
 
-after the [previous adventure]({{< relref "adventures/the_four" >}}) I got some time to think about what I learned (or could have learned). there are some rules that I definitely didn't follow (and knew about, but decided to continue ignoring for consistency) both in the RAW (rule as written) and RAI (rule as intended) sense. at least as far as I know. one of those was using the `Protect` spell for save checks, and another was regarding considering a Boss as outnumbered to apply benefits to the rogue (**Pettic**). in the end it didn't matter because the fight ended horribly, from a win/loss point of vieve (I was actually very pleased with the outcome).
+after the [previous adventure]({{< relref "adventures/the_four" >}}) I got some time to think about what I learned (or could have learned). there are some rules that I definitely didn't follow (and knew about, but decided to continue ignoring for consistency) both in the RAW (rule as written) and RAI (rule as intended) sense. at least as far as I know. one of those was using the `Protect` spell for save checks, and another was regarding considering a Boss as outnumbered to apply benefits to the rogue (**Pettic**). in the end it didn't matter because the fight ended horribly, from a win/loss point of view (I was actually very pleased with the outcome).
+
+{{wide
+{{< gallery >}}
+}}
 
 since then (while preparing for my time in Sitges, yay!) I re-read the rules (fully on the plane today), and also compiled my doubts (either because of how they are written or unclear ambiguity). I discovered there are:
 * a group in Facebook, **Four Against Darkness Adventurer's Guild** (I refuse to link Facebook, but you can search for it), where the creator (**Andrea Sfiligoi**) contributes and answers doubts often
@@ -122,10 +126,10 @@ ___
 ### Items
 ***light hand weapon.*** :: a shillelagh with a polished stone for a knob.
 ***spell book.*** :: contains coded annotations for the known spells.
-***writing tools.***
+***writing tools.*** ::
 }}
 
-knowing Pettic and Farluk, the grouop assumes the lost party was impetuous and didn't prepare thoroughly. *"they were basically kids in search of fame and glory"* (and riches). instead of that, this search party has a goal: finding them. and they will not be reckless.
+knowing Pettic and Farluk, the group assumes the lost party was impetuous and didn't prepare thoroughly. *"they were basically kids in search of fame and glory"* (and riches). instead of that, this search party has a goal: finding them. and they will not be reckless.
 
 once they reached the last known place of reference, and gather some indications about they previous party goals, they rest for the night.
 upon waking up, they pulled all their resources together and visited the main store/warehouse of the village. there they purchased:
@@ -241,6 +245,7 @@ ___
 ___
 ***Live*** :: 5/8
 ***Wealth*** :: 14
+___
 ### Items
 ***light armour.*** :: reinforced leather vest, pants and boots.
 ***hand weapon.*** :: -
@@ -253,6 +258,7 @@ ___
 ___
 ***Live*** :: 4/6
 ***Wealth*** :: 11
+___
 ### Items
 ***light armour.*** :: leather armour.
 ***shield.*** :: a metal shield with an engraved sigil.
@@ -265,11 +271,12 @@ ___
 ___
 ***Live*** :: 4/4
 ***Wealth*** :: 26
+___
 ### Items
 ***light hand weapon.*** :: -
 ***spell book.*** :: contains coded annotations for the known spells.
-***writing tools.*** 
-***lantern.***
+***writing tools.*** ::
+***lantern.*** ::
 ***gems/jewels.*** :: 140 gp value brooch.
 }}
 

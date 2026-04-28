@@ -6,8 +6,14 @@ enableGitInfo = true
 
 [markup.goldmark.extensions.extras.superscript]
 enable = true
+# [markup.goldmark.renderer]
+# unsafe = true
 
 [module]
+[[module.imports]]
+path = "github.com/tnarik/gallery-glide"
+disable = false
+
 [[module.imports]]
 path = "github.com/tnarik/web-blog.nonmachinepeople.net-theme"
 disable = false

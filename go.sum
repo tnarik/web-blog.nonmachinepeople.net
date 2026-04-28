@@ -2,6 +2,8 @@ github.com/tnarik/gallery-glide v0.0.0-20260428193849-e7e5fe4104b1 h1:pbeXxAf+jN
 github.com/tnarik/gallery-glide v0.0.0-20260428193849-e7e5fe4104b1/go.mod h1:pWF6Zs91ZIPNUaU+b4RjMNmZYv1N8J1zYBemjOwigLI=
 github.com/tnarik/gallery-glide v0.0.0-20260428202636-f4b53edd048b h1:aSHLnLpEKCseY4OW9imJVvXIjrbuXAyeYcsjNSXZC8g=
 github.com/tnarik/gallery-glide v0.0.0-20260428202636-f4b53edd048b/go.mod h1:pWF6Zs91ZIPNUaU+b4RjMNmZYv1N8J1zYBemjOwigLI=
+github.com/tnarik/gallery-glide v0.0.0-20260428212153-7b0960194cb8 h1:16OVymG8v3yWuiCPttJ0zIySyCK7Ze9/LqvhzWd7Abw=
+github.com/tnarik/gallery-glide v0.0.0-20260428212153-7b0960194cb8/go.mod h1:pWF6Zs91ZIPNUaU+b4RjMNmZYv1N8J1zYBemjOwigLI=
 github.com/tnarik/hugo-homebrewery v0.0.0-20260428123939-4a3ad3d1cd46 h1:Kut8kEejHv/WTpuJCLmhnwZZYjs5DxwKbCo+KINRi/c=
 github.com/tnarik/hugo-homebrewery v0.0.0-20260428123939-4a3ad3d1cd46/go.mod h1:jVKXqdBl5hd2gO+KxuQUxPaMfjkeL1cRj0Cjk/L9h0k=
 github.com/tnarik/web-blog.nonmachinepeople.net-theme v0.0.0-20260428124421-c2414e28b865 h1:oyXYdxNCHZkmjWtK1uGfl3mWRv4iWwfjkA4keLnwOKk=

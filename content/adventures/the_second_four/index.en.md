@@ -4,8 +4,6 @@ series = ["4AD"]
 date = 2025-10-08T21:04:35+01:00
 style = '5ePHB'
 author = ["Tnarik Innael"]
-showtoc = true
-
 +++
 
 # The Second Four
@@ -14,9 +12,7 @@ showtoc = true
 
 after the [previous adventure]({{< relref "adventures/the_four" >}}) I got some time to think about what I learned (or could have learned). there are some rules that I definitely didn't follow (and knew about, but decided to continue ignoring for consistency) both in the RAW (rule as written) and RAI (rule as intended) sense. at least as far as I know. one of those was using the `Protect` spell for save checks, and another was regarding considering a Boss as outnumbered to apply benefits to the rogue (**Pettic**). in the end it didn't matter because the fight ended horribly, from a win/loss point of view (I was actually very pleased with the outcome).
 
-{{wide
-{{< gallery >}}
-}}
+
 
 since then (while preparing for my time in Sitges, yay!) I re-read the rules (fully on the plane today), and also compiled my doubts (either because of how they are written or unclear ambiguity). I discovered there are:
 * a group in Facebook, **Four Against Darkness Adventurer's Guild** (I refuse to link Facebook, but you can search for it), where the creator (**Andrea Sfiligoi**) contributes and answers doubts often

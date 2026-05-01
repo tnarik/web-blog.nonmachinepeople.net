@@ -4,6 +4,8 @@ series = ["4AD"]
 date = 2025-10-08T21:04:35+01:00
 style = '5ePHB'
 author = ["Tnarik Innael"]
+showtoc = true
+
 +++
 
 # The Second Four

@@ -31,7 +31,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     env:
-      HUGO_VERSION: 0.146.6
+      HUGO_VERSION: 0.160.1
     steps:
       - name: Install Hugo CLI
         run: |
@@ -55,6 +55,8 @@ jobs:
           HUGO_CACHEDIR: ${{ runner.temp }}/hugo_cache
           HUGO_ENVIRONMENT: production
         run: |
+          hugo mod npm pack
+          npm install
           hugo \
             --gc \
             --minify \

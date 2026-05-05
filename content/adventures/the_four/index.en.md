@@ -4,7 +4,7 @@ series = ["4AD"]
 date = 2025-10-01T09:24:10+01:00
 style = '5ePHB'
 author = ["Tnarik Innael"]
-cover.image = "setup.png"
+cover.image = "images/the_room_where_it_happened.avif"
 +++
 
 # The First Four
@@ -164,7 +164,7 @@ going back to the intersection, ^(1 / 4 / 6)^ a group of 8 fungi folk (L3) erupt
 
 ^[23:00. this adventure is taking a long time, probably because I am also writing this chronicle. time for a break (a movie and sleep). back to the party at 7:50 the next day.]^
 
-![time for a break](time_for_a_break.avif)
+![time for a break](images/time_for_a_break.avif)
 *leaving with a cliffhanger for the night, because otherwise I would be playing for hours*
 ::
 at least the party learnt and adopted a formation with the armoured members at the back, to protect them from unexpected ambushes if possible. something they started doing after being surprised a few times.
@@ -193,7 +193,7 @@ in a quick confrontation between mandibles, swords and sling bullets, the warrio
 
 ^(54)^ a room similar to the one they came from opens. there is a door on the north side and... ^(12)^ it looks like they found the lair of a small dragon! this must not be the final encounter on this dungeon ^(2)^. there is always more to explore. the party knows about dragons, how they can be bribed, or present a quest at times... it might be sleeping, it is unclear yet, but they cannot risk approaching the dragon to check, it might be faking it and waiting to take the upper hand. dragons are cunning and dangerous.
 
-![the encounters until now](encounters.avif)
+![the encounters until now](images/encounters.avif)
 *all the encounters up until this point*
 ::
 *"Attack!"* the rogue switches to his blade, all rush forward, the wizard waits. ^(3 + 1 / 2 + 1/2)^ the scales of the dragon protect her. she rises, looking at them from beady eyes, from the ceiling, opens her jaw and breathes fire ^(2)^. only **Clovenia** manages to avoid the flame. **Ardanmalusa**'s shield is useless against this. **Farluk Farduk** decides to protect **Pettic** with a magic aura, which allows the rogue ^(5)^ to be just a bit faster and dodge.
@@ -211,7 +211,7 @@ the lantern falls to the ground, the oil spilling and the flame flickering weak.
 
 the dragon eats, she wasn't expecting this, but she is content now. she has food, darkness, time to recover. she sleeps in the peaceful dungeon.
 
-![the room where it happened](the_room_where_it_happened.avif)
+![the room where it happened](images/the_room_where_it_happened.avif)
 *the room where it happened*
 ::
 ^[11:20]^
@@ -223,7 +223,7 @@ and so, the **First Four** were defeated on their first proper adventure togethe
 
 the start was a bit clunky, admittedly because I was writing at the same time and perhaps paying too much attention to record the correct roles. things started working better for me once I understood a few rules better (so that I didn't need to constantly go back to the book) and by using a different die per character (while also using the same pair to roll rooms). keeping the character information on paper as the main source of truth (instead o going back to the snapshots in this chronicle) also helped a lot. this is definitely a paper and pen game and keeping everything on the table makes for a smoother gameplay.
 
-![setup by the end of the session](setup.avif)
+![setup by the end of the session](images/setup.avif)
 *this is how my table look like at the end (plus the laptop and the iPad with the books)*
 ::
 all in all, it is the first game I complete in a long time, which feels good, and it can only improve when investing a bit more of time. true, I would have loved for the party to survive the encounter with the small dragon, to then go back to the village and recover (if possible). that way I would have also gained some experienced with levelling up and a higher level party, but starting a game with a total party kill (TPK) is a good way of letting go, and putting the value in the process, not in the result.
@@ -237,7 +237,7 @@ with this, perhaps I will put together a rooster of characters informally or for
 and... I will keep track here, as I've been trying to do for the last year or so.
 
 ::
-![the map where the First Four rest](final_map.avif)
+![the map where the First Four rest](images/final_map.avif)
 *the Training Grounds (also the Fallen Grounds, for the **First Four**)*
 ::
 {{wide}}

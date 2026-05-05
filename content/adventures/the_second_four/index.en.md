@@ -4,6 +4,7 @@ series = ["4AD"]
 date = 2025-10-08T21:04:35+01:00
 style = '5ePHB'
 author = ["Tnarik Innael"]
+cover.image = "images/half_way.avif"
 +++
 
 # The Second Four
@@ -147,13 +148,17 @@ finding nothing else, from that room they open a door into what seems to be a cl
 
 while searching and looking for clues about the fate or whereabouts of their friends (did they go left? right?), they are jumped by 3 zombies from a dark corner. **Julienne** reacts quickly with her bow, and **Porchimwitz** clubs the remaining two with his shillelagh. *"were these them? we only met zombies. is this the lair of a necromancer?"* they fear the worst.
 
-putting aside their concerns, the push forward into an empty corridor and then north. a group of five skeletons awaits them, and the combo of the barbarian and the cleric works to take them down swiftly. *"see? they are surely dead. the way those bones lie on the ground remind me of **Pettic** after a evening in the tavern. it must be him." the wizard seems pretty convinced. perhaps he is afraid, or just wants to stop search for some other reason. *"don't say that! that's silly and is not helping anyone. we need to find them!", replies **Julienne**. she won't stop until they are found or there is a clear proof of their demise, and their remains retrieved.
+putting aside their concerns, the push forward into an empty corridor and then north. a group of five skeletons awaits them, and the combo of the barbarian and the cleric works to take them down swiftly. *"see? they are surely dead. the way those bones lie on the ground remind me of **Pettic** after a evening in the tavern. it must be him."* the wizard seems pretty convinced. perhaps he is afraid, or just wants to stop search for some other reason. *"don't say that! that's silly and is not helping anyone. we need to find them!"*, replies **Julienne**. she won't stop until they are found or there is a clear proof of their demise, and their remains retrieved.
 
 they've been roughly one hour and a half inside this structure and the tension is palpable. up north, four goblins that seemed to be patrolling are put to rest mainly by **Julienne**, with a barrage of arrows from the back, her determination sharpening her skills. amongst their remains, a brooch that could be sold for around 140gp. **Porchimwitz** gets this, as it is easy to carry for him. the corridor has a door to the right that opens to a big room.
 
-apparently the lair of a minotaur. it attacks **Remoura** heavily, but she is quite effective and with some help from **Cordelia** the party is victorious. they take a moment to rest and reflect. this part of the lair seems different from the previous areas (at least the goblins and the minotaur were NOT already dead). **Cordelia** has been fighting quite effectively up to this point, and she realises her skills have improved ^[she levels up to level 2, so now she is actually more accurante against non-undead creatures as well]^
+apparently the lair of a minotaur. it attacks **Remoura** heavily, but she is quite effective and with some help from **Cordelia** the party is victorious. they take a moment to rest and reflect. this part of the lair seems different from the previous areas (at least the goblins and the minotaur were NOT already dead). **Cordelia** has been fighting quite effectively up to this point, and she realises her skills have improved ^[she levels up to level 2, so now she is actually more accurate against non-undead creatures as well]^
 
-to the right, a big room awaits, in the middle of it, a wooden trunk with inlaid metals and strange grooves, hinges, holes, knobs with inscriptions. it is some kind of puzzle box. **Porchimwitz** puts the lantern on the floor and kneels down next to it to try and open it. a loud sound deafens the party, while the wizard turns around holding a bleeding left hand with his right. his scream suffocated by the abrupt snap of wooden and metal blocks. *"well, that was obviously NOT the way you open it."* says **Julienne**, smiling at the wizard. they all laugh. *"please, Cordelia, keep an eye on me.", says the wizard as he turns around to try again. the rest of the party surrounds him, expectantly. moving carefully, with a more sensitive left hand, he takes his time. there are new sounds... clang, rasp, screech... ting... click, click, ping, click. the trunk opens. it doesn't contain too many things of value other than a gem that might be worth 40gp. *"I'll take that. it is better to distribute the load, just in case.", says Coordelia while reaching out.
+{{< gallery >}}
+
+to the right, a big room awaits, in the middle of it, a wooden trunk with inlaid metals and strange grooves, hinges, holes, knobs with inscriptions. it is some kind of puzzle box. **Porchimwitz** puts the lantern on the floor and kneels down next to it to try and open it. a loud sound deafens the party, while the wizard turns around holding a bleeding left hand with his right. his scream suffocated by the abrupt snap of wooden and metal blocks. *"well, that was obviously NOT the way you open it."* says **Julienne**, smiling at the wizard. they all laugh. *"please, Cordelia, keep an eye on me."*, says the wizard as he turns around to try again. the rest of the party surrounds him, expectantly. moving carefully, with a more sensitive left hand, he takes his time. there are new sounds... clang, rasp, screech... ting... click, click, ping, click. the trunk opens.
+\page
+it doesn't contain too many things of value other than a gem that might be worth 40gp. *"I'll take that. it is better to distribute the load, just in case.", says Coordelia while reaching out.
 
 *"there must be something else here"* searching further, a **clue** as an inscription on the side of the trunk, hidden being some of the assorted contents. they breath, things seem to be working out. they might find the party soon. doors to the north and the south are available.
 
@@ -161,7 +166,6 @@ they go south, trying to find a way of connecting this with the initial rooms. t
 
 it looks like another dead end, but there might be something else here. while searching, eight gobling swarmings surprise them. they are quickly taken down by the party though, under a barrage of arrows, hammer blows, wide swings from **Remoura** and the rabid shillelagh of the wizard, who is saving his spells. the goblins panic and try to flee, but only one manages to do so, as the barbarian finishes one down with a flourish. before continuing, the cleric heals **Remoura**. *"we cannot afford you limping any more, let's fix that right now."*
 
-\page
 the party goes back to the bigger room searching the corridors for clues, or secret doors, but they are truly empty.
 
 from the large room with the puzzle, they head north. out of the five hobgoblins they find there, only one manages to flee. the barbarian and the cleric are a very powerful duo on the front. **Porchimwitz** finishes the two fleeing ones with prejudice ^[14 thanks to the exploding 6]^. *"are you sure you are a spellslinger, Porch?"*
@@ -185,6 +189,7 @@ through the new opening, they party sees five vampire frogs and a door on the so
 looking at their map, they are 100% sure this door should lead back to the initial room. *"weird, we didn't see it from the entrance. well, it doesn't matter."* it is surely locked, with what appears to be a very simple lock. it is very sturdy ^[Level 2 lock, Level 6 door]^ lacking the skills to manipulate the lock, **Remoura** just charges against the door ^(10+1)^, busting it open.
 the door indeed opens back to the main entrance. but the sound of the pieces of wood, splinters and thin sheets of rock breaking against the floor (apparently that was used to conceal the door from the other side) attracts a herd of rats. then of them. adrenaline pumping through her blood from her recent effort, **Remoura** blasts them and takes 7 out in one go, while **Porchimwitz** bashes the remaining 3 with the shillelagh. panting, he is healed.
 
+\page
 ## decisions
 
 the party is just next to the entrance, and they take a moment to rest. they are a bit discouraged, and hesitate regarding what to do:
@@ -201,7 +206,6 @@ they go in to the main entrance, looking forward to exit the dungeon and to the 
 
 but...
 
-\page
 *"what happened?!"* an uneasy feeling of lightness.
 
 they look around, at each other and a realisation comes into their collective mind. THEY HAVE JUST BEEN ASSAULTED BY invisible gremlins ^[invisible gremlins take 8 objects]^. they heard about this before: adventurers and dungeoneers suddenly losing items, as if robbed. they used to laugh at those stories, thinking they were drunk at the time (or they were drunk tales) or just feebleminded indviduals.
@@ -280,6 +284,10 @@ ___
 ## outro
 
 this was a fun adventure that I managed to play during the Sitges Film Festival of 2025, in between movies whenever I had two or three hours available and my friends were inside some venue. it was an uncommon occurrence, as my schedule was the most packed one, but it did happen.
+
+{{wide
+{{< gallery "outro" >}}
+}}
 
 this time my approach was a bit different: playing and taking some notes on paper only, postponing the chronicle until I had some time (October 31st, for instance). also, not trying to record every single roll or action, because that disrupts the flow of the playthrough. another thing I did was keeping track of the map, the encounters and the roster on a single notebook, the one I used in the past to keep notes about the games I played. I think this worked quite well, but a slightly different layout would have been preferable. something to try next.
 

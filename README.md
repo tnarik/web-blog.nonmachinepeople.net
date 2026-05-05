@@ -49,3 +49,13 @@ use (
 This allows developing theme and assets in parallel, without having to push everything to a remote repo.
 
 The current `.gitignore` will ignore those files.
+
+# Image processing
+
+As I take pictures with my iPhone, and it produces HEIC files, I want to convert them to AVIF (which most modern browsers can render). I used `magick` before, but i want to see if the results are better with `sharp` (which I added as a module).
+Due to licensing, `libvips` is required to manipulate HEIC files. I use `brew install vips` to install that. And this needs to be installed before running `npm install`. The version of `libvips` can be found using `pkg-config --modversion vips-cpp`.
+To build with this dependency, `node-addon-api` and `node-gyp` are added as dependencies as well.
+
+`npx sharp -i ./IMG_0562.HEIC -o ./ -f avif -q 70 --hbitdepth 12 --effort 4 --alphaQuality 100 `
+
+We specify values, because otherwise there are some defaults (such as `-q 50`).

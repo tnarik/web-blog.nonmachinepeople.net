@@ -221,7 +221,7 @@ they take inventory. amongst the list of missing items:
 
 flustered, but without weapons or any means for revenge (and nobody to take revenge on), the party decides to leave. thankfully they are in mostly full health, still have the lantern, some coins and a brooch. *"will we ever know if the set was complete or if it was part of some secret? what if they were magical when together?"* *"do not think about that, **Porchimwitz**. let's just go back."*
 
-## taking inventory
+## taking inventory
 
 amongst them, they have 53 gp and a brooch with a value of 140gp. that's a total of 193gp. *"I think it should be enough to restock and re-equip. after some time off. at least for the day. let's go and check later. for now, drinks are on me."*, says **Julienne**. *"thank you guys for helping me search for **Pettic**. and your brother, of course, **Remoura**."* *"these are our friends, and we will not abandon their search. we will find them."*
 

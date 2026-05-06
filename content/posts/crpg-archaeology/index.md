@@ -36,4 +36,5 @@ then read some accounts of other gameplays, some strategy (very simple to be hon
 it took me some time (months) but I compiled my thoughts about that try [here]({{< relref "posts/pedit_success" >}}).
 
 **references**:
+
 * more information [about those old games and their history](https://crpgaddict.blogspot.com/2021/06/brief-everything-we-know-about-1970s.html)

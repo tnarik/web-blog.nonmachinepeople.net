@@ -70,10 +70,11 @@ dos días después de mi regreso del festival de cine de Sitges, ha llegado el m
 61. una película con Barbara Crampton donde hace de cantante: la vi en el Escorxador y la presentó ella. (es **Every Heavy Thing**).
 
 además de esas, hubo tres sesiones para las que tenía entradas pero no pude ir:
+
 * Be a good girl: me desperté 4 minutos antes de que empezara, después de una maratón el día anterior. mi despertador no sonó (o estaba demasiado cansado).
 * Deathstalker / Deathmaggedon II / The Creeps: cogí el día incorrecto y se solapaba con **Hard Boiled**.
 * una sesión a las 23:30, con una única película. no recordaba el título (**Man Finds Tape**). he visto que también había un corto, **No Time To Wrap**.
-  
+
 recordar algunas películas (las primeras, las últimas) es instantáneo (unas por inmediatez, otras por las ganas que tenía de que llegara el festival), pero las demás caen bien a gotas o a borbotones. una imagen del cartel, el recuerdo de la breve espera, una breve conversación o su posición en el calendario. otras las recuerdo porque no las recuerdo (pensando en explicar qué película era, me llega otro título, o el título que parecía preso del olvido). lo que está claro es que no consigo recordar todas (¿fueron 67 en total?).
 
 ahora llega el momento de revisar y comprobar qué me he dejado:

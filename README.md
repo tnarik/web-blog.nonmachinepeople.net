@@ -59,3 +59,13 @@ To build with this dependency, `node-addon-api` and `node-gyp` are added as depe
 `npx sharp -i ./IMG_0562.HEIC -o ./ -f avif -q 70 --hbitdepth 12 --effort 4 --alphaQuality 100 `
 
 We specify values, because otherwise there are some defaults (such as `-q 50`).
+
+
+## Markdown validation
+
+I've been playing a bit with this command and ways of making sure that the validation is correct (criteria tuned to my usage and avoiding issues due to Go templates, mainly by ignoring that section): `npx markdownlint-cli2 content/**/*.md`
+
+What I found out is that MarkdownIt plugins are not useful because the current rules use micromark mostly. Also, custom rules are useless because they cannot mark some areas as already reviewed, so they just add additional criteria. I ended up settling for a **modify file** -> **lint file**, where I am using markdownlint-cli2 internal APIs (it is a CLI but I am using its modules) to inject my changes. Two different approaches tested:
+
+* inject a fileContent override, that lazily changes the content, supressing the Go Template lines (it could also be made into a static fileContent generation to override)
+* a most straightforward replacement as files, but using a virtual filesystem. I was trying to get it working from the CLI (via piping or some CLI wrapping), but ended up needing to create a proper javascript wrapper.

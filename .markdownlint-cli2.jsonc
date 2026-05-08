@@ -1,0 +1,16 @@
+{
+  "config": {
+    "MD013": false,
+    "MD025": false,
+    "MD024": {
+      "siblings_only": true
+    },
+  },
+  // "markdownItPlugins": [
+  //   [ "./mark-gem.js", ],
+  // ],
+  "customRules": [
+    // "./debug-rule.js",
+    // "./rule.js"
+  ],
+}

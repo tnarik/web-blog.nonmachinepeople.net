@@ -3,10 +3,13 @@
     "packages/hugoautogen"
   ],
   "devDependencies": {
+    "markdownlint-cli2": "^0.22.1",
+    "memfs": "^4.57.2",
     "node-addon-api": "^8.7.0",
     "node-gyp": "^12.3.0",
     "sharp": "^0.34.5",
-    "sharp-cli": "^5.2.0"
+    "sharp-cli": "^5.2.0",
+    "unionfs": "^4.6.0"
   },
   "config": {
     "libvips": ">=8.18.2"

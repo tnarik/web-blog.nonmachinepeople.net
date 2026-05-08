@@ -90,10 +90,15 @@ jobs:
         uses: slackapi/slack-github-action@v3.0.3
         with:
           webhook: ${{ secrets.SLACK_WEBHOOK_URL }}
-          payload:
-            text: "${{ job.status == 'success' ? '🚀 Deployment Successful!' : '💥 Deployment Failed' }}"
-            blocks:
-              - type: "section"
-                text:
-                  type: "mrkdwn"
-                  text: "URL: ${{ steps.deployment.outputs.page_url }}"
+          payload: |
+            {
+              "text": "${{ job.status == 'success' ? '🚀 Deployment Successful!' : '💥 Deployment Failed' }}",
+              "blocks": [
+                { "type": "section",
+                  "text": {
+                    "type": "mrkdwn",
+                    "text": "URL: ${{ steps.deployment.outputs.page_url }}"
+                  }
+                }
+              ]
+            }

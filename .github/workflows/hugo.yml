@@ -95,7 +95,7 @@ jobs:
             {
               "attachments": [
                 {
-                  "fallbackt": "${{ job.status == 'success' && '🚀: Deployment Successful!' || '💥: Deployment Failed' }}",
+                  "fallback": "${{ job.status == 'success' && '🚀: Deployment Successful!' || '💥: Deployment Failed' }}",
                   "color": "${{ job.status == 'success' && '#2EB67D' || '#E01E5A' }}",
                   "blocks": [
                     { "type": "section",

@@ -92,7 +92,7 @@ jobs:
           webhook: ${{ secrets.SLACK_WEBHOOK_URL }}
           payload: |
             {
-              "text": "${{ job.status == 'success' ? '🚀 Deployment Successful!' : '💥 Deployment Failed' }}",
+              "text": "${{ job.status == 'success' && '🚀 Deployment Successful!' || '💥 Deployment Failed' }}",
               "blocks": [
                 { "type": "section",
                   "text": {

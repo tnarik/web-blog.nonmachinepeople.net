@@ -101,7 +101,7 @@ jobs:
                     { "type": "section",
                       "text": {
                         "type": "mrkdwn",
-                        "text": "${{ job.status == 'success' && '🚀: Deployment **Successful!**' || '💥: Deployment **Failed**' }}"
+                        "text": "${{ job.status == 'success' && '🚀: Deployment *Successful!*' || '💥: Deployment *Failed*' }}"
                       }
                     },
                     { "type": "section",

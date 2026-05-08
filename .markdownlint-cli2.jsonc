@@ -6,11 +6,4 @@
       "siblings_only": true
     },
   },
-  // "markdownItPlugins": [
-  //   [ "./mark-gem.js", ],
-  // ],
-  "customRules": [
-    // "./debug-rule.js",
-    // "./rule.js"
-  ],
 }

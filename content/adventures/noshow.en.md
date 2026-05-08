@@ -29,7 +29,6 @@ she already had a self-given full name,  had already played this game in which s
 
 where Twilignt was XXX, Twyla is YYY.
 
-perhaps somebody might remember a brief chat with the little tiefling from a market town. 
+perhaps somebody might remember a brief chat with the little tiefling from a market town.
 
-other than that sketch of Twyla's past as Twilight, there are only conjectures. maybe with time more details about her family and her past would be known. or her fiendish legacy would come to light (my bet is on an ancestor blood pact with a demon to gain success and weatlh). 
-
+other than that sketch of Twyla's past as Twilight, there are only conjectures. maybe with time more details about her family and her past would be known. or her fiendish legacy would come to light (my bet is on an ancestor blood pact with a demon to gain success and weatlh).

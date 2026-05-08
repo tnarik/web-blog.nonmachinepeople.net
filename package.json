@@ -1,4 +1,8 @@
 {
+  "scripts": {
+    "lint:all": "node scripts/lint.cjs \"content/**/*.md\"",
+    "lint": "node scripts/lint.cjs"
+  },
   "workspaces": [
     "packages/hugoautogen"
   ],

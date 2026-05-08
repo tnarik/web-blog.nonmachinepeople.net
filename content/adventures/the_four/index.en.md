@@ -17,7 +17,7 @@ what I was planning on trying for some time is a simplified unscripted dungeon c
 
 I started looking into it a long time ago, reading and re-reading the book (or portions of it), but now I am finally pushing for a first run. with already selected character names and archetypes from some months ago (during a trip or perhaps a break from climbing), the only thing pending is to start playing. for this, I printed some pages and booklets at work, and I will also keep track of some information here, at least as snapshots for the initial setup.
 
-putting all the information together and finally rolling some dice, the party characters look like this: 
+putting all the information together and finally rolling some dice, the party characters look like this:
 
 {{monster,frame
 ## Clovenia
@@ -58,7 +58,7 @@ ___
 ___
 ***attacks.*** :: L only added to attack rolls from spells (including scrolls).
 ***puzzles.*** :: L added to rolls to solve puzzles and riddles.
-***spellcasting.*** :: A wizard begins with 2 + L spells. They should prepare then before starting the adventure (multiple copies are allowed). Additional spells (found or from levelling up), may be used immediately.  
+***spellcasting.*** :: A wizard begins with 2 + L spells. They should prepare then before starting the adventure (multiple copies are allowed). Additional spells (found or from levelling up), may be used immediately.
 ### Spells
 ***Blessing.*** :: removes a curse and some other conditions.
 ***Fireball.*** :: attack roll. against minions, slay a number of creatures equal to the roll minus the level of the minions (one creature minimum). doesn't affect dragons.
@@ -160,7 +160,7 @@ the rearguard folks switch to their slings. going through the other door of the 
 \page
 upon closer inspection, a clue is found ^(5)^ by **Clovenia**, in the form of some parchment with strange markings, and a purple wax seal. *"I'll keep this. it might be meaningful moving forward."*
 
-going back to the intersection, ^(1 / 4 / 6)^ a group of 8 fungi folk (L3) erupt from a side corridor, surprising the party! 
+going back to the intersection, ^(1 / 4 / 6)^ a group of 8 fungi folk (L3) erupt from a side corridor, surprising the party!
 
 ^[23:00. this adventure is taking a long time, probably because I am also writing this chronicle. time for a break (a movie and sleep). back to the party at 7:50 the next day.]^
 
@@ -217,6 +217,7 @@ the dragon eats, she wasn't expecting this, but she is content now. she has food
 ^[11:20]^
 
 \page
+
 ## outro
 
 and so, the **First Four** were defeated on their first proper adventure together, a chronicle I am telling on what to me is a Sunday morning, in that time that precedes going to climbing again. it was a fun game, definitely an absorbing one. I probably made some mistakes regarding the rules (some of which I realised almost instantly, and decided to see through until the end of the adventure) and I reckon I could have followed a different strategy.
@@ -243,7 +244,7 @@ and... I will keep track here, as I've been trying to do for the last year or so
 {{wide}}
 {{wide}}
 {{wide
-**References**: 
+**References**:
 
 * game: [Four Against Darkness](https://www.ganeshagames.net/product_info.php?cPath=1_55&products_id=295&osCsid=s09lv2gshvlk7629nnajqglt4d) / on [BoardGameGeek](https://boardgamegeek.com/boardgame/197097/four-against-darkness)
 

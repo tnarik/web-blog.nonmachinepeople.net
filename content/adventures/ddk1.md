@@ -17,7 +17,7 @@ here, the Weave doesn't allow manipulation to enable flying or floating, just gl
 with combat a given, it is no surprising that an adventuring party must behave as a very cohesive unit: money is pooled together and given to a treasurer, rations considered for the whole party as a unit, and there are always ammunition, oil or torches when needed.
 the party is generous with their magic items, but everyone is expected to be self-sufficient and "help" doesn't apply to challenges or attacks, unless it is in the form of higher help (blessings, spellcasting, etc.). first aid is different, of course.
 
-there is no retreat in battle, just risk, strategy, fear and (hopefully) victory. 
+there is no retreat in battle, just risk, strategy, fear and (hopefully) victory.
 
 ## a new purpose
 
@@ -53,8 +53,7 @@ umm, up to the north, off the path, there is smoke coming out from some cottage.
 
 ^[I try to run the battle via [roll20](https://roll20.net/). setting the page took 10-15 minutes. now I need to understand how to use the rest, so this is a pause in gameplay.]^
 
-
-15 + 3 = 18 -> 2 + 1 
+15 + 3 = 18 -> 2 + 1
 20 + 1 > DC 11 Niblet is hit but save from other consequences
 
 4 + 3 < 10 the Mage Armor was a great idea.
@@ -69,7 +68,7 @@ Niblet casts Inflict Wounds on cockatrice by her side: 16 + 1 > DC 14. the cocka
 
 3+5 < 14, the hag's claws fail to find purchase in Ramra.
 
-the first cockatrice (the one next to Niblet) now moves towards Abelgenaffar. Niblet takes an attack of opportunity with her morning star. 9+4 >> 11 -> 4. the foe attacks Abelgenaffar 17 +3 > 10. Abelgenaffar knows Shield wouldn't be enough and suffers 5 points of damage. 7 + 2 < DC 11. Abelgenaffar beings to turn into stone. he is restrained. 
+the first cockatrice (the one next to Niblet) now moves towards Abelgenaffar. Niblet takes an attack of opportunity with her morning star. 9+4 >> 11 -> 4. the foe attacks Abelgenaffar 17 +3 > 10. Abelgenaffar knows Shield wouldn't be enough and suffers 5 points of damage. 7 + 2 < DC 11. Abelgenaffar beings to turn into stone. he is restrained.
 second cockatrice. 15 +3 > 10 -> 2+1 . Abelgenaffar is down!
 
 Kasja's turn 15+5 > 14 -> 6+3+ 4 (sneak attack as next to Ramra) 12 (advantage due to Vex) +5 > 14 -> 4.
@@ -92,7 +91,6 @@ furious and scared, Abelgenaffar stands up and in the same movement, 3 glowing d
 the battle is won, but it took its toll mentally (Abelgenaffar cannot cast spells now, Niblet lost some of her capacity) and emotionally (Abelgenaffar was not expecting to almost die). all in all it was a quick 18 seconds fight, a burst of frantic energy.
 
 ^p15^ in the gruesome interior of the cottage, a potion of healing and a mask of frightful visage are found. Kasja takes them with her. she also retrieves her dagger. after searching, the party goes outside to breath, recover from the horror of the interior and, in the case of Abelgenaffar, go back to his spellbook to recover the connection with the weave to cast spells. no party member was hurt but there is no food to be found and they discuss the combat meanwhile. the party returns to the path.
-
 
 ^p99^ the sun starts to set, and they won't be able to reach the village of Torrova. by the side of the road (they are considering setting up camp), two marked dug graves. on the left a rusty sword, on the right a helmet over a broken spear. Kasja is curious about the helmet. ^p70^
 
@@ -125,7 +123,7 @@ Ramra and Niblet, might have been dreaming about monsters, because they are alre
 16 +5 > 14. the ape pounds Kasja with a massive fist. 6+4, rendering her unconscious, and turning its attention to Niblet. 19 + 5>18 -> 1+5 (Niblet=11).
 Kasja succeeds on her first saving throw.
 Abelgenaffar's instinct says it would be better to finish this beast quickly, and hurls an orb of energy, greenish and bubbling as if preparing poison inside an invisible bowl floating by his hand. 15+6  > 12. 6+6+1 (Ape = 17 ).
-Ramra follows suits 16+6 > 12 -> 3+4 (Ape=10). 
+Ramra follows suits 16+6 > 12 -> 3+4 (Ape=10).
 Niblet, uses her last low level spell to cast Cure Wounds on Kasja. she could try to cure herself, but Kasja is a powerful combatant in this kind of situations where their foes are almost surrounded. 6+4, Kaja, still prone, recovers fully.
 seeing this, the ape redoubles its attack on Kasja, still on the ground. 19 +5 > 14 -> 5+4, and Kasja's face falls sideways, unconscious again. now, the ape chooses a larger target, Ramra. 13+5 > 14 -> 6+4 (Ramra=22, as Ramra shakes the damage off). Ramra is furious.
 this second moment of unconsciousness is harder, Kasja fails her first throw.
@@ -133,7 +131,7 @@ this second moment of unconsciousness is harder, Kasja fails her first throw.
 
 Ramra 13+6 > 12 -> 11+4 slashes the ape in a upper cut fashion, her greataxe leaving through the ape's forehead. the ape falls to the ground.
 they are all a bit hurt, but most importantly, Kasja is in danger. a Prayer of Healing would be ideal, but Niblet will try to estabilise Kasja using her knowledge and experience. 1+6 < DC10. Kasja suceeds on her second death saving roll.
-everybody is expectant and Niblet just casts Prayer of Healing on everyone. (Niblet=11, Ramra=22). 7 + 2 -> Kasja recovers fully and so does the rest of the party (Niblet=17, Ramra=27). 
+everybody is expectant and Niblet just casts Prayer of Healing on everyone. (Niblet=11, Ramra=22). 7 + 2 -> Kasja recovers fully and so does the rest of the party (Niblet=17, Ramra=27).
 
 ^p25^ the night continues without any other issues, everybody scared but better hidden. they all eat what they didn't consume before going to sleep at first. the vague area of Abelgenaffar's mage armor fades.
 the sun rises over the eastern mountains and our party packs and continues the journey.
@@ -208,7 +206,7 @@ desperate, the orc 5+5 < 18 unsuccessfully bangs his club against Niblet's shiel
 Kasja watches as blood pours from the blunt wound on Abelgenaffar's head, now in a precarious situation.
 
 the orc leader aims at the farmer, who should be dead by now. 4+5 < 11, in his fury, it fails.
-Ramra runs to him, avoiding an attack ( 3+5 < 14) from the closest orc. 18+6>13. she is a whirlwind of sharp edges and the leader is hit! 9+4. the axe eviscerates this orc, carving a line of pain across his abdomen and up to the chin. Ramra moves back. the battle seems almost over, with only one enemy left, but better get ready. 
+Ramra runs to him, avoiding an attack ( 3+5 < 14) from the closest orc. 18+6>13. she is a whirlwind of sharp edges and the leader is hit! 9+4. the axe eviscerates this orc, carving a line of pain across his abdomen and up to the chin. Ramra moves back. the battle seems almost over, with only one enemy left, but better get ready.
 tired, Cray removes his pitchfork from the fallen body and 10+4 > 13 lunges forward, plunging it into the body of the last orc. who dies instantly 5+2. *"oh, how the tables turned!"* he starts addressing the party: *"Thanks, frie..."*, but before he finishes Niblet turns around, now hearing the cries for help coming from the barn. she bolts over the fence, runs closer and utters healing words. 2+6+4. Abelgenaffar head wound stops bleeding, he blinks. the party is safe, the battle is done (and won).
 
 ^p29^ while Kasja and Abelgenaffar climb down and rejoin the group, with a smiling Niblet, Cray and Ramra help rescuing Cray's younger brother, the kid that was in the burning farmhouse. they are brave kids who refuse to leave their farm, resourceful and hopeful. or perhaps desperate enough to prefer taking their chances here instead of unknown grounds with undead and the Deathless King's army. they insist in providing us with some rations (one day of rations), which will be helpful.
@@ -219,7 +217,7 @@ arrows, daggers and handaxes are recovered and also money for the amount of 6 go
 the party rests briefly. Niblet recovers to full health, removing the arrow and taking care of that wound, while Ramra goes back to HP 23, still a bit bruised by the blunt attacks. Niblet is two level 1 spell slots down, and Abelgenaffar has none, but he studies avidly his spellbook and recovers one. plus, the party recovered, the drow takes ten minutes to recast mage armor as a ritual, in preparation for what could be coming next. hopefully they will manage to avoid any other confrontation before resting tonight.
 
 ^p84^ the setting is setting down when they get to a settlement that must be Torrova. a very shaby town with poor walls. still, the promise of a bed.
-5 guards stop the party in the middle of the road. *"What is your business here?"* *"we are weary travellers. we are passing through and just need some rest for the night."* they eyes seem greedy, they demand 5 gold as a tax. Abelgenaffar uses thaumaturgy to gain a booming voice: *"you are making this up, there is no tax. we won't be extorted!"* 
+5 guards stop the party in the middle of the road. *"What is your business here?"* *"we are weary travellers. we are passing through and just need some rest for the night."* they eyes seem greedy, they demand 5 gold as a tax. Abelgenaffar uses thaumaturgy to gain a booming voice: *"you are making this up, there is no tax. we won't be extorted!"*
 
 ^p72^ 11 + 0 < 14. ^p41^ *"haha ha, now it is 6 gold pieces."*, *"ok, ok, there you go, but this is extorsion"*, says Kasja while paying them with the coins they got from the orcs. ^p141^ happy, the sergeants points the party to the "The Pied Bull", recommends getting whatever food is available, as the orc raids are making food scarce, and leave to continue the patrol with the rest of the guards. the party approaches the village gates.
 
@@ -235,7 +233,7 @@ but, before that, they realise how the rigors of battle and the stress of fallin
 
 ^p66^ at the market, there are mainly domestic goods, fresh food (nothing suited for travelling),... and a human with dwarf bodyguards, selling some interesting objects. very rude, he doesn't let us inspect the items. nobody can detect magic, and so... it is unclear how useful they might be. purchasing it all would be 59 GP. the party has the money and will probably buy everything. ^p151^. yes, they did, time to check them out:
 
-^p139^ two additional days of rations. ^p105^ the ancient greataxe is really rusty and falls to pieces. the party disposes of it. ^p96^ the ring is a ring of the flame serpent, according the etchings and the party knowledge, which grants Fire resistance. very nice! it also allows the wearer to speak in Ignan, a language spoken by fire creatures. probably good for Kasja. 
+^p139^ two additional days of rations. ^p105^ the ancient greataxe is really rusty and falls to pieces. the party disposes of it. ^p96^ the ring is a ring of the flame serpent, according the etchings and the party knowledge, which grants Fire resistance. very nice! it also allows the wearer to speak in Ignan, a language spoken by fire creatures. probably good for Kasja.
 
 ^p18^ a well polished mirror with a surface of about a square foot, there doesn't seem to be anything special about it. ^p60^ the shortsword is sharp and well balanced. a +1 shortsword, which is very convenient for Kasja.
 
@@ -249,7 +247,7 @@ with the goods redistributed and "identified", the party moves forward.
 
 Kasja dons the mask of frightful vissage and the party gets ready to unless from range. as it is doubtful that a full frontal attack, or trying to run for it would be successful. ^p137^ lets drop on them from the distance. ^p157^ the **Battle at the Barricade** starts. the party rushes with the intention of sending a volley of damage to their foes. the barricade doesn't allow them to see the opposite side, and provides cover ^[half-cover +2 to AC]^ to those on top of it. Niblet opens with a guiding bolt against the crossbow shardling on the left 8+6 = 12+2 -> 6+3+1+1, who almost burns to cinders and is illuminated, making it easier to hit him afterwards. Abelgenaffar hurls an orb to the crossbow on the other side. 16+ 6> 12+2 -> 6+6+4, with a sonic boom, that enemy is obliterated, and the orb leaps to the foe next to the collapsed shardling. 5+6<12+2, ineffectively.
 Kasja hurls a dagger to the same foe. 13+5>12+2 -> 3+3, and follows through with the handaxe to the very damaged crossbow handler on the left. with advantage, 8+2<12+2, is not enough and the handaxe disappears in the barricade. Ramra cannot do anything.
-the crew at the barricade is now aware, the real battle begins. casting Sacred Flame, 12 +1 < DC 14 -> 1 the last of the crossbow handlers dies in agony. then, she approaches the barricade, but keeping out of range of the pikes from the defenders. the hounds do not move yet, as there are no enemies in side, but are alert to attack anybody that might approach. a ray of frost from Abelgenaffar 8+6 = 12+2 ->5 hits the warrior on the left, slowing him down, and also approaching the barricade, but hugging the side of the cliff and keeping some distance. 
+the crew at the barricade is now aware, the real battle begins. casting Sacred Flame, 12 +1 < DC 14 -> 1 the last of the crossbow handlers dies in agony. then, she approaches the barricade, but keeping out of range of the pikes from the defenders. the hounds do not move yet, as there are no enemies in side, but are alert to attack anybody that might approach. a ray of frost from Abelgenaffar 8+6 = 12+2 ->5 hits the warrior on the left, slowing him down, and also approaching the barricade, but hugging the side of the cliff and keeping some distance.
 Ramra climbs the barricade to face that warrior. 12 =12 -> 11+4, rendering that enemy in two halves. in the process, she 6+2< DC11 cuts herself with the mirror shards (2 -> Ramra = 25). the party is now on the other side of the barricade and visible to the rest of foes. Kasja climbs on the right side. and takes his shortsword against the neck of the warrior. 15+6>21 -> 4+4, ending his live. 16+6 > DC 11, also taking some damage from the shards 2 (halved to 1). she throws another dagger at the furthest warrior on the left, a bit of a hail mary because of the distance. 6+5 < 12. now she is out of things to throw.
 a warrior runs from the far side of the pass towards Ramra, just until the distance of reach with its pike. Ramra is on the barricade but this is not a high on all sides. 10+3 <14, Ramra is fast and her body strong, she avoids the pike. other warrior also approaches Ramra 3+3<14 but he might be very intimidated by the display of the party, and fails.
 Niblet climbs the barricade to get together to Ramra. she sees the wounds caused by the shards, and *"guiding bolt!"*. 11+6>12 -> 4+3+5+1, the energy consumes on of the two soldiers. ^[Niblet is two level 1 spells down]^. the hounds approach towards Niblet.
@@ -259,7 +257,7 @@ Ramra gets in close contact with both a warrior and a hound, trying to distract 
 Kasja darts between the 2 hounds and tries to hit first the one in full health.2+6 < 12. failing, she now tries against the bleeding one. 8+5 >12 ->2. in the process she takes 2+1 damaged (as she was able to avoid the sharpest shards).
 Niblet flanks the hound and surrounds it to be on its back. 13+4>12 -> 5+2, the shards of the hound make it a bit difficult not to suffer any damage 14>DC11 3/2 = 1, but still Niblet avoids part of it and her morning star sinks heavily on the skull of the hound, putting an end to the fight.  (Niblet =16, Ramra=21, Kasja =9, Abelgenaffar has no more spell slots, and Niblet misses 2).
 
-^p98^ there is nothing of value (just some coins), and no information about the objective of the barricade (no orders or letters). the party takes a short rest to recover ^[Niblet =17, Ramra=26, Kasja=11... in fight club, hit point dice cannot be manipulated directly, but they can be rolled. I prefer to roll manually and then simulate on the app.]^ also the daggers and handaxe are recovered. 
+^p98^ there is nothing of value (just some coins), and no information about the objective of the barricade (no orders or letters). the party takes a short rest to recover ^[Niblet =17, Ramra=26, Kasja=11... in fight club, hit point dice cannot be manipulated directly, but they can be rolled. I prefer to roll manually and then simulate on the app.]^ also the daggers and handaxe are recovered.
 
 ^p53^ Mage armor is recast and the party continues along the deserted road, with meanders through hills. there are some groups of trees and streams of water, and *"an old tower can be seen to the north, away from the path. might this be what was being guarded? would it be better to continue eastward? the tower is not exactly in our way."*
 they could leave the decision to chance, but the party feels confident today, and perhaps it is related to the barricade.
@@ -271,19 +269,14 @@ they could leave the decision to chance, but the party feels confident today, an
 \page
 ^p161^ a tiring and risky climb, but the party manages to get there, and peeks into the room beyond. ^p131^ a laboratory and a bedroom, clearly abandoned. a shardling dead in the middle of the room. a broken potion, only the balcony and a trapdoor allow exiting, but the trapdoor seems locked on the other side. Niblet sees a troop of shardlings approaching the tower. a quick glance at the potions rack might render something useful. ^p107^ 15+8 > DC13 Abelgenaffar identifies two potions, which Kasja takes.
 
-^p34^ it is too dangerous to stay any longer, and the party leaves, trying to stay inconspicuous. ^p16^ they aim to reach Draughstad before nightfall. 
+^p34^ it is too dangerous to stay any longer, and the party leaves, trying to stay inconspicuous. ^p16^ they aim to reach Draughstad before nightfall.
 
 ^p104^ the demo stops here, and it should restart in ^p237^ of the full book.
-
-
-
-
-
 
 {{wide}}
 {{wide}}
 {{wide
-**References**: 
+**References**:
 
 * game: [D&D 5e 2024](https://www.dndbeyond.com/sources/dnd/phb-2024)
 * adventure: [Domain of the Deathless King](https://www.kickstarter.com/projects/archmagepress/domain-of-the-deathless-king)

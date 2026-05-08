@@ -16,7 +16,6 @@ so, let's say the adventure started some time ago, but it was left in limbo, my 
 
 now, instead of resuming their journey, the adventurer travels in time and the adventure commences again.
 
-
 ## now
 
 ### Scenario #1
@@ -34,7 +33,6 @@ moving on to Scenario #2, there is a bit more variety of foes. it makes it a bit
 with a bit of an overkill, Mazacote tried to finish off the two closest foes by pushing them onto traps and getting close and personal to the archers, while keeping some distance from the last archer.
 
 this worked quite well although he ended up with pretty low health. it was rushing and dropping all the hits as fast as possible that worked.
-
 
 ### Scenario #4
 
@@ -63,4 +61,3 @@ I had to retcon part of one round because I was applying shields from foe’s ac
 so, a 15/20 minute game with some learnings and fun. therefore successful even if Mazacote didn’t progress further.
 
 at night, I found the promo scenarios, which I will not play now, but try to print for playing on the next campaign. 2029 perhaps? nah, I’ll try to have a few sessions per week to progress with this one (and other limboed adventures as well).
-

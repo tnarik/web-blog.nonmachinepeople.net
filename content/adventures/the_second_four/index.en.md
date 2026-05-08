@@ -9,11 +9,12 @@ cover.image = "images/half_way.avif"
 
 # The Second Four
 
-## first, a look back...
+## first, a look back
 
 after the [previous adventure]({{< relref "adventures/the_four" >}}) I got some time to think about what I learned (or could have learned). there are some rules that I definitely didn't follow (and knew about, but decided to continue ignoring for consistency) both in the RAW (rule as written) and RAI (rule as intended) sense. at least as far as I know. one of those was using the `Protect` spell for save checks, and another was regarding considering a Boss as outnumbered to apply benefits to the rogue (**Pettic**). in the end it didn't matter because the fight ended horribly, from a win/loss point of view (I was actually very pleased with the outcome).
 
 since then (while preparing for my time in Sitges, yay!) I re-read the rules (fully on the plane today), and also compiled my doubts (either because of how they are written or unclear ambiguity). I discovered there are:
+
 * a group in Facebook, **Four Against Darkness Adventurer's Guild** (I refuse to link Facebook, but you can search for it), where the creator (**Andrea Sfiligoi**) contributes and answers doubts often
 * a [Patreon](https://www.patreon.com/ganeshagames), which I found about recently
 * a [BoardGameGeek forum](https://boardgamegeek.com/boardgame/197097/four-against-darkness/forums/), with a [Rules section](https://boardgamegeek.com/boardgame/197097/four-against-darkness/forums/66), where [**Dafrca**](https://boardgamegeek.com/profile/dafrca) does a wonderful work addressing doubts and bringing a consolidated view of rules. I have no clue how involved they are in 4AD, but if they are just a fan, they are working greatly on behalf of the community.
@@ -22,7 +23,7 @@ mainly the last source was very useful for me to refine some of my questions (at
 
 one of those rules I now understand better has to do with the 6 as an automated success, and how to combine that with the exploding die rule. apparently, in the newer version (I might buy that), the exploding die applies to attacks, defences and saves. IMHO that makes sense, because it is somehow similar to the auto-success, but it integrates better across dice rolls. I will apply that.
 
-anyway, with an updated understanding in my head, I reviewed my strategy (things I didn't do, things I did too much of), and I will try to use that knowledge on a new session (which was meant to happen tonight, but tomorrow there is an early screening, of course). I will add at least some notes about that newer session. 
+anyway, with an updated understanding in my head, I reviewed my strategy (things I didn't do, things I did too much of), and I will try to use that knowledge on a new session (which was meant to happen tonight, but tomorrow there is an early screening, of course). I will add at least some notes about that newer session.
 
 the main thing might be that I will try to keep track of everything in a single page of the XL softcover Moleskine that I used a few times to support/store/save games. a bit smaller than a DIN A4 page. the goal is to avoid having multiple pages, or having to print.
 
@@ -130,12 +131,14 @@ knowing Pettic and Farluk, the group assumes the lost party was impetuous and di
 
 once they reached the last known place of reference, and gather some indications about they previous party goals, they rest for the night.
 upon waking up, they pulled all their resources together and visited the main store/warehouse of the village. there they purchased:
+
 * a lantern. definitely a must, dungeons are dark. **Remoura** doubts **Farluk** agreed on going ahead without one. **Porchimwitz** will carry it.
 * bandages for all
 
-that should be enough preparation for the moment. and they don't have that many funds anyway. 
+that should be enough preparation for the moment. and they don't have that many funds anyway.
 
 \page
+
 ## an entrance
 
 following some indications from the village folk, they enter the forest and, after a while, find the double doors the barkeep mentioned. *"this might be it. it is what the barkeep said most interested **Pettic**"*, said **Remoura** while sheathing her greatsword and pushing to open the doors. *"it certainly looks like it"*. the whole party joins to push and the doors open to an empty and quiet room, with no signs of anybody (apparently), or any kind of remains, darkness and dust. they enter, lighting up the lantern that **Porchimwitz** carries.
@@ -174,7 +177,7 @@ amongst their remains, the party finds another brooch very similar to the first 
 
 of the options available, they choose to go south, to avoid going deeper into the dungeon. they prefer not to push their luck too much and ensure they have an easy (or at least shorter) route to leave the dungeon. they are not finding anything clearly pointing to **Pettic**'s party and are tired and confused. they have spent most of the afternoon here already, perhaps almost 4 hours.
 
-in the next room, they fight six orcs, **Julienne**, **Remoura** and **Cordelia** take down one each. they receive some damage and things start looking bleaker, until the wizard drops his shillelagh and this time sends a fireball to kill the orcs ^[18]^. his first spell and a very successful one. amid the ashes and the charred remains, a faint glimmer of metal: 18gp. 
+in the next room, they fight six orcs, **Julienne**, **Remoura** and **Cordelia** take down one each. they receive some damage and things start looking bleaker, until the wizard drops his shillelagh and this time sends a fireball to kill the orcs ^[18]^. his first spell and a very successful one. amid the ashes and the charred remains, a faint glimmer of metal: 18gp.
 
 in the next (and symmetrical) room, an iron eater is met by arrows and a flurry of blows from the barbarian. it tries to flee and (a now usual sight) the wizard clubs it to death. it is not exactly his strength, but his last experiences in this dungeon have added up to increase his confidence and self-reliance. ^[**Porchimwitz** levels up and recovers the usage of the fireball spell]^
 
@@ -190,6 +193,7 @@ looking at their map, they are 100% sure this door should lead back to the initi
 the door indeed opens back to the main entrance. but the sound of the pieces of wood, splinters and thin sheets of rock breaking against the floor (apparently that was used to conceal the door from the other side) attracts a herd of rats. then of them. adrenaline pumping through her blood from her recent effort, **Remoura** blasts them and takes 7 out in one go, while **Porchimwitz** bashes the remaining 3 with the shillelagh. panting, he is healed.
 
 \page
+
 ## decisions
 
 the party is just next to the entrance, and they take a moment to rest. they are a bit discouraged, and hesitate regarding what to do:
@@ -198,9 +202,9 @@ the party is just next to the entrance, and they take a moment to rest. they are
 * they could restart the search at an unexplored right split in an interection
 * they could go back home
 
-*"I don't think they were here."* *"unless they were the zombies and skeletons we fought initially."* *"very doubtful."* *"well, we got a clue."* *"sure, but a clue for what?"* *"not sure."* 
+*"I don't think they were here."* *"unless they were the zombies and skeletons we fought initially."* *"very doubtful."* *"well, we got a clue."* *"sure, but a clue for what?"* *"not sure."*
 
-*"ok, team. we have been here for five hours, it will soon get very dark, and I don't think we want to spend the night in this dungeon with the undead, the goblins or the rats. especially, not knowing what else could be lurking deeper. let's go back to the village."*
+*"ok, team. we have been here for five hours, it will soon get very dark, and I don't think we want to spend the night in this dungeon with the undead, the goblins or the rats. especially, not knowing what else could be lurking deeper. let's go back to the village."*, they agree.
 
 they go in to the main entrance, looking forward to exit the dungeon and to the comfort of the village inn and some warm food and drinks. they have learned something new, found some funds and potentially a clue that could lead them to **Pettic** and his companions.
 
@@ -211,6 +215,7 @@ but...
 they look around, at each other and a realisation comes into their collective mind. THEY HAVE JUST BEEN ASSAULTED BY invisible gremlins ^[invisible gremlins take 8 objects]^. they heard about this before: adventurers and dungeoneers suddenly losing items, as if robbed. they used to laugh at those stories, thinking they were drunk at the time (or they were drunk tales) or just feebleminded indviduals.
 
 they take inventory. amongst the list of missing items:
+
 * the lightning bolt scroll
 * **Remoura**'s greatsword (*"how could this happen?"* *"remember when we were just resting?*")
 * **Porchimwitz**'s shillelagh (*"I had it on my back"*)
@@ -238,7 +243,6 @@ ___
 ***bow.*** :: -
 }}
 
-
 {{monster,frame
 ## Remoura Farduk
 *Barbarian (Level 1)*
@@ -250,7 +254,6 @@ ___
 ***light armour.*** :: reinforced leather vest, pants and boots.
 ***hand weapon.*** :: -
 }}
-
 
 {{monster,frame
 ## Cordelia
@@ -281,6 +284,7 @@ ___
 }}
 
 \page
+
 ## outro
 
 this was a fun adventure that I managed to play during the Sitges Film Festival of 2025, in between movies whenever I had two or three hours available and my friends were inside some venue. it was an uncommon occurrence, as my schedule was the most packed one, but it did happen.
@@ -299,13 +303,13 @@ since then (in the last couple of weeks) I have been reading a bit more and thin
 
 what else? I took some pictures but didn't add them yet. they might come into this chronicle or as something separate. I need to decide what works better for me (and for the future, because re-paging Hugo posts with this theme takes some time).
 
-**enjoy! and try 4AD**
+**enjoy! and try 4AD**, it is worth it.
 
 ::
 {{wide}}
 {{wide}}
 {{wide
-**References**: 
+**References**:
 
 * game: [Four Against Darkness](https://www.ganeshagames.net/product_info.php?cPath=1_55&products_id=295&osCsid=s09lv2gshvlk7629nnajqglt4d) / on [BoardGameGeek](https://boardgamegeek.com/boardgame/197097/four-against-darkness)
 

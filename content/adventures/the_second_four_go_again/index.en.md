@@ -22,7 +22,7 @@ last time I played was 4 months ago (I wasn't as constant as I told myself I wou
 
 just today, I found outthat [Four Against Darkness - Expanded Edition](https://www.drivethrurpg.com/en/product/550549/four-against-darkness-expanded-edition) has been available since December 20th-24th (roughly). this book consolidates some rules and clarifications from forums and FAQs from the original edition, which I was applying mostly on the last session. I will not use it yet, as it adds a lot of content, but I already got a copy of it for my/your perusal.
 
-## Intro
+## Intro
 
 the party looks at their joint funds: 53gp, and a brooch worth 140gp (they estimate). this one seemed to be part of a pair, or a set, and perhaps something worth keeping, but they are in dire need of money if they want to go out again in search for their family and friends.
 
@@ -39,7 +39,7 @@ ___
 ___
 ### Spells
 ***Lightning Bolt.*** ::
-***Sleep.*** :: 
+***Sleep.*** ::
 ### Items
 ***light armour.*** :: leather armour reinforced with metal links.
 ***hand weapon.*** :: a sabre, with a filigree on its hilt, mimicking a band of silk.
@@ -92,7 +92,7 @@ ___
 ___
 ### Spells
 ***Lightning Bolt.*** ::
-***Sleep.*** :: 
+***Sleep.*** ::
 ***Fireball.*** :: 2
 ### Items
 ***light hand weapon.*** :: a walking staff, with a heavy top.
@@ -112,6 +112,7 @@ it took a couple of days in total, but they leave the village (a very well provi
 *it might be them this time!"*
 
 \page
+
 ## a door on the mountain side
 
 it has been some hours since they started coming up the mountain slope, first across uneven terrain, but with soft soil and grass, later on rockier. they approach a narrowing of the mountains, not exactly a pass (perhaps just the beginning of a crevice leading to a ravine, or to a cave system), when they notice something strange on the side. they were looking for a place to rest, as the sun was already coming down, and the light of the lantern projected some interesting shapes on the rock to the left of the crack. it looks too uniform, to0 straight, too artificial. they approach it and... *"yes, that's a door. should we try it?"*
@@ -138,10 +139,8 @@ inspecting the lair, they find:
 
 *"wow, this is very different from the last dungeon. do you think they could be here somewhere?"* *"perhaps not here, there was all this treasure left, ... unless they followed a different path."* *"I think we should continue a bit, after bandaging, of course."*, says the wizard. they rest for a bit, keeping their eyes peeled and their ears open just in case the dragon comes back. **Remoura** performs some push-ups to stay warm, her teeth grinning with a smile.
 
-
-
-
 \page
+
 ## outro
 
 
@@ -150,7 +149,7 @@ inspecting the lair, they find:
 {{wide}}
 {{wide}}
 {{wide
-**References**: 
+**References**:
 
 * game: [Four Against Darkness](https://www.ganeshagames.net/product_info.php?cPath=1_55&products_id=295&osCsid=s09lv2gshvlk7629nnajqglt4d) / on [BoardGameGeek](https://boardgamegeek.com/boardgame/197097/four-against-darkness)
 

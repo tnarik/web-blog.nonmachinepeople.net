@@ -45,6 +45,7 @@ Blovo got an advance of 20 gp, and now he is heading to Tomlin's. ^p49^
 ^[from this point, it will be told from Blovo's point of view, as he took lots of notes]^
 
 \page
+
 ## chapter 2
 
 I see the drunk from last night again, people seem embarrassed. good. his attitude doesn't seem to be a common feeling in the town. good ^p84^
@@ -84,7 +85,7 @@ I draw one of my short swords and take a swing at the creature ^(14, equal to AC
 ^[Blovo played in his head/dice if he could kill the second, even though Tomlin is engaging with it. Even **more** "imaginarily" he would have drawn the second short sword, there would have been a round of missing hits for both, and on the third overall round, with initiative, he would have struck it down. BUT does is imagination, in reality Tomlin was taking care of it.]^
 
 after dealing the final blow ^p88^, I sheath the swords and take as a souvenir the scrapling claw that Tomlin offers to me. that was a plant creature, maybe Roi knows about them. Evening is approaching. I'm about to leave for the inn, but Tomlin wants me to follow him inside again. ^p72^
-he gives mea vial containing philtre of remembrance (10 doses). ^p106^ I make my way back to the inn. 
+he gives mea vial containing philtre of remembrance (10 doses). ^p106^ I make my way back to the inn.
 I get a meal, and get ready for a long (and well deserved) rest. ^p93^
 
 I wake up with moonlight. it got interrupted (just a short reset). there is some hairy and hunched shape on a neighbouring roof. it is extending an arm in my direction, as if waiting.
@@ -99,10 +100,12 @@ a cold breakfast, and empty common room, and quiet streets. the wagon with flowe
 ^[chapter 2 represents about one hour of play]^
 
 \page
+
 ## chapter 3
+
 this is a very quiet wood. beautiful and peaceful, but eerily quiet. ^p122^
 I stop in a clearing to drink some water. let's look around, trying to use the experience I have from being in forests ^(7 + 4 x 2, due to Blovo's favoured terrain,... but I then realised it should have been 7 + 2 + 4 because only the proficiency bonus gets doubled. I will allow this once, but now I know better)^ ^p155^
-there is a beast there. a stirge, of course. let's fight a bit! 
+there is a beast there. a stirge, of course. let's fight a bit!
 1st, I quickly take my bow and attack right before it turns to see me. ^p144^
 my first arrow hits, doing 8 damage and finishing the haggard stirge while it was turning towards me. ^p138^
 I take a brief rest and the woods stay as quiet as before. nothing has changed. I keep going to the druid's camp. ^p150^
@@ -149,6 +152,7 @@ I'm not sure that I like being commanded, and I'm spending too long here instead
 ^[that was 1 hour, more or less]^
 
 \page
+
 ## chapter 4
 
 it seems almost a normal day in the village, but not really, ^p193^
@@ -171,10 +175,11 @@ it would have to do. *"strings grab friends", she says. is she referring to nets
 she guides me, graceful and quiet, to an entrance point into another clearing. a firepit with rubbish from meals, charred bones and old porridge. not a lush clearing. these are hunters, and probably poachers. ^p182^
 there is no kindling around for tonight, it seems. also, something is kept outside of animals reach, hanging from a tree. but other than that is like a trashy bivouac spot. I investigate thoroughly, inspired by the forest. ^(due to the advantage, I rolled twice and got a natural crit the second roll)^
 
-what I see: ^p207^ 
-- a warrant made out to Horace and Titch of hundreds of gp (if information is provided) or thousands (if captured dead or alive) for the Wolf of the Road, who also has an Orcish name (pretty obvious it is Orcish, even if I cannot understand the language). they are wanted for killing a constable in Three Rivers. I will take this with me. I guess the bandits/strangers are these individuals named "Horace" and "Titch".
-- the gear around is tattered and in disrepair.
-- on a second oilcloth I find an agate brooch (15gp) and a flimsy jewelled dagger (5gp). ^p183^
+what I see: ^p207^
+
+* a warrant made out to Horace and Titch of hundreds of gp (if information is provided) or thousands (if captured dead or alive) for the Wolf of the Road, who also has an Orcish name (pretty obvious it is Orcish, even if I cannot understand the language). they are wanted for killing a constable in Three Rivers. I will take this with me. I guess the bandits/strangers are these individuals named "Horace" and "Titch".
+* the gear around is tattered and in disrepair.
+* on a second oilcloth I find an agate brooch (15gp) and a flimsy jewelled dagger (5gp). ^p183^
 
 the night is coming. days are short here, damn! I get to town with the sun already set, the stars starting to shine.
 
@@ -223,6 +228,7 @@ completely empty streets, a single long and low howl. a tray of already cold din
 but before going to bed I study the amulet and the silverstar, reflecting on both the fight from tonight and the druid sickness. this allows me to attune to both items. and then I finally go to bed, having a good and relaxing night and recovering fully. the next day, breakfast is ready by the door, as well as a note of gratitude from the mayor. the burial will be tomorrow, so I better go to the temple to inspect the body. and talk to Solaine, which is well overdue. ^p237^
 
 \page
+
 ## chapter 5
 
 the sun temple is old, a limestone building seemingly predating the town. I got in, but there is nobody around. I’ll explore it. ^p296^
@@ -236,7 +242,7 @@ these are burned holy vestments. they were not in good condition even before bur
 what is there in the larder? ^p310^
 just forgotten food: veggies, potatoes, bread. moldy and wilted. but fresh meat, plenty of it. with... what looks like small and ragged bite marks. do I “smell” werewolf? back to the front hall ^p296^, and up north towards the library. ^p258^
 
-it is pretty large, with books and scrolls on one table. nobody in. religious texts and some history tomes. some treaty about common curses. there is also a black book with a title (not in Common), bound with skin other than a leather. and a metal lock, open. 
+it is pretty large, with books and scrolls on one table. nobody in. religious texts and some history tomes. some treaty about common curses. there is also a black book with a title (not in Common), bound with skin other than a leather. and a metal lock, open.
 let’s check the book on curses. ^p281^
 it is the “Compendium of Curses: 17th Edition”, with descriptions of curses, diagrams of wards and sections with cures. what was the cleric reading about? ^p288^
 on a page with "Lwelyn’s grim visage" and "lycanthropy", there is a sheet with a note. the calligraphy is elegant, but some words are crossed out and there are small marks of... perhaps tears. ah, it seems to be a letter to Tomlin, I believe. “a truly changed woman" writes it, with mentions of a darkness blooming. it is unfinished. I leave the letter where it is. ^p279^
@@ -266,7 +272,7 @@ they depict the holy order raising the temple and banishing the undead. darkness
 ^p257^ thre is this ancient order of sun worshippers. a century or tens of centuries ago, they erected this tower. while the order has a presence there (even just one individual) and dedication to the light, the area is protected. I do not remember more, and I have investigated enough. I’ll just have to wait longer for Solaine. ^p294^
 
 she finally returns to the temple. hem of the robe black, apparently from soil. I see some soil clumps falling off her slippers. I startled her. ^p268^
-she is alone here, perhaps overwhelmed but acting as if everything is ok. big smiles. 
+she is alone here, perhaps overwhelmed but acting as if everything is ok. big smiles.
 what does she know about the undead? ^p248^
 a about Tomlin? ^p315^ ok, apparently it is all common knowledge. she doesn’t hide the story of her past.
 I would now like to examine Maybelline's body. ^p289^
@@ -279,8 +285,8 @@ it was dug from underneath. a person dead for decades. a crack in their skull an
 \page
 let's just check Maybelline's body (what a morning). ^p276^
 oh, Maybelline is reanimated somehow, I will have to fight her. ^p286^
-I’m faster, so I move back within the mausoleum and take my bow, readying an arrow. ^(9 HP)^. I move further to put some distance between us, making her come out. she stagers, I am sure I’m faster. she approaches and remains 5 feet away. 
-I now do the same thing again, putting distance in between and sending an arrow her way. she is pretty weak now, it seems. comes near me, still not within reach to attack me. I drop the bow and get a sword out, ready for the next attack. but there is a burst of movement, and she gets next to me, slamming me. ups, that hurt! I swing my sword ^(2 HP to go)^. 
+I’m faster, so I move back within the mausoleum and take my bow, readying an arrow. ^(9 HP)^. I move further to put some distance between us, making her come out. she stagers, I am sure I’m faster. she approaches and remains 5 feet away.
+I now do the same thing again, putting distance in between and sending an arrow her way. she is pretty weak now, it seems. comes near me, still not within reach to attack me. I drop the bow and get a sword out, ready for the next attack. but there is a burst of movement, and she gets next to me, slamming me. ups, that hurt! I swing my sword ^(2 HP to go)^.
 I take my second sword out, attack. and the fight finishes. ^p297^
 for a second it looks like that last blow might didn't really do it, but after some last death rattle (undeath rattle?) she drops dead. again? ^p246^
 look at that, I can finally examine the body. will try to isolate the wounds previous to this fight. ^p262^
@@ -295,6 +301,7 @@ my patrol finds no zombies nor ghouls. but two body remains, torn apart it seems
 there is no food at the door this morning. instead, the mayor is having breakfast while waiting for me in the common area. ^p317^
 
 \page
+
 ## chapter 6
 
 I should be ready for an accusation. although I’m not entirely sure. I may need more information. I think Solaine is the murderer, but I don’t have an unequivocal proof. ^p334^
@@ -309,7 +316,6 @@ and... yep! she just transformed into a werewolf. well, she is a werewolf and tr
 people stampedes. because of people fleeing, I cannot jump straight into action, and she takes Tomlin through the crowd with one long claw, climbing the wall of a building. Solaine howls, and runs towards the temple. Roi thinks it’s a curse that can be cured. the medallion, the silverstar, might be helpful for this. I run to the temple. ^p360^
 I unsheath my shortsword and run as fast as I can. a scream. Tomlin is laying in a pool of blood. I got too late. Solaine definitely left a trail going into the temple. not panicking (and thinking she cannot leave without me knowing), I examine the murder scene. ^p342^ ^[previous editions had p322 as errata]^
 
-
 I check for clues about her capabilities and the threat she poses. I’m inspired by the last days of getting to know the town and this people. ^p347^ these were angry blows, and precise with the intent to kill. but she may be remorseful. I go into the temple, now both swords at the ready. ^p324^
 when I get in, everything seems darker, more menacing (in comparison with my previous visit). there is a spiral staircase in the main hall. darkness takes the place of the sunburst mosaic. but the same kind of orbs for light as above are there. it looks like part of the original design. I advance carefully through the corridors. ^p363^
 Solaine is in werewolf form in the middle of a large chamber, whining. I think she regrets her action. (she stares at the blood on her claws) or perhaps being cursed, or failing the order vows.
@@ -323,7 +329,7 @@ she was attacked by a wolf during her pilgrimage, more or less as I imagined. no
 
 Solaine says Maybelline was lying about herself, that she was very cruel in reality. that she mocked her for her faith. could Maybelline be in cahoots with a demon? or corrupted somehow by this darkness below Langston? anyway, I need to end this and go back to my trip home. let's try to end this peacefully by removing the curse. ^p343^
 I offer the possibility of a surrender. she laughs and replies she expects nothing from the town other than being hanged. she is just a predator now. my sword is ready. ^p350^
-werewolves are immune to ordinary weapons, I heard. um... 
+werewolves are immune to ordinary weapons, I heard. um...
 I'll try to stun her with the potion and then use the silverstar. ^p353^
 I didn't use any dose, so it should be easy to impact, also due to werewolves relying a lot on smell. ^(13 + 1 < 18, the second DC throw, the lowest of the two)^ ^p325^
 she should be stunned 2 rounds, apparently lost in memories of Tomlin, both happy and sad. now I'm in a good place for a fight. ^p350^ and it is the perfect time to try using the silverstar. ^p364^
@@ -340,6 +346,7 @@ I get a decent reward ^(350 gp)^ and feel I learnt quite a lot ^(600xp)^. I put 
 ^[that was a 1AM to 2AM last journey before some quick reading and sleeping for tomorrow IRL]^
 
 \page
+
 # epilogue
 
 I decided to stay at least 2 more days, to reflect on what happened and trace a plan forward for my journey. the town hall is paying for a couple more days if I go on patrol, as I explained to the Mayor what transpired from the conversation with Solaine and other information I gathered at the temple.
@@ -368,7 +375,7 @@ Roi and I take a look around the kitchen, where we see nothing out of the ordina
 these herbs are used in rituals to contact lower planes. I want to check the garden. ^p392^
 it is pretty neglected. no sign of the flowers from the garland. but I found a patch of dark soil, and buried there a parchment in Abyssal. I cannot read that. ^p385^
 
-there is also a lock of hair. we would need to question Solaine about both findings (if she is willing to talk). they are within her expertise. 
+there is also a lock of hair. we would need to question Solaine about both findings (if she is willing to talk). they are within her expertise.
 we go back to check Maybelline’s room. ^p381^
 there is another garland there. they seem to attract each other, as if there was some sort of enchantment. we are running an experiment. ^p378^
 it seems an ancient love spell. if the garlands touch the spell breaks. pretty ironic, or just twisted. ^p372^
@@ -382,11 +389,10 @@ I see... a woman in the shadows, under the moonlight? is my mind playing games? 
 
 my unsolved mystery (the female figure in the dark, wearing simple clothes), might be the person that freed Solaine. this is somehow linked to a crescent moon, cold and ice. it is tempting to investigate, but I have spent enough time here. a new cleric is now in town and I can keep following my own path.
 
-
 {{wide}}
 {{wide}}
 {{wide
-**References**: 
+**References**:
 
 * game: [D&D 5e 2014](https://www.dndbeyond.com/sources/dnd/phb-2014)
 * adventure: [The Wolves of Langston](https://obviousmimic.com/en-gb/collections/the-wolves-of-langston)

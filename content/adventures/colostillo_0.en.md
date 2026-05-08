@@ -23,7 +23,7 @@ ___
 ___
 ***calling***:
 :
-***nature***: <span style="color:red">J &diams;</span> ->  sly, strategic and always planning
+***nature***: <span style="color:red">J &diams;</span> -> sly, strategic and always planning
 :
 ***look***:
 ### Items
@@ -31,5 +31,7 @@ ___
 }}
 
 ## Day 0
+
+&diams;
 
 ## Day 1

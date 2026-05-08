@@ -20,7 +20,7 @@ last time I played was 4 months ago (I wasn't as constant as I told myself I wou
 * a 6 is NOT an auto-success, but dice explode
 * selling gems for the stated price is correct
 
-just today, I found outthat [Four Against Darkness - Expanded Edition](https://www.drivethrurpg.com/en/product/550549/four-against-darkness-expanded-edition) has been available since December 20th-24th (roughly). this book consolidates some rules and clarifications from forums and FAQs from the original edition, which I was applying mostly on the last session. I will not use it yet, as it adds a lot of content, but I already got a copy of it for my/your perusal.
+just today, I found out that [Four Against Darkness - Expanded Edition](https://www.drivethrurpg.com/en/product/550549/four-against-darkness-expanded-edition) has been available since December 20th-24th (roughly). this book consolidates some rules and clarifications from forums and FAQs from the original edition, which I was applying mostly on the last session. I will not use it yet, as it adds a lot of content, but I already got a copy of it for my/your perusal.
 
 ## Intro
 
@@ -109,7 +109,7 @@ with all of that, they split the rest of the money more or less in equal parts. 
 
 it took a couple of days in total, but they leave the village (a very well provided village, they realised) venturing through the forest, up a hilly path. once again, they follow the direction pointed at by rumours heard in taverns and shops, of a party of four adventurers looking for glory and treasure, and not coming back.
 
-*it might be them this time!"*
+*it might be them this time!"* *"fingers crossed!"*
 
 \page
 

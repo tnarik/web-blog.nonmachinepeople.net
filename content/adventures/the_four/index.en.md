@@ -149,7 +149,7 @@ if they were fighting in some open space, like the armory, the rogue would manag
 
 **Pettic** takes down his ^(4 + 1 - 1)^. the wizard is not so dextrous and misses him with his stick ^(3 + 1 - 1)^. anyway, he doesn't expect to see that hobgoblin ever again, disappearing through the armory.
 
-*"uff, that was unexpected. let's go back to the armory."*
+*"uff, that was unexpected. let's go back to the armory."*, says **Pettic**.
 
 after the fight under the lintel between the empty corridor transformed into a closet and the armory, the party goes back to the armory and take a breather. ^[I am not checking for wandering monsters because I played the previous battle as happening at the edge of both rooms.]^
 

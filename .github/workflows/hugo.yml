@@ -40,12 +40,12 @@ jobs:
       # - name: Install Dart Sass
       #   run: sudo snap install dart-sass
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
         with:
           submodules: recursive
           fetch-depth: 0
       - name: Setup Node.js
-        uses: actions/setup-node@v3
+        uses: actions/setup-node@v6
         with:
           node-version-file: '.nvmrc'
       - name: Setup Pages
@@ -93,13 +93,24 @@ jobs:
           webhook: ${{ secrets.SLACK_WEBHOOK_URL }}
           payload: |
             {
-              "text": "${{ job.status == 'success' && '🚀 Deployment Successful!' || '💥 Deployment Failed' }}",
-              "blocks": [
-                { "type": "section",
-                  "text": {
-                    "type": "mrkdwn",
-                    "text": "URL: ${{ steps.deployment.outputs.page_url }}"
-                  }
+              "text": "${{ job.status == 'success' && '🚀: Deployment Successful!' || '💥: Deployment Failed' }}",
+              "attachments": [
+                {
+                  "color": "${{ job.status == 'success' && '#2EB67D' || '#E01E5A' }}",
+                  "blocks": [
+                    { "type": "section",
+                      "text": {
+                        "type": "mrkdwn",
+                        "text": "${{ job.status == 'success' && '🚀: Deployment **Successful!**' || '💥: Deployment **Failed**' }}"
+                      }
+                    },
+                    { "type": "section",
+                      "text": {
+                        "type": "mrkdwn",
+                        "text": "URL: ${{ steps.deployment.outputs.page_url }}"
+                      }
+                    }
+                  ]
                 }
               ]
             }

@@ -64,7 +64,7 @@ dos días después de mi regreso del festival de cine de Sitges, ha llegado el m
 55. Astrid's Saints
 56. The Fin
 57. Saint Antoine: el corto que iba con **Re-animator**, y con **My Daughter is a Zombie**
-58. My Daughter is a Zombie: parte de un maratón, y la otra pelícuala que pasé casi totalmente inconsciente.
+58. My Daughter is a Zombie: parte de una maratón, y la otra película que pasé casi totalmente inconsciente.
 59. The real beauty of being bitten by a tick: la vi casi al principio del festival, y es de las últimas en recordar.
 60. ~~Demrig~~ Demring (or *Dawning*): recuerdo el título, y que era danesa o similar, pero no el tema. probablemente brujería. estuvo bien, mal rollo en una casa, con una estructura interesante.
 61. una película con Barbara Crampton donde hace de cantante: la vi en el Escorxador y la presentó ella. (es **Every Heavy Thing**).

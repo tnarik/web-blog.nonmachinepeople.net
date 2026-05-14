@@ -1,0 +1,16 @@
+- image: images/character-001-tnarik.avif
+  caption: a mediocre character
+- image: images/character-002-tnarik.avif
+  caption: more resilient, but clumsy
+- image: images/character-003-tnarik.avif
+  caption: ok, a bit above average
+- image: images/character-003-tnarik_some_progress.avif
+  caption: taking this tnarik for a spin
+- image: images/character-004-tnarik.avif
+  caption: this looked very good, but died promptly
+- image: images/character-005-tnarik_this_one_is_doing_well.avif
+  caption: some progress made
+- image: images/famous_last_words.avif
+  caption: this happened a lot during the first round of generation, exploration, and... death
+- image: images/character-006-tnarik_lets_try_again.avif
+  caption: a new tnarik, who was doing very well up to this point

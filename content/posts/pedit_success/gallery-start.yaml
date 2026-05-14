@@ -1,0 +1,10 @@
+- image: images/start-001-first_screen.avif
+  caption: the first challenge, learn the keyboard shortcuts (the original terminal had its own keyboard)
+- image: images/start-002-login.avif
+  caption: clock, the ever present app nobody talks about
+- image: images/start-004-dnd_type_games.avif
+  caption: list of games to choose from if you use a demo account
+- image: images/start-003-welcome_to_the_dungeon.avif
+  caption: travelling back in time to the 70s
+- image: images/start-003-welcome_to_the_dungeon_info.avif
+  caption: welcome to the DUNGEON

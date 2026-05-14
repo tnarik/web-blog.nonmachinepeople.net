@@ -59,17 +59,17 @@ dos días después de mi regreso del festival de cine de Sitges, ha llegado el m
 50. Hard Boiled: muy buena, pero no me esperaba tanto *gun-fu*.
 51. Sons of a ~~the~~ Neon Night: parte del mismo maratón que **Hard Boiled**, sólo vi pedazos (muchos días de cine acumulados).
 52. Trapped: un Eastern muy largo para acabar.
-53. ~~An~~ The Old Woman with a Knife*: me dormí completamente (bueno, excepto los primeros y últimos 5 minutos).
+53. ~~An~~ The Old Woman with a Knife: me dormí completamente (bueno, excepto los primeros y últimos 5 minutos).
 54. The Long Walk: *the buddy movie*.
 55. Astrid's Saints
 56. The Fin
 57. Saint Antoine: el corto que iba con **Re-animator**, y con **My Daughter is a Zombie**
 58. My Daughter is a Zombie: parte de una maratón, y la otra película que pasé casi totalmente inconsciente.
 59. The real beauty of being bitten by a tick: la vi casi al principio del festival, y es de las últimas en recordar.
-60. ~~Demrig~~ Demring (or *Dawning*): recuerdo el título, y que era danesa o similar, pero no el tema. probablemente brujería. estuvo bien, mal rollo en una casa, con una estructura interesante.
+60. ~~Demrig~~ Demring (o *Dawning*): recuerdo el título, y que era danesa o similar, pero no el tema. probablemente brujería. estuvo bien, mal rollo en una casa, con una estructura interesante.
 61. una película con Barbara Crampton donde hace de cantante: la vi en el Escorxador y la presentó ella. (es **Every Heavy Thing**).
 
-además de esas, hubo tres sesiones para las que tenía entradas pero no pude ir:
+además de esas, hubo tres sesiones para las que tenía entradas pero a las que no pude ir:
 
 * Be a good girl: me desperté 4 minutos antes de que empezara, después de una maratón el día anterior. mi despertador no sonó (o estaba demasiado cansado).
 * Deathstalker / Deathmaggedon II / The Creeps: cogí el día incorrecto y se solapaba con **Hard Boiled**.

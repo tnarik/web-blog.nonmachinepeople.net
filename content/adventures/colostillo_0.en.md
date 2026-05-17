@@ -6,6 +6,11 @@ style = '5ePHB'
 draft = true
 +++
 
+<style>
+rc { color: Red }
+bc { color: Black }
+</style>
+
 # Quellek Entitilitus
 
 this is the story of Quellek Entitilitus and their exploits in the unexplored lands of Colostle. the Colostle is made of gigantic rooms that contain full ecosystems in them (mountain, oceans, jungles, ...) interconnected by doors, stairs and cracks, with up to scale versions of structures and furnishments commonly expected in common sized castles (beams, braziers, columns disappearing in the clouds).
@@ -23,7 +28,7 @@ ___
 ___
 ***calling***:
 :
-***nature***: <span style="color:red">J &diams;</span> -> sly, strategic and always planning
+***nature***: <rc>J ♦️</rc> -> sly, strategic and always planning
 :
 ***look***:
 ### Items

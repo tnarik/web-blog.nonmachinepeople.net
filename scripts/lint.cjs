@@ -5,47 +5,32 @@ const realFs = require("node:fs");
 const { Volume, createFsFromVolume } = require("memfs");
 const { ufs } = require("unionfs");
 
-// same as in test.js
 const opener = "{{";
 const closer = "}}";
 const placeholder = "`ignored`";
 
-// same as function placeholderForLine from test.js
 function placeholderForLine(line) {
   if (line.trim() === "") return line;
   const indent = (line.match(/^\s*/) || [""])[0];
   return `${indent}${placeholder}`;
 }
 
-// same as sanitizeGoTemplateBlocks from test.js
 function cleanGoTemplate(input) {
   const lines = input.split("\n");
+  let depth = 0;
   let inTemplateBlock = false;
 
   return lines
     .map((line) => {
       const trimmed = line.trim();
 
-      if (inTemplateBlock) {
-        const replaced = placeholderForLine(line);
-        if (trimmed.includes(closer)) inTemplateBlock = false;
-        return replaced;
-      }
+      const num_opens = trimmed.split(opener).length - 1;
+      const num_closes = trimmed.split(closer).length - 1;
+      depth = Math.max(0, depth + num_opens - num_closes);
 
-      if (
-        trimmed.startsWith(opener) &&
-        trimmed.includes(closer) &&
-        trimmed.endsWith(closer)
-      ) {
-
+      if (depth > 0 || num_opens > 0 || num_closes > 0) {
         return placeholderForLine(line);
       }
-
-      if (trimmed.startsWith(opener) && !trimmed.includes(closer)) {
-        inTemplateBlock = true;
-        return placeholderForLine(line);
-      }
-
       return line;
     })
     .join("\n");

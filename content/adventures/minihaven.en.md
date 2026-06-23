@@ -34,6 +34,7 @@ with a bit of an overkill, Mazacote tried to finish off the two closest foes by 
 
 this worked quite well although he ended up with pretty low health. it was rushing and dropping all the hits as fast as possible that worked.
 
+\column
 ### Scenario #4
 
 this is the first scenario skip, with Mazacote’s traits taking the lead, so he just rushes in (no sneaking around for my bruiser).
@@ -56,8 +57,21 @@ a different day and a cooler one at that. had coffee in the patio, chose a diffe
 
 it was a quite fast attempt, and I did better regarding advantages and disadvantages, but ended in a similar fashion as last time: a foe with too much health left and Mazacote with one good hit away from failing. can you guess what happened? exactly that.
 
+\page
 I had to retcon part of one round because I was applying shields from foe’s actions similarly to element infusions (and that is not what the rule says). I might have also moved the enemies in a (to me) intelligent manner, that might go against the rules, by moving into a trap to be able to melee attack.
 
 so, a 15/20 minute game with some learnings and fun. therefore successful even if Mazacote didn’t progress further.
 
 at night, I found the promo scenarios, which I will not play now, but try to print for playing on the next campaign. 2029 perhaps? nah, I’ll try to have a few sessions per week to progress with this one (and other limboed adventures as well).
+
+#### attempt #3
+
+^[2026-06-23, evening]^
+
+it is just too hot (we are in the middle of yet another heatwave), and I've been carrying around the BnB box on many trips since the last time, without finding time to play. lately I've been telling myself that it was a good time to give it another try to this game (after almost 2 years?) and others (I am trying to detox from the PS4). so it was time to read [the rules again](https://cephalofairgames.github.io/bnb-rules), to quickly refresh my knowledge.
+
+I prepared the scenario again, with Mazacote ready to brawl, but this time I paid closer attention to item and card selection. I upgraded to get Immoveable Phalanx, mainly thinking on the retaliate bonus and benefitting from the Run Through infused attack. after a failed go where I mixed the kinds of enemies (so an archer and a bandit played each other roles almost from the beginning), I restarted. it was a rewarding run where I was somewhat lucky and got one of the bandit archers locked in place by running towards them. they were the only enemy that damaged Mazacote on the first round, so narratively also makes sense. this mean that, this time, range attackers didn't move much, and also ended up forming a nice line at some point. also, some initial permanent shields meant Mazacote didn't take much damage early on, enough to provide some survivability and deal some damage, bringing most enemies to the single attack threshold. on this attempt there was only one short rest, with an archer left to go (an improvement compared to the exhaustion finales from previous attempts). at that point, I was still at 5 points and had retaliate 2 up again, while the archer had disadvantage and 2 points of health.
+
+did I follow a better strategy this time? was I just lucky? I am not sure, I played by letting the enemies come to me and trying to keep as far or close from the archers as possible, and disadvantage didn't do that much, but it ensured Mazacote didn't have to worry a lot about moving. perhaps that was the crux this time.
+
+next time, the scenario where I failed many times before. wish me luck.

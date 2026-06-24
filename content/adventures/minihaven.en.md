@@ -3,10 +3,9 @@ title = 'minihaven'
 series = []
 date = 2025-08-25T12:44:21+01:00
 style = '5ePHB'
-draft = true
 +++
 
-# a diminutive report of a tiny adventure in the world of *haven
+# an ongoing diminutive report of a tiny adventure in the world of *haven
 
 ## the past
 
@@ -73,5 +72,7 @@ it is just too hot (we are in the middle of yet another heatwave), and I've been
 I prepared the scenario again, with Mazacote ready to brawl, but this time I paid closer attention to item and card selection. I upgraded to get Immoveable Phalanx, mainly thinking on the retaliate bonus and benefitting from the Run Through infused attack. after a failed go where I mixed the kinds of enemies (so an archer and a bandit played each other roles almost from the beginning), I restarted. it was a rewarding run where I was somewhat lucky and got one of the bandit archers locked in place by running towards them. they were the only enemy that damaged Mazacote on the first round, so narratively also makes sense. this mean that, this time, range attackers didn't move much, and also ended up forming a nice line at some point. also, some initial permanent shields meant Mazacote didn't take much damage early on, enough to provide some survivability and deal some damage, bringing most enemies to the single attack threshold. on this attempt there was only one short rest, with an archer left to go (an improvement compared to the exhaustion finales from previous attempts). at that point, I was still at 5 points and had retaliate 2 up again, while the archer had disadvantage and 2 points of health.
 
 did I follow a better strategy this time? was I just lucky? I am not sure, I played by letting the enemies come to me and trying to keep as far or close from the archers as possible, and disadvantage didn't do that much, but it ensured Mazacote didn't have to worry a lot about moving. perhaps that was the crux this time.
+
+it might have also been due to the advantage/disadvantage official rules being reverted to the 2 rolls on a single row (as before 2024). attemtps #1 and #2 were run using the 2 rolls equals 2 rows, but I don't remember it if had some impact, or what impact was that. in any case, I am happy using the oldest version, which is faster to resolve and less ambiguous.
 
 next time, the scenario where I failed many times before. wish me luck.

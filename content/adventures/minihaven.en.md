@@ -76,3 +76,17 @@ did I follow a better strategy this time? was I just lucky? I am not sure, I pla
 it might have also been due to the advantage/disadvantage official rules being reverted to the 2 rolls on a single row (as before 2024). attemtps #1 and #2 were run using the 2 rolls equals 2 rows, but I don't remember it if had some impact, or what impact was that. in any case, I am happy using the oldest version, which is faster to resolve and less ambiguous.
 
 next time, the scenario where I failed many times before. wish me luck.
+
+### Scenario #5
+
+Mazacote had a flashback when starting this scenario. the plate, the leftovers, the flying King Button, and that horrible beetle. um...
+
+#### attempt #1
+
+I set the scenario last afternoon, before going for a show and coming back for dinner. and I ended playing it today. I chose items that can be activated as long as there are elements infused: Rosethorn Knife, Drop of Clean Water (because of the potential afflictions) and Tanglevine Whip. as card upgrades, I went for Hook and Chain, with the opening strategy of wounding the Beetle early on (as the ranged foes were far and the might not need to come towards Mazacote). I reckon it was that opening (and the fact that the King stood away for most of the opening part) that I managed to succeed. it took roughly 3 rounds to finish the Beetle and then get face to face with the Sorcerer. at that point Mazacote was down to 9 points, and about to run his first short rest. Mazacote managed to get right behind him by jumping and then pushing him into a trap, with Skewer, wounding that foe. some of the wounds Mazacote got in between, were cleared by the Drop of Clean Water. on the next turn, the combination of wounds and a successful attack combined with Quietus (which I kept active as long as possible), meant the Sorcerer went down in 2 attacks, putting Mazacote at 2 points. it help that it rolled a null due to disadvantage.
+
+and then it was the last 2 turns, I wanted to have Leaping Cleave for Mazacote, to be able to use Skewer. when that card was about to get lost in the last possible short rest, I sacrificed one point. chance made it so that I kept Warding Strength. the move was then not to pierce through the shield in one last massive blow, but to hook the King, drop them into a trap and move away, try to survive one more turn. but Mazacote was lucky and got a 2x. 8 points of damage, minus 3 of shield, Button was left with one point, and the trap did the rest.
+
+I was so happy with this, it work nicely in the end, with that one point left. I was not expecting to complete it at this time, but it looks like I took the correct decisions (and had some luck, not loosing too many turns). perhaps I didn't play one card at all before my first short rest, as I was trying to keep Air infused at all times, but other than that... not much resource waste.
+
+now I am running a quick forensic check, to verify that I didn't misinterpret any rules. it that is not the case, then it is time to move forward into unknown territory: Scenario #6.

@@ -89,4 +89,8 @@ and then it was the last 2 turns, I wanted to have Leaping Cleave for Mazacote, 
 
 I was so happy with this, it work nicely in the end, with that one point left. I was not expecting to complete it at this time, but it looks like I took the correct decisions (and had some luck, not loosing too many turns). perhaps I didn't play one card at all before my first short rest, as I was trying to keep Air infused at all times, but other than that... not much resource waste.
 
-now I am running a quick forensic check, to verify that I didn't misinterpret any rules. it that is not the case, then it is time to move forward into unknown territory: Scenario #6.
+now I am running a quick forensic check, to verify that I didn't misinterpret any rules. if that is not the case, then it is time to move forward into unknown territory: Scenario #6.
+
+^[2026-07-06]^
+
+I did it almost immediately and spotted by errors, but didn't get to write until now. a few hours after finishing the scenario, I realised that Buttons flies, and therefore wouldn't have fallen on the trap. I played the scenario from the point where I thought I had won. both Button and Mazacote were one point, and it was Button's time to attack, which was successful and finish the scenario. in other words, time for one more attempt.

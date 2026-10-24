@@ -39,12 +39,12 @@ pese a esas intenciones, dejándome llevar por la inercia, acabé cogiendo dos a
 28. 5 minutos más: no sabía que esperar (pese a que la premisa de bucles en el tiempo me llama), y resultó ser una película muy recomendable.
 29. Carne apaleada: Barbara Rey y Esperanza Roy.
 30. X, the man with the x-rays eyes (*the man with x-rays in his eyes*, recordaba yo como subtítulo)
-31. La muerte de Drácula
-32. Los Vampires: una razón para ver las dos versiones de Drácula de 1931.
+31. La muerte de Drácula: me dormí bastante así que tal vez no sea la mejor persona para juzgar, pero no me llamó demasiado.
+32. Los Vampires: una razón para ver las dos versiones de Drácula de 1931. presupuesto reducido pero un set que daba mucho de si.
 33. Full Phil: el artefacto menos loco Dupieux
 34. Le Vertige: el artefacto más loco de Dupieux. 
 35. Rogue Trooper
-36. Hen: you say South Africa farm massacre, I say post-apocalypse.
+36. Hen: *you say South Africa farm massacre, I say post-apocalypse*.
 37. Mutter
 38. The Fox: aunque la zorra se vista de seda, zorra se queda. o ten cuidado con lo que deseas.
 39. The Face of Horror: cine de la Hammer pero a día de hoy.
@@ -53,10 +53,11 @@ pese a esas intenciones, dejándome llevar por la inercia, acabé cogiendo dos a
 42. The Spiral (aunque el título original en italiano es algo así como "una extraña", creo recordar): película italiana candidata a los Oscars y que a la gente le gustó mucho, aunque es muy simplona (IMHO).
 43. Hope: alien invasion, intensa, tópica (sea o no como caricatura) y con unas persecusiones fantásticas. falta una segunda parte, obviamente.
 44. We Are Aliens: animación para adultos, en una historia sobre percepción y consecuencias.
-45. la película griego/turca de la madre bruja.
+45. Nightborn: la película griego/turca de la madre bruja y los niños fantasma.
 46. la película que sucede en Los Angeles durante la pandemia, con el gato perdido, con la cueva.
-47. la película... polaca? con Noomi Rapace. Dry algo o Wet algo...
+47. la película... polaca? con Noomi Rapace como Bruja Avería. Dry algo o Wet algo... la bruja 
 48. la película japonesa sobre aquello que da más miedo, el agua.
+
 
 
 

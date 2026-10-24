@@ -1,5 +1,5 @@
 +++
-title = 'Sitges 2026, un infome'
+title = 'Sitges 2026, un informe'
 date = 2026-10-24T16:21:08+02:00
 +++
 

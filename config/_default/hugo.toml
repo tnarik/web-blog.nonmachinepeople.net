@@ -1,5 +1,5 @@
 baseURL = 'https://www.nonmachinepeople.net/'
-languageCode = 'en-gb'
+locale = 'en-gb'
 title = 'non-machine people'
 buildDrafts = true
 enableGitInfo = true
@@ -21,16 +21,16 @@ disable = false
 [languages]
 [languages.en]
 disabled = false
-languageCode = 'en-GB'
-languageDirection = 'ltr'
-languageName = 'English'
+locale = 'en-GB'
+direction = 'ltr'
+label = 'English'
 # title = ''
 weight = 0
 [languages.es]
 disabled = false
-languageCode = 'es-ES'
-languageDirection = 'ltr'
-languageName = 'Spanish'
+locale = 'es-ES'
+direction = 'ltr'
+label = 'Spanish'
 # title = ''
 weight = 1
 

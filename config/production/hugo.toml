@@ -1,5 +1,5 @@
 baseURL = 'https://www.nonmachinepeople.net/'
-languageCode = 'en-gb'
+locale = 'en-gb'
 title = 'non-machine people'
 buildDrafts = false
 enableGitInfo = true

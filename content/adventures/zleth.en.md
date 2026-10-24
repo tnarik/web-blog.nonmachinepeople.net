@@ -137,6 +137,11 @@ a voice startles me, it is Rija at the cave mouth, asking me if I found somethin
 
 ::
 ^[that is where I took a break, back in September 2024]^
+::
+^[somehow continuing back in October 2026]^
+::
+^p153^ we stay, and take a look at the map, helped by some faint light from the glowing crystals Rija puts on top. there is this empty area in the map which Z'ka hints is intentionally left so to protect the "under below". I suspect that means this area is hollow, or have a cave system. the mountain we are in, for instance, doesn't appear in the map. the crystals are some kind of energy source, which were used to power the Z'lethan civilisation, says Rija. she stows away the crystals on her belt, recommending us to gather them if found. it seems to me there is more information she would be willing to share, or wants to ask... but she doesn't. we settle for the night.
+
 
 {{wide}}
 {{wide}}

@@ -53,12 +53,13 @@ pese a esas intenciones, dejándome llevar por la inercia, acabé cogiendo dos a
 42. The Spiral (aunque el título original en italiano es algo así como "una extraña", creo recordar): película italiana candidata a los Oscars y que a la gente le gustó mucho, aunque es muy simplona (IMHO).
 43. Hope: alien invasion, intensa, tópica (sea o no como caricatura) y con unas persecusiones fantásticas. falta una segunda parte, obviamente.
 44. We Are Aliens: animación para adultos, en una historia sobre percepción y consecuencias.
-45. Nightborn: la película griego/turca de la madre bruja y los niños fantasma.
-46. la película que sucede en Los Angeles durante la pandemia, con el gato perdido, con la cueva.
-47. la película... polaca? con Noomi Rapace como Bruja Avería. Dry algo o Wet algo... la bruja 
-48. la película japonesa sobre aquello que da más miedo, el agua.
-
-
+45. Those who grieve: la película griego/turca de la madre bruja y los niños fantasma.
+46. Nightborn: el bosque finés, Rupert Grint y los hijos del bosque.
+47. Tokyo Burst (Roundup): cabezazos de tortazos, pero el mismo tipo de película.
+48. la película japonesa de la niña secuestrada (o el niño), la amnesia y el judo. tal vez sea esta "Those who grieve".
+49. la película que sucede en Los Angeles durante la pandemia, con el gato perdido, con la cueva.
+50. Hot Spot: película polaca/checa? con Noomi Rapace como Bruja Avería. ~~Dry algo o Wet algo~~ parece que no tuvo mucho éxito, pero es una película decente, tal vez con un deje de cyberpunk de libro que no es lo que esperaba la gente. y una forma razonable de utilizar un aeropuerto para rodarla entera. 
+51. la película japonesa sobre aquello que da más miedo, el agua.
 
 
 al final de cada día conseguí mantener el orden de lo visto en el día, pero la cantidad hace que se mezclen y se pierdan en el tiempo, pese a que seguiré intentando completar esta lista poco a poco, según recuerde más.

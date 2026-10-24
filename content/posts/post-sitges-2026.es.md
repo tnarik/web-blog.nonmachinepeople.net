@@ -9,32 +9,32 @@ pese a esas intenciones, dejándome llevar por la inercia, acabé cogiendo dos a
 
 ¿cuántas películas vi en total? ¿cuáles son las que recuerdo ahora, casi una semana tras mi vuelta? veamos:
 
-1. Her Private Hell: empezando  el festival fuerte con una de NRW. 
-2. River
+1. Her Private Hell: empezando el festival fuerte con una de NRW. 
+2. River: slasher que por alguna razón se llevó el premio a la mejor música.
 3. Red Snow
-4. Found Alive
-5. Boiuna
-6. The Glorious Dead
-7. Victorian Psycho
+4. Found Alive: una película en la que participó Ingrid y que empieza y acaba tremendamente bien, sin perder fuelle.
+5. Boiuna: tras haber visto Hungry en casa, me resultó un poco más de lo mismo. entretenida, sin que  me mate.
+6. The Glorious Dead: la película de la familia Adams de este año. horror cósmico y el terror del prolapso anal.
+7. Victorian Psycho: un sueño de película, muy correcta e idea para verla a primera hora. "pero le hace falta una segunda parte", decía alguien del público. nunca compartiré esa necesidad de que las "historias acaben".
 8. Dreamquil
 9. Video~~phrenia~~philias y otros desórdenes virales
 10. Sacrifice
 11. Wicker: una fábula sobre cómo nos salva el amor (a nosotros mismos). y cuán terribles son las personas soberbias y arrogantes.
-12. An arrow at flight in every moment of time
+12. An arrow at flight in every moment of time: NYC, jazz, blanco y negro, una película para repetir.
 13. **Sour Minnows**
 14. Split Rock
-15. Bad Lieutenant: Tokyo : Takeshi Miike
+15. Bad Lieutenant: Tokyo: Takeshi Miike
 16. Blades of the Guardians
 17. The Cycle: primera película de mi maratón de este año (y la única que realmente quería ver), así que el destino quiso que me durmiera un 80%. por fortuna ya está disponible en streaming.
 18. Half: vampiros de tebeo y de Bollywood.
 19. Hallowarrior: la niña enamorada de Halloween que se cree la última persona con vida del mundo
 20. Bloody Tennis
 21. Raincatcher: la última película del festival para mi. una prevuelta a casa, con el 70-80% de las escenas rodadas en Barbican.
-22. Company
+22. Company: Casey Affleck y una historia evidentemente de vampiros (desde el principio) que se despliega y se comprime.
 23. Colony: el Train to Busan del año
-24. A prayer for the Dying
+24. A prayer for the Dying: post-western y el horror de ser humano y lo incomprensible. 
 25. ~~Yi~~ Zi: Kogonada con una de las películas más bonitas y más mejores de todo el festival.
-26. Sanguine
+26. Sanguine: para mi gusto le sobra la coda sobre lo laboral, que leo como una necesidad de escapar del género con un guiño cómico.
 27. Drag: una película divertidísima. gran éxito en el Auditori.
 28. 5 minutos más: no sabía que esperar (pese a que la premisa de bucles en el tiempo me llama), y resultó ser una película muy recomendable.
 29. Carne apaleada: Barbara Rey y Esperanza Roy.
@@ -44,14 +44,14 @@ pese a esas intenciones, dejándome llevar por la inercia, acabé cogiendo dos a
 33. Full Phil: el artefacto menos loco Dupieux
 34. Le Vertige: el artefacto más loco de Dupieux. 
 35. Rogue Trooper
-36. Hen
+36. Hen: you say South Africa farm massacre, I say post-apocalypse.
 37. Mutter
-38. The Fox
-39. The Face of Horror
+38. The Fox: aunque la zorra se vista de seda, zorra se queda. o ten cuidado con lo que deseas.
+39. The Face of Horror: cine de la Hammer pero a día de hoy.
 40. Las dos sesiones de cortos de **Noves Visions**: con mejores o peores cortos cuyo nombres no conseguiré recordar, pero que incluyen Bark, Snakes in a Lace, etc.
 41. Family Movie: una película producida por una familia de verdad (Kevin Bacon, Kyra Sedgwick & children), sobre películas familiares, y con b-roll de videos familiares de verdad. cruda y divertida, sin subterfugios.
 42. The Spiral (aunque el título original en italiano es algo así como "una extraña", creo recordar): película italiana candidata a los Oscars y que a la gente le gustó mucho, aunque es muy simplona (IMHO).
-43. Hope: alien invasion, intensa, tópica (sea o no como caricatura) y con unas persecusiones fantásticas.
+43. Hope: alien invasion, intensa, tópica (sea o no como caricatura) y con unas persecusiones fantásticas. falta una segunda parte, obviamente.
 44. We Are Aliens: animación para adultos, en una historia sobre percepción y consecuencias.
 45. la película griego/turca de la madre bruja.
 46. la película que sucede en Los Angeles durante la pandemia, con el gato perdido, con la cueva.

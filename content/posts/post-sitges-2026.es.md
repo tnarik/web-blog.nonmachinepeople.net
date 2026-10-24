@@ -19,28 +19,28 @@ pese a esas intenciones, dejándome llevar por la inercia, acabé cogiendo dos a
 8. Dreamquil
 9. Video~~phrenia~~philias y otros desórdenes virales
 10. Sacrifice
-11. Wicker
+11. Wicker: una fábula sobre cómo nos salva el amor (a nosotros mismos). y cuán terribles son las personas soberbias y arrogantes.
 12. An arrow at flight in every moment of time
 13. **Sour Minnows**
 14. Split Rock
 15. Bad Lieutenant: Tokyo : Takeshi Miike
 16. Blades of the Guardians
 17. The Cycle: primera película de mi maratón de este año (y la única que realmente quería ver), así que el destino quiso que me durmiera un 80%. por fortuna ya está disponible en streaming.
-18. Half
+18. Half: vampiros de tebeo y de Bollywood.
 19. Hallowarrior: la niña enamorada de Halloween que se cree la última persona con vida del mundo
 20. Bloody Tennis
 21. Raincatcher: la última película del festival para mi. una prevuelta a casa, con el 70-80% de las escenas rodadas en Barbican.
 22. Company
-23. Colony
+23. Colony: el Train to Busan del año
 24. A prayer for the Dying
 25. ~~Yi~~ Zi: Kogonada con una de las películas más bonitas y más mejores de todo el festival.
 26. Sanguine
-27. Drag
-28. 5 minutos más
-29. Carne apaleada
+27. Drag: una película divertidísima. gran éxito en el Auditori.
+28. 5 minutos más: no sabía que esperar (pese a que la premisa de bucles en el tiempo me llama), y resultó ser una película muy recomendable.
+29. Carne apaleada: Barbara Rey y Esperanza Roy.
 30. X, the man with the x-rays eyes (*the man with x-rays in his eyes*, recordaba yo como subtítulo)
 31. La muerte de Drácula
-32. Los Vampires
+32. Los Vampires: una razón para ver las dos versiones de Drácula de 1931.
 33. Full Phil: el artefacto menos loco Dupieux
 34. Le Vertige: el artefacto más loco de Dupieux. 
 35. Rogue Trooper
@@ -49,7 +49,14 @@ pese a esas intenciones, dejándome llevar por la inercia, acabé cogiendo dos a
 38. The Fox
 39. The Face of Horror
 40. Las dos sesiones de cortos de **Noves Visions**: con mejores o peores cortos cuyo nombres no conseguiré recordar, pero que incluyen Bark, Snakes in a Lace, etc.
-41. 
+41. Family Movie: una película producida por una familia de verdad (Kevin Bacon, Kyra Sedgwick & children), sobre películas familiares, y con b-roll de videos familiares de verdad. cruda y divertida, sin subterfugios.
+42. The Spiral (aunque el título original en italiano es algo así como "una extraña", creo recordar): película italiana candidata a los Oscars y que a la gente le gustó mucho, aunque es muy simplona (IMHO).
+43. Hope: alien invasion, intensa, tópica (sea o no como caricatura) y con unas persecusiones fantásticas.
+44. We Are Aliens: animación para adultos, en una historia sobre percepción y consecuencias.
+45. la película griego/turca de la madre bruja.
+46. la película que sucede en Los Angeles durante la pandemia, con el gato perdido, con la cueva.
+47. la película... polaca? con Noomi Rapace. Dry algo o Wet algo...
+48. la película japonesa sobre aquello que da más miedo, el agua.
 
 
 

@@ -69,3 +69,6 @@ What I found out is that MarkdownIt plugins are not useful because the current r
 
 * inject a fileContent override, that lazily changes the content, supressing the Go Template lines (it could also be made into a static fileContent generation to override)
 * a most straightforward replacement as files, but using a virtual filesystem. I was trying to get it working from the CLI (via piping or some CLI wrapping), but ended up needing to create a proper javascript wrapper.
+
+
+Ensure the node version on `.nvmrc` is installed (`nvm install <the version>`)
